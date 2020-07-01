@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44" height="44" version="1.1" viewBox="0 0 11.64 11.64" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="up-arrow" transform="translate(-11.642 -254.94)">
+  <rect transform="matrix(0,1,1,0,0,0)" x="254.93" y="15.61" width="3.704" height="3.704" fill="none"/>
+  <path d="m17.462 256.25-1.0583 1.0583h2.1167l-1.0583-1.0583z" fill="#fff"/>
+ </g>
+ <g id="down-arrow" transform="matrix(1 0 0 -1 -11.642 266.57)">
+  <rect transform="matrix(0,1,1,0,0,0)" x="254.93" y="15.61" width="3.704" height="3.704" fill="none"/>
+  <path d="m17.462 256.25-1.0583 1.0583h2.1167l-1.0583-1.0583z" fill="#fff"/>
+ </g>
+ <g id="right-arrow" transform="rotate(90 139.11 127.46)">
+  <rect transform="matrix(0,1,1,0,0,0)" x="254.93" y="15.61" width="3.704" height="3.704" fill="none"/>
+  <path d="m17.462 256.25-1.0583 1.0583h2.1167l-1.0583-1.0583z" fill="#fff"/>
+ </g>
+ <g id="left-arrow" transform="matrix(0 1 1 0 -254.93 -11.65)">
+  <rect transform="matrix(0,1,1,0,0,0)" x="254.93" y="15.61" width="3.704" height="3.704" fill="none"/>
+  <path d="m17.462 256.25-1.0583 1.0583h2.1167l-1.0583-1.0583z" fill="#fff"/>
+ </g>
+</svg>

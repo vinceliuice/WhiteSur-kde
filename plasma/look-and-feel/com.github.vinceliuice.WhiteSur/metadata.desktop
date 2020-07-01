@@ -1,0 +1,16 @@
+[Desktop Entry]
+Name=WhiteSur
+Comment=Macos Big Sur theme for kde plasma
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-Author=Vince Liuice
+X-KDE-PluginInfo-Email=vinceliuice@hotmail.com
+X-KDE-PluginInfo-License=GPL3.0
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Name=com.github.vinceliuice.WhiteSur
+X-KDE-PluginInfo-Website=https://github.com/vinceliuice/WhiteSur-kde
+X-KDE-fallbackPackage=org.kde.breeze.desktop
+
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1305007,kns://plasma-themes.knsrc/api.kde-look.org/1305006,kns://aurorae.knsrc/api.kde-look.org/1305005,kns://icons.knsrc/api.kde-look.org/1305429,kns://wallpaper.knsrc/api.kde-look.org/1383421,kns://sddmtheme.knsrc/api.kde-look.org/1312086,kns://xcursor.knsrc/api.kde-look.org/1355701
