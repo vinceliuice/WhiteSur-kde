@@ -29,6 +29,6 @@ GNU GPL v3
 
 ## preview
 
-![theme](../master/plasma/look-and-feel/com.github.vinceliuice.WhiteSur/contents/previews/fullscreenpreview.jpg)
+![theme](preview.png)
 
 

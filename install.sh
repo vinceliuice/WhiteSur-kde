@@ -31,12 +31,14 @@ THEME_NAME=WhiteSur
 [[ ! -d ${WALLPAPER_DIR} ]] && mkdir -p ${WALLPAPER_DIR}
 
 install() {
+  local name=${1}
+
   cp -r ${SRC_DIR}/aurorae/*                                                         ${AURORAE_DIR}
   cp -r ${SRC_DIR}/Kvantum/*                                                         ${KVANTUM_DIR}
-  cp -r ${SRC_DIR}/color-schemes/*                                                         ${SCHEMES_DIR}
+  cp -r ${SRC_DIR}/color-schemes/*                                                   ${SCHEMES_DIR}
   cp -r ${SRC_DIR}/plasma/desktoptheme/*                                             ${PLASMA_DIR}
   cp -r ${SRC_DIR}/plasma/look-and-feel/*                                            ${LOOKFEEL_DIR}
-  cp -r ${SRC_DIR}/wallpaper/*                                                       ${WALLPAPER_DIR}
+  cp -r ${SRC_DIR}/wallpaper/${name}                                                 ${WALLPAPER_DIR}
 }
 
 echo "Installing 'WhiteSur kde themes'..."
