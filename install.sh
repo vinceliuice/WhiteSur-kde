@@ -33,6 +33,7 @@ THEME_NAME=WhiteSur
 install() {
   cp -r ${SRC_DIR}/aurorae/*                                                         ${AURORAE_DIR}
   cp -r ${SRC_DIR}/Kvantum/*                                                         ${KVANTUM_DIR}
+  cp -r ${SRC_DIR}/color-schemes/*                                                         ${SCHEMES_DIR}
   cp -r ${SRC_DIR}/plasma/desktoptheme/*                                             ${PLASMA_DIR}
   cp -r ${SRC_DIR}/plasma/look-and-feel/*                                            ${LOOKFEEL_DIR}
   cp -r ${SRC_DIR}/wallpaper/*                                                       ${WALLPAPER_DIR}

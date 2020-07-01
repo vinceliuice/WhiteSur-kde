@@ -28,12 +28,14 @@ uninstall() {
 
   local AURORAE_THEME="${AURORAE_DIR}/${name}"
   local PLASMA_THEME="${PLASMA_DIR}/${name}"
-  local KVANTUM_THEME="${KVANTUM_DIR}/${name}}"
+  local SCHEMES_THEME="${SCHEMES_DIR}/${name}.colors"
+  local KVANTUM_THEME="${KVANTUM_DIR}/${name}"
   local LOOKFEEL_THEME="${LOOKFEEL_DIR}/com.github.vinceliuice.${name}"
   local WALLPAPER_THEME="${WALLPAPER_DIR}/${name}"
 
   [[ -d ${AURORAE_THEME} ]] && rm -rfv ${AURORAE_THEME}
   [[ -d ${PLASMA_THEME} ]] && rm -rfv ${PLASMA_THEME}
+  [[ -f ${SCHEMES_THEME} ]] && rm -rfv ${SCHEMES_THEME}
   [[ -d ${LOOKFEEL_THEME} ]] && rm -rfv ${LOOKFEEL_THEME}
   [[ -d ${KVANTUM_THEME} ]] && rm -rfv ${KVANTUM_THEME}
   [[ -d ${WALLPAPER_THEME} ]] && rm -rfv ${WALLPAPER_THEME}
