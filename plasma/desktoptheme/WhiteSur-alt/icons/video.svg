@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg">
+  <metadata
+     id="metadata54">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3">
+    <style
+       type="text/css"
+       id="current-color-scheme">.ColorScheme-Text { color:#363636; }</style>
+  </defs>
+  <g
+     fill="currentColor"
+     class="ColorScheme-Text"
+     id="22-22-video-display-brightness">
+    <rect
+       id="rect5"
+       opacity="0"
+       height="22"
+       width="22"
+       y="1.7631e-5"
+       x="9.1292e-7" />
+    <g
+       id="g21"
+       transform="translate(-2.5 .35108)">
+      <path
+         id="path7"
+         d="m4.5 2.6489c-0.554 0-1 0.446-1 1v10h20v-10c0-0.554-0.446-1-1-1zm0 1h18v9h-18z" />
+      <circle
+         id="circle9"
+         opacity=".2"
+         r=".33333"
+         cy="14.659"
+         cx="13.5" />
+      <rect
+         id="rect11"
+         opacity=".844"
+         height="1"
+         width="8"
+         y="18.649"
+         x="9.5" />
+      <path
+         id="path13"
+         opacity=".3"
+         d="m11.5 16.649v1c1.6e-4 0.92464-1.4039 0.88819-2 1h8c-0.59608-0.11181-2.0002-0.0754-2-1v-1h1e-5z" />
+      <rect
+         id="rect15"
+         opacity=".3"
+         height="1"
+         width="4"
+         y="16.649"
+         x="11.5" />
+      <path
+         id="path17"
+         opacity=".9"
+         d="m4.5 2.6489c-0.554 0-1 0.446-1 1v12c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v-12c0-0.554-0.446-1-1-1zm0 1h18v12h-18z" />
+      <rect
+         id="rect19"
+         opacity=".25"
+         height="9"
+         width="18"
+         y="3.6489"
+         x="4.5" />
+    </g>
+    <path
+       id="path23"
+       d="m11 5c-1.933 0-3.5 1.567-3.5 3.5 0 1.933 1.567 3.5 3.5 3.5 1.933 0 3.5-1.567 3.5-3.5 0-1.933-1.567-3.5-3.5-3.5zm0 1v5c-1.3807 0-2.5-1.1193-2.5-2.5 0-1.3807 1.1193-2.5 2.5-2.5z" />
+  </g>
+  <g
+     fill="currentColor"
+     class="ColorScheme-Text"
+     id="video-display-brightness">
+    <rect
+       id="rect26"
+       opacity="0"
+       height="32"
+       width="32"
+       y="-35"
+       x="-8.252e-7" />
+    <g
+       id="g42"
+       stroke-width=".5"
+       transform="matrix(2,0,0,2,-884,-386)">
+      <path
+         id="path28"
+         d="m1 0c-0.554 0-1 0.446-1 1v9h16v-9c0-0.554-0.446-1-1-1zm0 1h14v8h-14z"
+         transform="translate(442,176)" />
+      <circle
+         id="circle30"
+         opacity=".2"
+         r=".33333"
+         cy="186.51"
+         cx="450" />
+      <rect
+         id="rect32"
+         opacity=".844"
+         height="1"
+         width="8"
+         y="190"
+         x="446" />
+      <path
+         id="path34"
+         opacity=".3"
+         d="m448 188v1c1.6e-4 0.92464-1.4039 0.88819-2 1h8c-0.59608-0.11181-2.0002-0.0754-2-1v-1h1e-5z" />
+      <rect
+         id="rect36"
+         opacity=".3"
+         height="1"
+         width="4"
+         y="188"
+         x="448" />
+      <path
+         id="path38"
+         opacity=".9"
+         d="m1 0c-0.554 0-1 0.446-1 1v10c0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1v-10c0-0.554-0.446-1-1-1zm0 1h14v10h-14z"
+         transform="translate(442,176)" />
+      <rect
+         id="rect40"
+         opacity=".25"
+         height="8"
+         width="14"
+         y="177"
+         x="443" />
+    </g>
+    <g
+       id="g48"
+       transform="matrix(.39547 0 0 .39547 10.442 -545.51)">
+      <path
+         id="path44"
+         fill-opacity=".5"
+         d="m24.075 1315.6a10.023 10.023 0 1 1-19.065 6.1945 10.023 10.023 0 1 1 19.065-6.1945z" />
+      <path
+         id="path46"
+         d="m14 1311.1c4.1656 0 7.527 3.3769 7.527 7.5425s-3.3614 7.5425-7.527 7.5425v-7.5425zm-4.8527-7.5793 0.5625 5.1875c-1.4652 0.6356-2.7334 1.5855-3.75 2.7188l-4.7813-2.125 3.5 3.9062c-0.7932 1.3525-1.3128 2.8566-1.4687 4.4375l-5.0938 1.0938 5.125 1.0937c0.079 0.7385 0.2303 1.4849 0.4688 2.2188 0.2392 0.7362 0.5341 1.4484 0.9062 2.0937l-3.5 3.9063 4.7813-2.125c1.0342 1.1622 2.317 2.0609 3.7187 2.6875l-0.5625 5.25 2.6563-4.5625c1.4917 0.3324 3.0591 0.3693 4.625 0.031l2.625 4.5-0.5313-5.1875c1.4343-0.6331 2.6868-1.5435 3.6875-2.6563l4.8438 2.125-3.5313-3.9375c0.7678-1.3185 1.2413-2.8078 1.4063-4.3437l5.1562-1.0938-5.125-1.125c-0.076-0.7593-0.2235-1.5264-0.4687-2.2812-0.2468-0.7595-0.5808-1.4624-0.9688-2.125l3.5-3.9063-4.8125 2.125c-1.0405-1.1499-2.3159-2.0409-3.7187-2.6562l0.5625-5.25-2.625 4.5625c-1.4665-0.3187-3.0254-0.3586-4.5625-0.031zm4.7812 6c3.9111-0.053 7.57 2.4233 8.8438 6.3438 1.5678 4.8251-1.0811 9.9947-5.9063 11.562-4.8251 1.5678-9.9634-1.0811-11.531-5.9063-1.5678-4.8251 1.0498-9.9634 5.875-11.531 0.9047-0.294 1.8162-0.4566 2.7187-0.4688z" />
+    </g>
+  </g>
+</svg>

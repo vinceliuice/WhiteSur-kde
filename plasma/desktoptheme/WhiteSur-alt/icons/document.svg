@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="54"
+   width="54"
+   version="1.1"
+   id="svg"
+   viewBox="0 0 54 54"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="document.svgz">
+  <sodipodi:namedview
+     pagecolor="#363636"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1912"
+     inkscape:window-height="955"
+     id="namedview20"
+     showgrid="false"
+     inkscape:zoom="4.3703704"
+     inkscape:cx="27"
+     inkscape:cy="27"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg" />
+  <metadata
+     id="metadata23">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs81">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-NegativeText {
+        color:#da4453;
+      }
+  </style>
+  </defs>
+  <g
+     transform="translate(22,0)"
+     id="document-decrypt">
+    <rect
+       id="rect6"
+       y="1.9496329e-13"
+       x="5.0495145e-15"
+       height="22"
+       width="22"
+       style="opacity:1;fill:none" />
+    <path
+       id="path8"
+       d="M 11,3 C 8.784,3 7,4.784 7,7 L 7,8 8,8 8,7.5 C 7.999985,5.561 9.338,4 11,4 c 1.662,0 3,1.561 3,3.5 l 0,3.5 -2,0 -4,0 -1,0 -2,0 0,2 0,6 1,0 10,0 1,0 0,-8 -1,0 -1,0 0,-4 C 15,4.784 13.216,3 11,3 Z"
+       style="opacity:1;fill:currentColor"
+       class="ColorScheme-Text" />
+  </g>
+  <g
+     id="document-encrypt">
+    <rect
+       id="rect11"
+       width="22"
+       height="22"
+       x="5.0495145e-15"
+       y="1.9496329e-13"
+       style="opacity:1;fill:none" />
+    <path
+       id="path13"
+       transform="translate(0,-54)"
+       d="m 11,57 c -2.216,0 -4,1.784 -4,4 l 0,4 -2,0 0,2 0,6 1,0 10,0 1,0 0,-8 -1,0 -1,0 0,-4 c 0,-2.216 -1.784,-4 -4,-4 z m 0,1 c 1.662,0 3,1.561 3,3.5 l 0,3.5 -1.337891,0 -0.02344,0 L 8,65 8,61.5 C 8,59.561 9.338,58 11,58 Z"
+       style="opacity:1;fill:currentColor"
+       class="ColorScheme-Text" />
+  </g>
+  <g
+     transform="translate(0,32)"
+     id="g8125">
+    <rect
+       class="ColorScheme-Text"
+       y="0"
+       x="0"
+       height="22"
+       width="22"
+       id="rect3802"
+       style="opacity:1;fill:none" />
+  </g>
+  <g
+     transform="translate(27,27)"
+     id="document-open-recent">
+    <path
+       id="path14"
+       d="m 0,-3 0,28 10,0 0,-1 -9,0 0,-26 20,0 0,15 1,0 0,-16 -22,0 z m 16,16 a 6,6 0 0 0 -6,6 6,6 0 0 0 6,6 6,6 0 0 0 6,-6 6,6 0 0 0 -6,-6 z m 0,1 a 5,5 0 0 1 5,5 5,5 0 0 1 -5,5 5,5 0 0 1 -5,-5 5,5 0 0 1 5,-5 z m -1,1 0,5 1,0 3,0 0,-1 -3,0 0,-4 -1,0 z"
+       style="opacity:1;fill:currentColor"
+       class="ColorScheme-Text" />
+    <rect
+       id="rect23"
+       width="32"
+       height="32"
+       x="-5"
+       y="-5"
+       style="opacity:1;fill:none" />
+  </g>
+  <g
+     transform="matrix(0.6875,0,0,0.6875,3.4375,35.4375)"
+     id="22-22-document-open-recent">
+    <rect
+       id="rect23-7"
+       width="32"
+       height="32"
+       x="-5"
+       y="-5"
+       style="opacity:1;fill:none" />
+    <path
+       id="path19"
+       d="m 0.81818182,-0.63636364 0,23.27272764 1.45454548,0 7.2727272,0 0,-1.454546 -7.2727272,0 0,-20.36363564 17.4545457,0 0,10.18181764 1.454545,0 0,-11.63636364 -1.454545,0 -17.4545457,0 -1.45454548,0 z M 15.363636,11 c -3.223265,0 -5.8181815,2.594916 -5.8181815,5.818182 0,3.223265 2.5949165,5.818182 5.8181815,5.818182 3.223266,0 5.818182,-2.594917 5.818182,-5.818182 C 21.181818,13.594916 18.586902,11 15.363636,11 Z m 0,1.454546 c 2.417448,0 4.363637,1.946189 4.363637,4.363636 0,2.417447 -1.946189,4.363636 -4.363637,4.363636 C 12.946189,21.181818 11,19.235629 11,16.818182 c 0,-2.417447 1.946189,-4.363636 4.363636,-4.363636 z m -1.454545,1.454545 0,2.909091 0,1.454545 1.454545,0 1.454546,0 0,-1.454545 -1.454546,0 0,-2.909091 -1.454545,0 z"
+       style="opacity:1;fill:currentColor"
+       class="ColorScheme-Text" />
+  </g>
+</svg>

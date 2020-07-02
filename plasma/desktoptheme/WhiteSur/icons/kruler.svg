@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 22 22"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="kruler.svgz">
+  <sodipodi:namedview
+     pagecolor="#363636"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1024"
+     inkscape:window-height="713"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="10.727273"
+     inkscape:cx="8.0635593"
+     inkscape:cy="11"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3051">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#4d4d4d;
+      }
+      </style>
+  </defs>
+  <g
+     transform="translate(-326,-534.3622)"
+     id="kruler">
+    <rect
+       y="534.36218"
+       x="326"
+       height="22"
+       width="22"
+       id="rect4165"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path6"
+       class="ColorScheme-Text"
+       d="m 328,538.3622 0,2 0,12 1,0 17,0 0,-1 -17,0 0,-11 17,0 0,-2 -18,0 z m 2,3 0,3 1,0 0,-3 -1,0 z m 2,0 0,3 1,0 0,-3 -1,0 z m 2,0 0,6 1,0 0,-6 -1,0 z m 2,0 0,3 1,0 0,-3 -1,0 z m 2,0 0,3 1,0 0,-3 -1,0 z m 2,0 0,6 1,0 0,-6 -1,0 z m 2,0 0,3 1,0 0,-3 -1,0 z m 2,0 0,3 1,0 0,-3 -1,0 z"
+       style="color:#31363b;fill:currentColor;fill-opacity:1;stroke:none" />
+  </g>
+</svg>

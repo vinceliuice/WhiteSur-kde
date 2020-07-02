@@ -22,6 +22,7 @@ fi
 SRC_DIR=$(cd $(dirname $0) && pwd)
 
 THEME_NAME=WhiteSur
+LATTE_DIR="$HOME/.config/latte"
 
 uninstall() {
   local name=${1}
@@ -32,13 +33,16 @@ uninstall() {
   local KVANTUM_THEME="${KVANTUM_DIR}/${name}"
   local LOOKFEEL_THEME="${LOOKFEEL_DIR}/com.github.vinceliuice.${name}"
   local WALLPAPER_THEME="${WALLPAPER_DIR}/${name}"
+  local LATTE_LAYOUT="${LATTE_DIR}/${name}.layout.latte"
 
   [[ -d ${AURORAE_THEME} ]] && rm -rfv ${AURORAE_THEME}
   [[ -d ${PLASMA_THEME} ]] && rm -rfv ${PLASMA_THEME}
+  [[ -d ${PLASMA_THEME}-alt ]] && rm -rfv ${PLASMA_THEME}-alt
   [[ -f ${SCHEMES_THEME} ]] && rm -rfv ${SCHEMES_THEME}
   [[ -d ${LOOKFEEL_THEME} ]] && rm -rfv ${LOOKFEEL_THEME}
   [[ -d ${KVANTUM_THEME} ]] && rm -rfv ${KVANTUM_THEME}
   [[ -d ${WALLPAPER_THEME} ]] && rm -rfv ${WALLPAPER_THEME}
+  [[ -f ${LATTE_LAYOUT} ]] && rm -rfv ${LATTE_LAYOUT}
 }
 
 echo "Uninstalling '${THEME_NAME} kde themes'..."

@@ -22,6 +22,7 @@ fi
 SRC_DIR=$(cd $(dirname $0) && pwd)
 
 THEME_NAME=WhiteSur
+LATTE_DIR="$HOME/.config/latte"
 
 [[ ! -d ${AURORAE_DIR} ]] && mkdir -p ${AURORAE_DIR}
 [[ ! -d ${SCHEMES_DIR} ]] && mkdir -p ${SCHEMES_DIR}
@@ -39,10 +40,11 @@ install() {
   cp -r ${SRC_DIR}/plasma/desktoptheme/*                                             ${PLASMA_DIR}
   cp -r ${SRC_DIR}/plasma/look-and-feel/*                                            ${LOOKFEEL_DIR}
   cp -r ${SRC_DIR}/wallpaper/${name}                                                 ${WALLPAPER_DIR}
+  [[ -d ${LATTE_DIR} ]] && cp -r ${SRC_DIR}/latte-dock/*                             ${LATTE_DIR}
 }
 
-echo "Installing 'WhiteSur kde themes'..."
+echo "Installing '${THEME_NAME} kde themes'..."
 
-install
+install "${name:-${THEME_NAME}}"
 
 echo "Install finished..."

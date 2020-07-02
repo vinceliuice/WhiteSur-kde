@@ -1,0 +1,58 @@
+<svg version="1.1" viewBox="0 0 54 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-NegativeText {
+        color:#da4453;
+      }</style>
+ </defs>
+ <g id="22-22-touchpad_enabled" transform="translate(0,32)">
+  <path class="ColorScheme-Text" d="m4 13c-0.554 0-1 0.446-1 1v14c0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1v-14c0-0.554-0.446-1-1-1h-14zm0 1h14v11h-14v-11zm0 12h6v2h-6v-2zm8 0h6v2h-6v-2z" fill="currentColor"/>
+  <path d="m0 10v22h22v-22h-22z" fill="none"/>
+ </g>
+ <g id="touchpad_enabled" transform="translate(0,32)">
+  <path class="ColorScheme-Text" d="m27 4c-0.554 0-1 0.446-1 1v22c0 0.554 0.446 1 1 1h22c0.554 0 1-0.446 1-1v-22c0-0.554-0.446-1-1-1h-22zm0 1h22v17h-22v-17zm0 18h10v4h-10v-4zm12 0h10v4h-10v-4z" fill="currentColor"/>
+  <path d="m22 0v32h32v-32h-32z" fill="none"/>
+ </g>
+ <g id="22-22-touchpad_disabled">
+  <path class="ColorScheme-Text" d="m4 13c-0.554 0-1 0.446-1 1v14c0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1v-14c0-0.554-0.446-1-1-1h-14zm0 1h14v11h-14v-11zm0 12h6v2h-6v-2zm8 0h6v2h-6v-2z" fill="currentColor" fill-opacity=".6"/>
+  <path d="m0 10v22h22v-22h-22z" fill="none"/>
+  <path class="ColorScheme-NegativeText" d="M 8.8476562,17 8,17.847656 10.152344,20 8,22.152344 8.8476562,23 11,20.847656 13.152344,23 14,22.152344 11.847656,20 14,17.847656 13.152344,17 11,19.152344 8.8476562,17 Z" fill="currentColor"/>
+ </g>
+ <g id="touchpad_disabled">
+  <path class="ColorScheme-Text" d="m27 4c-0.554 0-1 0.446-1 1v22c0 0.554 0.446 1 1 1h22c0.554 0 1-0.446 1-1v-22c0-0.554-0.446-1-1-1h-22zm0 1h22v17h-22v-17zm0 18h10v4h-10v-4zm12 0h10v4h-10v-4z" fill="currentColor" fill-opacity=".6"/>
+  <path d="m22 0v32h32v-32h-32z" fill="none"/>
+ </g>
+ <path class="ColorScheme-NegativeText" d="M 34,10.207 37.293,13.5 34,16.793 c 0.013,0.025 0.707,0.707 0.707,0.707 L 38,14.207 41.293,17.5 42,16.793 38.707,13.5 42,10.207 41.293,9.5 38,12.793 34.707,9.5 Z" fill="currentColor"/>
+</svg>

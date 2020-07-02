@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   viewBox="0 0 32 32"
+   id="svg27">
+  <metadata
+     id="metadata29">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5">
+    <style
+       id="current-color-scheme"
+       type="text/css"> .ColorScheme-Text { color:#363636; } </style>
+  </defs>
+  <g
+     id="22-22-klipper"
+     class="ColorScheme-Text"
+     fill="currentColor">
+    <path
+       d="m49 5h22v22h-22z"
+       fill="none"
+       id="path7" />
+    <g
+       transform="translate(-41 -1)"
+       id="g15">
+      <path
+         d="m96 10c-1.108 0-2 0.892-2 2v10c0 1.108 0.892 2 2 2h10c1.108 0 2-0.892 2-2v-10c0-1.108-0.892-2-2-2h-4a1 1 0 0 1-1 1 1 1 0 0 1-1-1zm0 2h10v10h-10z"
+         id="path9" />
+      <path
+         d="m100.95 8a2 2 0 0 0-1.9512 2 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-2-2 2 2 0 0 0-0.0488 0zm0.04883 1a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1z"
+         id="path11" />
+      <path
+         d="m99 10c-0.554 0-1 0.446-1 1v1c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1v-1c0-0.554-0.446-1-1-1h-1a1 1 0 0 1-1 1 1 1 0 0 1-1-1z"
+         id="path13" />
+    </g>
+  </g>
+  <g
+     id="klipper"
+     class="ColorScheme-Text"
+     fill="currentColor">
+    <rect
+       x="-2.8954e-8"
+       y="-1e-6"
+       width="32"
+       height="32"
+       fill="none"
+       id="rect18" />
+    <path
+       d="m9 7c-1.662 0-3 1.338-3 3v15c0 1.662 1.338 3 3 3h14c1.662 0 3-1.338 3-3v-15c0-1.662-1.338-3-3-3h-6a1 1 0 0 1-1 1 1 1 0 0 1-1-1h-6zm0 2h14c0.554 0 1 0.446 1 1v15c0 0.554-0.446 1-1 1h-14c-0.554 0-1-0.446-1-1v-15c0-0.554 0.446-1 1-1z"
+       id="path20" />
+    <path
+       d="m15.949 4a3 3 0 0 0-2.9492 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-0.050781 0zm0.050781 2a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1z"
+       id="path22" />
+    <rect
+       x="11"
+       y="8"
+       width="10"
+       height="3"
+       ry="1"
+       id="rect24" />
+  </g>
+</svg>
