@@ -98,15 +98,18 @@
        width="22"
        y="-1"
        x="40"
+       fill="currentColor"
        class="ColorScheme-Text" />
     <path
        id="path25"
        fill="currentColor"
+       class="ColorScheme-Text"
        d="m51 1a9 9 0 0 0-9 9 9 9 0 0 0 9 9 9 9 0 0 0 9-9 9 9 0 0 0-9-9zm0 2a7 7 0 0 1 7 7 7 7 0 0 1-7 7 7 7 0 0 1-7-7 7 7 0 0 1 7-7z" />
     <circle
        id="circle27"
        opacity=".15"
        fill="currentColor"
+       class="ColorScheme-Text"
        r="6"
        cy="10"
        cx="51" />

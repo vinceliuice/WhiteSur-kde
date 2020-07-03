@@ -34,6 +34,23 @@ LATTE_DIR="$HOME/.config/latte"
 install() {
   local name=${1}
 
+  local AURORAE_THEME="${AURORAE_DIR}/${name}"
+  local PLASMA_THEME="${PLASMA_DIR}/${name}"
+  local SCHEMES_THEME="${SCHEMES_DIR}/${name}.colors"
+  local KVANTUM_THEME="${KVANTUM_DIR}/${name}"
+  local LOOKFEEL_THEME="${LOOKFEEL_DIR}/com.github.vinceliuice.${name}"
+  local WALLPAPER_THEME="${WALLPAPER_DIR}/${name}"
+  local LATTE_LAYOUT="${LATTE_DIR}/${name}.layout.latte"
+
+  [[ -d ${AURORAE_THEME} ]] && rm -rf ${AURORAE_THEME}
+  [[ -d ${PLASMA_THEME} ]] && rm -rf ${PLASMA_THEME}
+  [[ -d ${PLASMA_THEME}-alt ]] && rm -rf ${PLASMA_THEME}-alt
+  [[ -f ${SCHEMES_THEME} ]] && rm -rf ${SCHEMES_THEME}
+  [[ -d ${LOOKFEEL_THEME} ]] && rm -rf ${LOOKFEEL_THEME}
+  [[ -d ${KVANTUM_THEME} ]] && rm -rf ${KVANTUM_THEME}
+  [[ -d ${WALLPAPER_THEME} ]] && rm -rf ${WALLPAPER_THEME}
+  [[ -f ${LATTE_LAYOUT} ]] && rm -rf ${LATTE_LAYOUT}
+
   cp -r ${SRC_DIR}/aurorae/*                                                         ${AURORAE_DIR}
   cp -r ${SRC_DIR}/Kvantum/*                                                         ${KVANTUM_DIR}
   cp -r ${SRC_DIR}/color-schemes/*                                                   ${SCHEMES_DIR}
