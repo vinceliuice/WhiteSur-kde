@@ -3,7 +3,7 @@ import QtQuick 2.5
 
 Image {
     id: root
-    source: "images/background.svg"
+    source: "images/background.png"
 
     property int stage
 

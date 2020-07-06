@@ -33,28 +33,23 @@ LATTE_DIR="$HOME/.config/latte"
 
 install() {
   local name=${1}
+  local color=${2}
 
-  local AURORAE_THEME="${AURORAE_DIR}/${name}"
-  local PLASMA_THEME="${PLASMA_DIR}/${name}"
-  local SCHEMES_THEME="${SCHEMES_DIR}/${name}.colors"
-  local KVANTUM_THEME="${KVANTUM_DIR}/${name}"
-  local LOOKFEEL_THEME="${LOOKFEEL_DIR}/com.github.vinceliuice.${name}"
-  local WALLPAPER_THEME="${WALLPAPER_DIR}/${name}"
-  local LATTE_LAYOUT="${LATTE_DIR}/${name}.layout.latte"
-
-  [[ -d ${AURORAE_THEME} ]] && rm -rf ${AURORAE_THEME}
-  [[ -d ${PLASMA_THEME} ]] && rm -rf ${PLASMA_THEME}
-  [[ -d ${PLASMA_THEME}-alt ]] && rm -rf ${PLASMA_THEME}-alt
-  [[ -f ${SCHEMES_THEME} ]] && rm -rf ${SCHEMES_THEME}
-  [[ -d ${LOOKFEEL_THEME} ]] && rm -rf ${LOOKFEEL_THEME}
-  [[ -d ${KVANTUM_THEME} ]] && rm -rf ${KVANTUM_THEME}
-  [[ -d ${WALLPAPER_THEME} ]] && rm -rf ${WALLPAPER_THEME}
-  [[ -f ${LATTE_LAYOUT} ]] && rm -rf ${LATTE_LAYOUT}
+  [[ -d ${AURORAE_DIR}/${name} ]] && rm -rf ${AURORAE_DIR}/${name}*
+  [[ -d ${PLASMA_DIR}/${name} ]] && rm -rf ${PLASMA_DIR}/${name}*
+  [[ -f ${SCHEMES_DIR}/${name}.colors ]] && rm -rf ${SCHEMES_DIR}/${name}*.colors
+  [[ -d ${LOOKFEEL_DIR}/com.github.vinceliuice.${name} ]] && rm -rf ${LOOKFEEL_DIR}/com.github.vinceliuice.${name}*
+  [[ -d ${KVANTUM_DIR}/${name} ]] && rm -rf ${KVANTUM_DIR}/${name}*
+  [[ -d ${WALLPAPER_DIR}/${name} ]] && rm -rf ${WALLPAPER_DIR}/${name}
+  [[ -f ${LATTE_DIR}/${name}.layout.latte ]] && rm -rf ${LATTE_DIR}/${name}.layout.latte
 
   cp -r ${SRC_DIR}/aurorae/*                                                         ${AURORAE_DIR}
   cp -r ${SRC_DIR}/Kvantum/*                                                         ${KVANTUM_DIR}
   cp -r ${SRC_DIR}/color-schemes/*                                                   ${SCHEMES_DIR}
-  cp -r ${SRC_DIR}/plasma/desktoptheme/*                                             ${PLASMA_DIR}
+  cp -r ${SRC_DIR}/plasma/desktoptheme/${name}*                                      ${PLASMA_DIR}
+  cp -r ${SRC_DIR}/plasma/desktoptheme/icons                                         ${PLASMA_DIR}/${name}
+  cp -r ${SRC_DIR}/plasma/desktoptheme/icons                                         ${PLASMA_DIR}/${name}-alt
+  cp -r ${SRC_DIR}/plasma/desktoptheme/icons                                         ${PLASMA_DIR}/${name}-dark
   cp -r ${SRC_DIR}/plasma/look-and-feel/*                                            ${LOOKFEEL_DIR}
   cp -r ${SRC_DIR}/wallpaper/${name}                                                 ${WALLPAPER_DIR}
   [[ -d ${LATTE_DIR} ]] && cp -r ${SRC_DIR}/latte-dock/*                             ${LATTE_DIR}

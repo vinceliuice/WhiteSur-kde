@@ -258,12 +258,12 @@ frame.right=3
 
 [LineEdit]
 inherits=PanelButtonCommand
-frame.element=lineedit
-interior.element=lineedit
-frame.top=4
-frame.bottom=4
-frame.left=4
-frame.right=4
+frame.element=tlineedit
+interior.element=tlineedit
+frame.top=3
+frame.bottom=3
+frame.left=3
+frame.right=3
 text.margin=0
 text.margin.left=0
 text.margin.right=0
@@ -290,7 +290,7 @@ text.boldness=2
 
 [Tab]
 inherits=PanelButtonCommand
-interior.element=button
+interior.element=tab
 frame.top=3
 frame.bottom=3
 frame.left=3

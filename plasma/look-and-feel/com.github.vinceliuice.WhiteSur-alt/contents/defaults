@@ -23,4 +23,4 @@ library=org.kde.kwin.aurorae
 theme=__aurorae__svg__WhiteSur
 
 [plasmarc][Theme]
-name=WhiteSur
+name=WhiteSur-alt

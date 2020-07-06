@@ -103,8 +103,8 @@ ForegroundPositive=39,174,96
 ForegroundVisited=127,140,141
 
 [General]
-ColorScheme=WhiteSueblack
-Name=WhiteSueblack
+ColorScheme=WhiteSurblack
+Name=WhiteSurblack
 shadeSortColumn=true
 
 [KDE]

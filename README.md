@@ -5,11 +5,12 @@ WhiteSur kde is a MacOS big sur like theme for KDE Plasma desktop.
 
 In this repository you'll find:
 
-- Aurorae Themes
-- Kvantum Themes
-- Plasma Color Schemes
-- Plasma Desktop Themes
-- Plasma Look-and-Feel Settings
+- Aurorae Theme
+- Kvantum Theme
+- Wallpaper Theme
+- Plasma Color Scheme
+- Plasma Desktop Theme
+- Plasma Global Theme
 
 ## Installation
 
@@ -29,6 +30,7 @@ GNU GPL v3
 
 ## preview
 
-![theme](preview.png)
+![light](preview.png)
+![dark](preview-dark.png)
 
 
