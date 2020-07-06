@@ -301,11 +301,17 @@ text.margin.top=0
 text.margin.bottom=0
 frame.element=button
 indicator.element=tab
+frame.expanded.top=0
+frame.expanded.bottom=0
+frame.expanded.left=0
+frame.expanded.right=0
 text.normal.color=#333333
 text.focus.color=#242424
 text.press.color=#242424
 text.toggle.color=#242424
 text.toggle.inactive.color=#24242474
+frame.expansion=12
+indicator.size=16
 text.boldness=2
 min_width=+0.2font
 

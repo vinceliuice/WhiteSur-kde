@@ -27,22 +27,13 @@ LATTE_DIR="$HOME/.config/latte"
 uninstall() {
   local name=${1}
 
-  local AURORAE_THEME="${AURORAE_DIR}/${name}"
-  local PLASMA_THEME="${PLASMA_DIR}/${name}"
-  local SCHEMES_THEME="${SCHEMES_DIR}/${name}.colors"
-  local KVANTUM_THEME="${KVANTUM_DIR}/${name}"
-  local LOOKFEEL_THEME="${LOOKFEEL_DIR}/com.github.vinceliuice.${name}"
-  local WALLPAPER_THEME="${WALLPAPER_DIR}/${name}"
-  local LATTE_LAYOUT="${LATTE_DIR}/${name}.layout.latte"
-
-  [[ -d ${AURORAE_THEME} ]] && rm -rfv ${AURORAE_THEME}
-  [[ -d ${PLASMA_THEME} ]] && rm -rfv ${PLASMA_THEME}
-  [[ -d ${PLASMA_THEME}-alt ]] && rm -rfv ${PLASMA_THEME}-alt
-  [[ -f ${SCHEMES_THEME} ]] && rm -rfv ${SCHEMES_THEME}
-  [[ -d ${LOOKFEEL_THEME} ]] && rm -rfv ${LOOKFEEL_THEME}
-  [[ -d ${KVANTUM_THEME} ]] && rm -rfv ${KVANTUM_THEME}
-  [[ -d ${WALLPAPER_THEME} ]] && rm -rfv ${WALLPAPER_THEME}
-  [[ -f ${LATTE_LAYOUT} ]] && rm -rfv ${LATTE_LAYOUT}
+  [[ -d ${AURORAE_DIR}/${name} ]] && rm -rfv ${AURORAE_DIR}/${name}*
+  [[ -d ${PLASMA_DIR}/${name} ]] && rm -rfv ${PLASMA_DIR}/${name}*
+  [[ -f ${SCHEMES_DIR}/${name}.colors ]] && rm -rfv ${SCHEMES_DIR}/${name}*.colors
+  [[ -d ${LOOKFEEL_DIR}/com.github.vinceliuice.${name} ]] && rm -rfv ${LOOKFEEL_DIR}/com.github.vinceliuice.${name}*
+  [[ -d ${KVANTUM_DIR}/${name} ]] && rm -rfv ${KVANTUM_DIR}/${name}*
+  [[ -d ${WALLPAPER_DIR}/${name} ]] && rm -rfv ${WALLPAPER_DIR}/${name}
+  [[ -f ${LATTE_DIR}/${name}.layout.latte ]] && rm -rfv ${LATTE_DIR}/${name}.layout.latte
 }
 
 echo "Uninstalling '${THEME_NAME} kde themes'..."
