@@ -5,11 +5,41 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   id="svg30"
-   viewBox="0 0 32 32"
-   version="1.1"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="device.svg"
+   width="32"
    height="32"
-   width="32">
+   version="1.1"
+   viewBox="0 0 32 32"
+   id="svg30">
+  <sodipodi:namedview
+     inkscape:current-layer="svg30"
+     inkscape:window-maximized="1"
+     inkscape:window-y="32"
+     inkscape:window-x="0"
+     inkscape:cy="18.339205"
+     inkscape:cx="32.317376"
+     inkscape:zoom="5.5789118"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-bbox="true"
+     showgrid="true"
+     id="namedview19"
+     inkscape:window-height="710"
+     inkscape:window-width="1366"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff">
+    <inkscape:grid
+       id="grid844"
+       type="xygrid" />
+  </sodipodi:namedview>
   <metadata
      id="metadata32">
     <rdf:RDF>
@@ -18,85 +48,85 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs5">
     <style
-       type="text/css"
-       id="current-color-scheme"> .ColorScheme-Text { color:#363636; } </style>
+       id="current-color-scheme"
+       type="text/css"> .ColorScheme-Text { color:#363636; } </style>
   </defs>
   <g
-     fill="currentColor"
-     transform="translate(-321,-529.36)"
+     id="device-notifier"
      class="ColorScheme-Text"
-     id="device-notifier">
+     transform="translate(-321,-529.36)"
+     fill="currentColor">
     <path
-       id="path7"
-       d="m329 533.36c-1.662 0-2.6099 1.3844-3 3l-3.8613 15.988c-8.4e-4 4e-3 -1e-3 8e-3 -2e-3 0.0117h2e-3c-0.0825 0.321-0.13867 0.65255-0.13867 1 0 2.216 1.784 4 4 4h22c2.216 0 4-1.784 4-4 0-0.34745-0.0562-0.679-0.13867-1h0.0215l-3.8828-16c-0.39187-1.6151-1.338-3-3-3zm7 2h1l2 3h-2v6h4v-3h-1v-3h3v3h-1v4h-5v2.0859a1.5 1.5 0 0 1 1 1.4141 1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1-1.4121v-2.0879h-5v-4.0859a1.5 1.5 0 0 1-1-1.4141 1.5 1.5 0 0 1 1.5-1.5 1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1 1.4121v3.0879h4v-6h-2zm-10 16h22c1.108 0 2 0.89199 2 2s-0.89199 2-2 2h-22c-1.108 0-2-0.89199-2-2s0.89199-2 2-2z" />
+       d="m329 533.36c-1.662 0-2.6099 1.3844-3 3l-3.8613 15.988c-8.4e-4 4e-3 -1e-3 8e-3 -2e-3 0.0117h2e-3c-0.0825 0.321-0.13867 0.65255-0.13867 1 0 2.216 1.784 4 4 4h22c2.216 0 4-1.784 4-4 0-0.34745-0.0562-0.679-0.13867-1h0.0215l-3.8828-16c-0.39187-1.6151-1.338-3-3-3zm7 2h1l2 3h-2v6h4v-3h-1v-3h3v3h-1v4h-5v2.0859a1.5 1.5 0 0 1 1 1.4141 1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1-1.4121v-2.0879h-5v-4.0859a1.5 1.5 0 0 1-1-1.4141 1.5 1.5 0 0 1 1.5-1.5 1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1 1.4121v3.0879h4v-6h-2zm-10 16h22c1.108 0 2 0.89199 2 2s-0.89199 2-2 2h-22c-1.108 0-2-0.89199-2-2s0.89199-2 2-2z"
+       id="path7" />
     <rect
-       id="rect9"
-       fill-opacity="0"
-       height="32"
-       width="32"
+       x="321"
        y="529.36"
-       x="321" />
+       width="32"
+       height="32"
+       fill-opacity="0"
+       id="rect9" />
     <circle
-       id="circle11"
-       r="1"
+       cx="346"
        cy="553.36"
-       cx="346" />
+       r="1"
+       id="circle11" />
   </g>
   <g
-     fill="currentColor"
-     transform="translate(-321.5,-529.36)"
+     id="16-16-device-notifier"
      class="ColorScheme-Text"
-     id="16-16-device-notifier">
+     transform="translate(-321.5,-529.36)"
+     fill="currentColor">
     <rect
-       id="rect14"
-       opacity="0"
-       ry="0"
-       height="16"
-       width="16"
+       x="393.5"
        y="537.36"
-       x="393.5" />
+       width="16"
+       height="16"
+       ry="0"
+       opacity="0"
+       id="rect14" />
     <g
-       id="g22"
-       transform="translate(-19.5)">
+       transform="translate(-19.5)"
+       id="g22">
       <path
-         id="path16"
+         transform="translate(321,529.36)"
          d="m97 8c-0.55399 0-1 0.44601-1 1v3c-1.108 0-2 0.89201-2 2v4c0 3.324 2.676 6 6 6s6-2.676 6-6v-4c0-1.108-0.89201-2-2-2v-3c0-0.55399-0.44601-1-1-1zm1 1c0.55399 0 1 0.44601 1 1v1c0 0.55399-0.44601 1-1 1s-1-0.44601-1-1v-1c0-0.55399 0.44601-1 1-1zm4 0c0.55399 0 1 0.44601 1 1v1c0 0.55399-0.44601 1-1 1s-1-0.44601-1-1v-1c0-0.55399 0.44601-1 1-1zm-6 4h8c0.55399 0 1 0.44601 1 1v4a5 5 0 0 1-5 5 5 5 0 0 1-5-5v-4c0-0.55399 0.44601-1 1-1z"
-         transform="translate(321,529.36)" />
+         id="path16" />
       <circle
-         id="circle18"
-         opacity=".25"
+         cx="421"
+         cy="549.36"
          r="2"
-         cy="549.36"
-         cx="421" />
+         opacity=".25"
+         id="circle18" />
       <circle
-         id="circle20"
-         r="1"
+         cx="421"
          cy="549.36"
-         cx="421" />
+         r="1"
+         id="circle20" />
     </g>
   </g>
   <g
-     fill="currentColor"
-     transform="translate(-321,-529.36)"
+     id="22-22-device-notifier"
      class="ColorScheme-Text"
-     id="22-22-device-notifier">
+     transform="translate(-321,-529.36)"
+     fill="currentColor">
     <rect
-       id="rect25"
-       opacity="0"
-       height="22"
-       width="22"
+       x="365"
        y="534.36"
-       x="365" />
+       width="22"
+       height="22"
+       opacity="0"
+       id="rect25" />
     <path
-       id="path27"
-       d="m51 6c-0.55401 0-1 0.446-1 1v4h-1c-1.108 0-2 0.892-2 2v5c0 4.4183 3.5817 8 8 8s8-3.5817 8-8v-5c0-1.108-0.89199-2-2-2h-1v-4c0-0.554-0.44599-1-1-1zm2 2c0.554 0 1 0.446 1 1v1c0 0.554-0.446 1-1 1s-1-0.446-1-1v-1c0-0.554 0.446-1 1-1zm4 0c0.554 0 1 0.446 1 1v1c0 0.554-0.446 1-1 1s-1-0.446-1-1v-1c0-0.554 0.446-1 1-1zm-8 5h12v5c0 3.324-2.676 6-6 6s-6-2.676-6-6z"
-       transform="translate(321,529.36)" />
+       sodipodi:nodetypes="sscssssssscsssssssssssssssssccsssc"
+       d="m 372,536.36 c -0.55401,0 -1,0.446 -1,1 v 4 h -1 c -1.108,0 -2,0.892 -2,2 v 3 c 0,4.4183 3.5817,8 8,8 4.4183,0 8,-3.5817 8,-8 v -3 c 0,-1.108 -0.89199,-2 -2,-2 h -1 v -4 c 0,-0.554 -0.44599,-1 -1,-1 z m 2,2 c 0.554,0 1,0.446 1,1 v 1 c 0,0.554 -0.446,1 -1,1 -0.554,0 -1,-0.446 -1,-1 v -1 c 0,-0.554 0.446,-1 1,-1 z m 4,0 c 0.554,0 1,0.446 1,1 v 1 c 0,0.554 -0.446,1 -1,1 -0.554,0 -1,-0.446 -1,-1 v -1 c 0,-0.554 0.446,-1 1,-1 z m -8,5 h 12 v 3 c 0,3.324 -2.676,6 -6,6 -3.324,0 -6,-2.676 -6,-6 z"
+       id="path27" />
   </g>
 </svg>
