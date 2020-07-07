@@ -6,11 +6,35 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="network.svg"
    id="svg1384"
    viewBox="0 0 22 22"
    version="1.1"
    height="22"
    width="22">
+  <sodipodi:namedview
+     inkscape:current-layer="svg1384"
+     inkscape:window-maximized="1"
+     inkscape:window-y="32"
+     inkscape:window-x="0"
+     inkscape:cy="-229.05499"
+     inkscape:cx="-43.189024"
+     inkscape:zoom="1.3017193"
+     showgrid="false"
+     id="namedview267"
+     inkscape:window-height="1022"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
   <metadata
      id="metadata1386">
     <rdf:RDF>
@@ -19,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -169,2602 +193,6 @@
        class="ColorScheme-Text" />
   </g>
   <g
-     transform="translate(-1.5 -166.5)"
-     id="network-mobile-available">
-    <rect
-       id="rect39"
-       fill="none"
-       height="22"
-       width="22"
-       y="-22"
-       x="-22" />
-    <path
-       id="path41"
-       fill="currentColor"
-       d="m-19-3 16-16v16z"
-       class="ColorScheme-Highlight" />
-  </g>
-  <g
-     id="g48"
-     transform="translate(20.5 -166.5)">
-    <rect
-       id="rect44"
-       fill="none"
-       height="22"
-       width="22"
-       y="-22"
-       x="-22" />
-    <path
-       id="path46"
-       fill="currentColor"
-       d="m-19-3 16-16v16z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     id="g56"
-     transform="translate(20.5 -166.5)">
-    <rect
-       id="rect50"
-       fill="none"
-       height="22"
-       width="22"
-       y="-22" />
-    <path
-       id="path52"
-       opacity=".5"
-       fill="currentColor"
-       d="m3-3 16-16v16z"
-       class="ColorScheme-Text" />
-    <path
-       id="path54"
-       fill="currentColor"
-       d="m17-17-14 14h14z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     id="g64"
-     transform="translate(20.5 -166.5)">
-    <rect
-       id="rect58"
-       fill="none"
-       height="22"
-       width="22"
-       y="-22"
-       x="22" />
-    <path
-       id="path60"
-       opacity=".5"
-       fill="currentColor"
-       d="m25-3 16-16v16z"
-       class="ColorScheme-Text" />
-    <path
-       id="path62"
-       fill="currentColor"
-       d="m37-15-12 12h12z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     id="g72"
-     transform="translate(20.5 -166.5)">
-    <rect
-       id="rect66"
-       fill="none"
-       height="22"
-       width="22"
-       y="-22"
-       x="44" />
-    <path
-       id="path68"
-       opacity=".5"
-       fill="currentColor"
-       d="m47-3 16-16v16z"
-       class="ColorScheme-Text" />
-    <path
-       id="path70"
-       fill="currentColor"
-       d="m57-13-10 10h10z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     id="g80"
-     transform="translate(20.5 -166.5)">
-    <rect
-       id="rect74"
-       fill="none"
-       height="22"
-       width="22"
-       y="-22"
-       x="66" />
-    <path
-       id="path76"
-       opacity=".5"
-       fill="currentColor"
-       d="m69-3 16-16v16z"
-       class="ColorScheme-Text" />
-    <path
-       id="path78"
-       fill="currentColor"
-       d="m76-10-7 7h7z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     id="g86"
-     transform="translate(-1.5 -166.5)">
-    <rect
-       id="rect82"
-       fill="none"
-       height="22"
-       width="22"
-       y="-22"
-       x="110" />
-    <path
-       id="path84"
-       opacity=".5"
-       fill="currentColor"
-       d="m113-3 16-16v16z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-100-locked">
-    <rect
-       id="rect88"
-       fill="none"
-       height="22"
-       width="22"
-       y="-44"
-       x="-22" />
-    <path
-       id="path90"
-       fill="currentColor"
-       d="m-3-41-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path92"
-       fill="currentColor"
-       d="m-4-32c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-80-locked">
-    <rect
-       id="rect95"
-       fill="none"
-       height="22"
-       width="22"
-       y="-44" />
-    <path
-       id="path97"
-       opacity=".5"
-       fill="currentColor"
-       d="m19-41-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path99"
-       fill="currentColor"
-       d="m18-32c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-    <path
-       id="path101"
-       fill="currentColor"
-       d="m17-39-14 14h11v-3l1-1v-2l2-2z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-60-locked">
-    <rect
-       id="rect104"
-       fill="none"
-       height="22"
-       width="22"
-       y="-44"
-       x="22" />
-    <path
-       id="path106"
-       opacity=".5"
-       fill="currentColor"
-       d="m41-41-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path108"
-       fill="currentColor"
-       d="m40-32c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-    <path
-       id="path110"
-       fill="currentColor"
-       d="m37-37-12 12h11v-3l1-1v-2z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-40-locked">
-    <rect
-       id="rect113"
-       fill="none"
-       height="22"
-       width="22"
-       y="-44"
-       x="44" />
-    <path
-       id="path115"
-       opacity=".5"
-       fill="currentColor"
-       d="m63-41-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path117"
-       fill="currentColor"
-       d="m62-32c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-    <path
-       id="path119"
-       fill="currentColor"
-       d="m57-35-10 10h10z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-20-locked">
-    <rect
-       id="rect122"
-       fill="none"
-       height="22"
-       width="22"
-       y="-44"
-       x="66" />
-    <path
-       id="path124"
-       opacity=".5"
-       fill="currentColor"
-       d="m85-41-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path126"
-       fill="currentColor"
-       d="m84-32c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-    <path
-       id="path128"
-       fill="currentColor"
-       d="m76-32-7 7h7z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-0-locked">
-    <rect
-       id="rect131"
-       fill="none"
-       height="22"
-       width="22"
-       y="-44"
-       x="88" />
-    <path
-       id="path133"
-       opacity=".5"
-       fill="currentColor"
-       d="m107-41-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path135"
-       fill="currentColor"
-       d="m106-32c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-100-gprs">
-    <rect
-       id="rect138"
-       fill="none"
-       height="22"
-       width="22"
-       y="-66"
-       x="-22" />
-    <path
-       id="path140"
-       fill="currentColor"
-       d="m-19-47 16-16v16z"
-       class="ColorScheme-Text" />
-    <path
-       id="path142"
-       fill="currentColor"
-       d="m-19-63v5h4v-3h-2v1h1v1h-2v-3h3v-1h-3z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-80-gprs">
-    <rect
-       id="rect145"
-       fill="none"
-       height="22"
-       width="22"
-       y="-66" />
-    <path
-       id="path147"
-       opacity=".5"
-       fill="currentColor"
-       d="m3-47 16-16v16z"
-       class="ColorScheme-Text" />
-    <path
-       id="path149"
-       fill="currentColor"
-       d="m17-61-14 14h14z"
-       class="ColorScheme-Text" />
-    <path
-       id="path151"
-       fill="currentColor"
-       d="m3-63v5h4v-3h-2v1h1v1h-2v-3h3v-1h-3z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-60-gprs">
-    <rect
-       id="rect154"
-       fill="none"
-       height="22"
-       width="22"
-       y="-66"
-       x="22" />
-    <path
-       id="path156"
-       opacity=".5"
-       fill="currentColor"
-       d="m25-47 16-16v16z"
-       class="ColorScheme-Text" />
-    <path
-       id="path158"
-       fill="currentColor"
-       d="m37-59-12 12h12z"
-       class="ColorScheme-Text" />
-    <path
-       id="path160"
-       fill="currentColor"
-       d="m25-63v5h4v-3h-2v1h1v1h-2v-3h3v-1h-3z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-40-gprs">
-    <rect
-       id="rect163"
-       fill="none"
-       height="22"
-       width="22"
-       y="-66"
-       x="44" />
-    <path
-       id="path165"
-       opacity=".5"
-       fill="currentColor"
-       d="m47-47 16-16v16z"
-       class="ColorScheme-Text" />
-    <path
-       id="path167"
-       fill="currentColor"
-       d="m57-57-10 10h10z"
-       class="ColorScheme-Text" />
-    <path
-       id="path169"
-       fill="currentColor"
-       d="m47-63v5h4v-3h-2v1h1v1h-2v-3h3v-1h-3z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-20-gprs">
-    <rect
-       id="rect172"
-       fill="none"
-       height="22"
-       width="22"
-       y="-66"
-       x="66" />
-    <path
-       id="path174"
-       opacity=".5"
-       fill="currentColor"
-       d="m69-47 16-16v16z"
-       class="ColorScheme-Text" />
-    <path
-       id="path176"
-       fill="currentColor"
-       d="m76-54-7 7h7z"
-       class="ColorScheme-Text" />
-    <path
-       id="path178"
-       fill="currentColor"
-       d="m69-63v5h4v-3h-2v1h1v1h-2v-3h3v-1h-3z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-0-gprs">
-    <rect
-       id="rect181"
-       fill="none"
-       height="22"
-       width="22"
-       y="-66"
-       x="88" />
-    <path
-       id="path183"
-       opacity=".5"
-       fill="currentColor"
-       d="m91-47 16-16v16z"
-       class="ColorScheme-Text" />
-    <path
-       id="path185"
-       fill="currentColor"
-       d="m91-63v5h4v-3h-2v1h1v1h-2v-3h3v-1h-3z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-100-gprs-locked">
-    <rect
-       id="rect188"
-       fill="none"
-       height="22"
-       width="22"
-       y="-88"
-       x="-22" />
-    <path
-       id="path190"
-       fill="currentColor"
-       d="m-3-85-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path192"
-       fill="currentColor"
-       d="m-4-76c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-    <path
-       id="path194"
-       fill="currentColor"
-       d="m-19-85v5h4v-3h-2v1h1v1h-2v-3h3v-1h-3z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-80-gprs-locked">
-    <rect
-       id="rect197"
-       fill="none"
-       height="22"
-       width="22"
-       y="-88" />
-    <path
-       id="path199"
-       opacity=".5"
-       fill="currentColor"
-       d="m19-85-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path201"
-       fill="currentColor"
-       d="m18-76c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-    <path
-       id="path203"
-       fill="currentColor"
-       d="m17-83-14 14h11v-3l1-1v-2l2-2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path205"
-       fill="currentColor"
-       d="m3-85v5h4v-3h-2v1h1v1h-2v-3h3v-1h-3z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-60-gprs-locked">
-    <rect
-       id="rect208"
-       fill="none"
-       height="22"
-       width="22"
-       y="-88"
-       x="22" />
-    <path
-       id="path210"
-       opacity=".5"
-       fill="currentColor"
-       d="m41-85-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path212"
-       fill="currentColor"
-       d="m40-76c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-    <path
-       id="path214"
-       fill="currentColor"
-       d="m37-81-12 12h11v-3l1-1v-2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path216"
-       fill="currentColor"
-       d="m25-85v5h4v-3h-2v1h1v1h-2v-3h3v-1h-3z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-40-gprs-locked">
-    <rect
-       id="rect219"
-       fill="none"
-       height="22"
-       width="22"
-       y="-88"
-       x="44" />
-    <path
-       id="path221"
-       opacity=".5"
-       fill="currentColor"
-       d="m63-85-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path223"
-       fill="currentColor"
-       d="m62-76c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-    <path
-       id="path225"
-       fill="currentColor"
-       d="m57-79-10 10h10z"
-       class="ColorScheme-Text" />
-    <path
-       id="path227"
-       fill="currentColor"
-       d="m47-85v5h4v-3h-2v1h1v1h-2v-3h3v-1h-3z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-20-gprs-locked">
-    <rect
-       id="rect230"
-       fill="none"
-       height="22"
-       width="22"
-       y="-88"
-       x="66" />
-    <path
-       id="path232"
-       opacity=".5"
-       fill="currentColor"
-       d="m85-85-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path234"
-       fill="currentColor"
-       d="m84-76c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-    <path
-       id="path236"
-       fill="currentColor"
-       d="m76-76-7 7h7z"
-       class="ColorScheme-Text" />
-    <path
-       id="path238"
-       fill="currentColor"
-       d="m69-85v5h4v-3h-2v1h1v1h-2v-3h3v-1h-3z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-0-gprs-locked">
-    <rect
-       id="rect241"
-       fill="none"
-       height="22"
-       width="22"
-       y="-88"
-       x="88" />
-    <path
-       id="path243"
-       opacity=".5"
-       fill="currentColor"
-       d="m107-85-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path245"
-       fill="currentColor"
-       d="m106-76c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-    <path
-       id="path247"
-       fill="currentColor"
-       d="m91-85v5h4v-3h-2v1h1v1h-2v-3h3v-1h-3z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-100-edge">
-    <rect
-       id="rect250"
-       fill="none"
-       height="22"
-       width="22"
-       y="-110"
-       x="-22" />
-    <path
-       id="path252"
-       fill="currentColor"
-       d="m-19-91 16-16v16z"
-       class="ColorScheme-Text" />
-    <path
-       id="path254"
-       fill="currentColor"
-       d="m-19-107v5h4v-1h-3v-1h2v-1h-2v-1h3v-1h-3z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-80-edge">
-    <rect
-       id="rect257"
-       fill="none"
-       height="22"
-       width="22"
-       y="-110" />
-    <path
-       id="path259"
-       opacity=".5"
-       fill="currentColor"
-       d="m3-91 16-16v16z"
-       class="ColorScheme-Text" />
-    <path
-       id="path261"
-       fill="currentColor"
-       d="m17-105-14 14h14z"
-       class="ColorScheme-Text" />
-    <path
-       id="path263"
-       fill="currentColor"
-       d="m3-107v5h4v-1h-3v-1h2v-1h-2v-1h3v-1h-3z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-60-edge">
-    <rect
-       id="rect266"
-       fill="none"
-       height="22"
-       width="22"
-       y="-110"
-       x="22" />
-    <path
-       id="path268"
-       opacity=".5"
-       fill="currentColor"
-       d="m25-91 16-16v16z"
-       class="ColorScheme-Text" />
-    <path
-       id="path270"
-       fill="currentColor"
-       d="m37-103-12 12h12z"
-       class="ColorScheme-Text" />
-    <path
-       id="path272"
-       fill="currentColor"
-       d="m25-107v5h4v-1h-3v-1h2v-1h-2v-1h3v-1h-3z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-40-edge">
-    <rect
-       id="rect275"
-       fill="none"
-       height="22"
-       width="22"
-       y="-110"
-       x="44" />
-    <path
-       id="path277"
-       opacity=".5"
-       fill="currentColor"
-       d="m47-91 16-16v16z"
-       class="ColorScheme-Text" />
-    <path
-       id="path279"
-       fill="currentColor"
-       d="m57-101-10 10h10z"
-       class="ColorScheme-Text" />
-    <path
-       id="path281"
-       fill="currentColor"
-       d="m47-107v5h4v-1h-3v-1h2v-1h-2v-1h3v-1h-3z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-20-edge">
-    <rect
-       id="rect284"
-       fill="none"
-       height="22"
-       width="22"
-       y="-110"
-       x="66" />
-    <path
-       id="path286"
-       opacity=".5"
-       fill="currentColor"
-       d="m69-91 16-16v16z"
-       class="ColorScheme-Text" />
-    <path
-       id="path288"
-       fill="currentColor"
-       d="m76-98-7 7h7z"
-       class="ColorScheme-Text" />
-    <path
-       id="path290"
-       fill="currentColor"
-       d="m69-107v5h4v-1h-3v-1h2v-1h-2v-1h3v-1h-3z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-0-edge">
-    <rect
-       id="rect293"
-       fill="none"
-       height="22"
-       width="22"
-       y="-110"
-       x="88" />
-    <path
-       id="path295"
-       opacity=".5"
-       fill="currentColor"
-       d="m91-91 16-16v16z"
-       class="ColorScheme-Text" />
-    <path
-       id="path297"
-       fill="currentColor"
-       d="m91-107v5h4v-1h-3v-1h2v-1h-2v-1h3v-1h-3z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-100-edge-locked">
-    <rect
-       id="rect300"
-       fill="none"
-       height="22"
-       width="22"
-       y="-132"
-       x="-22" />
-    <path
-       id="path302"
-       fill="currentColor"
-       d="m-3-129-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path304"
-       fill="currentColor"
-       d="m-4-120c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-    <path
-       id="path306"
-       fill="currentColor"
-       d="m-19-129v5h4v-1h-3v-1h2v-1h-2v-1h3v-1h-3z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-80-edge-locked">
-    <rect
-       id="rect309"
-       fill="none"
-       height="22"
-       width="22"
-       y="-132" />
-    <path
-       id="path311"
-       opacity=".5"
-       fill="currentColor"
-       d="m19-129-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path313"
-       fill="currentColor"
-       d="m18-120c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-    <path
-       id="path315"
-       fill="currentColor"
-       d="m17-127-14 14h11v-3l1-1v-2l2-2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path317"
-       fill="currentColor"
-       d="m3-129v5h4v-1h-3v-1h2v-1h-2v-1h3v-1h-3z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-60-edge-locked">
-    <rect
-       id="rect320"
-       fill="none"
-       height="22"
-       width="22"
-       y="-132"
-       x="22" />
-    <path
-       id="path322"
-       opacity=".5"
-       fill="currentColor"
-       d="m41-129-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path324"
-       fill="currentColor"
-       d="m40-120c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-    <path
-       id="path326"
-       fill="currentColor"
-       d="m37-125-12 12h11v-3l1-1v-2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path328"
-       fill="currentColor"
-       d="m25-129v5h4v-1h-3v-1h2v-1h-2v-1h3v-1h-3z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-40-edge-locked">
-    <rect
-       id="rect331"
-       fill="none"
-       height="22"
-       width="22"
-       y="-132"
-       x="44" />
-    <path
-       id="path333"
-       opacity=".5"
-       fill="currentColor"
-       d="m63-129-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path335"
-       fill="currentColor"
-       d="m62-120c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-    <path
-       id="path337"
-       fill="currentColor"
-       d="m57-123-10 10h10z"
-       class="ColorScheme-Text" />
-    <path
-       id="path339"
-       fill="currentColor"
-       d="m47-129v5h4v-1h-3v-1h2v-1h-2v-1h3v-1h-3z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-20-edge-locked">
-    <rect
-       id="rect342"
-       fill="none"
-       height="22"
-       width="22"
-       y="-132"
-       x="66" />
-    <path
-       id="path344"
-       opacity=".5"
-       fill="currentColor"
-       d="m85-129-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path346"
-       fill="currentColor"
-       d="m84-120c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-    <path
-       id="path348"
-       fill="currentColor"
-       d="m76-120-7 7h7z"
-       class="ColorScheme-Text" />
-    <path
-       id="path350"
-       fill="currentColor"
-       d="m69-129v5h4v-1h-3v-1h2v-1h-2v-1h3v-1h-3z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-0-edge-locked">
-    <rect
-       id="rect353"
-       fill="none"
-       height="22"
-       width="22"
-       y="-132"
-       x="88" />
-    <path
-       id="path355"
-       opacity=".5"
-       fill="currentColor"
-       d="m107-129-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path357"
-       fill="currentColor"
-       d="m106-120c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-    <path
-       id="path359"
-       fill="currentColor"
-       d="m91-129v5h4v-1h-3v-1h2v-1h-2v-1h3v-1h-3z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-100-umts">
-    <rect
-       id="rect362"
-       fill="none"
-       height="22"
-       width="22"
-       y="-154"
-       x="-22" />
-    <path
-       id="path364"
-       fill="currentColor"
-       d="m-19-135 16-16v16z"
-       class="ColorScheme-Text" />
-    <path
-       id="path366"
-       fill="currentColor"
-       d="m-19-151v5h4v-5h-1v4h-2v-4z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-80-umts">
-    <rect
-       id="rect369"
-       fill="none"
-       height="22"
-       width="22"
-       y="-154" />
-    <path
-       id="path371"
-       opacity=".5"
-       fill="currentColor"
-       d="m3-135 16-16v16z"
-       class="ColorScheme-Text" />
-    <path
-       id="path373"
-       fill="currentColor"
-       d="m17-149-14 14h14z"
-       class="ColorScheme-Text" />
-    <path
-       id="path375"
-       fill="currentColor"
-       d="m3-151v5h4v-5h-1v4h-2v-4z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-60-umts">
-    <rect
-       id="rect378"
-       fill="none"
-       height="22"
-       width="22"
-       y="-154"
-       x="22" />
-    <path
-       id="path380"
-       opacity=".5"
-       fill="currentColor"
-       d="m25-135 16-16v16z"
-       class="ColorScheme-Text" />
-    <path
-       id="path382"
-       fill="currentColor"
-       d="m37-147-12 12h12z"
-       class="ColorScheme-Text" />
-    <path
-       id="path384"
-       fill="currentColor"
-       d="m25-151v5h4v-5h-1v4h-2v-4z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-40-umts">
-    <rect
-       id="rect387"
-       fill="none"
-       height="22"
-       width="22"
-       y="-154"
-       x="44" />
-    <path
-       id="path389"
-       opacity=".5"
-       fill="currentColor"
-       d="m47-135 16-16v16z"
-       class="ColorScheme-Text" />
-    <path
-       id="path391"
-       fill="currentColor"
-       d="m57-145-10 10h10z"
-       class="ColorScheme-Text" />
-    <path
-       id="path393"
-       fill="currentColor"
-       d="m47-151v5h4v-5h-1v4h-2v-4z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-20-umts">
-    <rect
-       id="rect396"
-       fill="none"
-       height="22"
-       width="22"
-       y="-154"
-       x="66" />
-    <path
-       id="path398"
-       opacity=".5"
-       fill="currentColor"
-       d="m69-135 16-16v16z"
-       class="ColorScheme-Text" />
-    <path
-       id="path400"
-       fill="currentColor"
-       d="m76-142-7 7h7z"
-       class="ColorScheme-Text" />
-    <path
-       id="path402"
-       fill="currentColor"
-       d="m69-151v5h4v-5h-1v4h-2v-4z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-0-umts">
-    <rect
-       id="rect405"
-       fill="none"
-       height="22"
-       width="22"
-       y="-154"
-       x="88" />
-    <path
-       id="path407"
-       opacity=".5"
-       fill="currentColor"
-       d="m91-135 16-16v16z"
-       class="ColorScheme-Text" />
-    <path
-       id="path409"
-       fill="currentColor"
-       d="m91-151v5h4v-5h-1v4h-2v-4z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-100-umts-locked">
-    <rect
-       id="rect412"
-       fill="none"
-       height="22"
-       width="22"
-       y="-176"
-       x="-22" />
-    <path
-       id="path414"
-       fill="currentColor"
-       d="m-3-173-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path416"
-       fill="currentColor"
-       d="m-4-164c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-    <path
-       id="path418"
-       fill="currentColor"
-       d="m-19-173v5h4v-5h-1v4h-2v-4z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-80-umts-locked">
-    <rect
-       id="rect421"
-       fill="none"
-       height="22"
-       width="22"
-       y="-176" />
-    <path
-       id="path423"
-       opacity=".5"
-       fill="currentColor"
-       d="m19-173-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path425"
-       fill="currentColor"
-       d="m18-164c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-    <path
-       id="path427"
-       fill="currentColor"
-       d="m17-171-14 14h11v-3l1-1v-2l2-2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path429"
-       fill="currentColor"
-       d="m3-173v5h4v-5h-1v4h-2v-4z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-60-umts-locked">
-    <rect
-       id="rect432"
-       fill="none"
-       height="22"
-       width="22"
-       y="-176"
-       x="22" />
-    <path
-       id="path434"
-       opacity=".5"
-       fill="currentColor"
-       d="m41-173-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path436"
-       fill="currentColor"
-       d="m40-164c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-    <path
-       id="path438"
-       fill="currentColor"
-       d="m37-169-12 12h11v-3l1-1v-2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path440"
-       fill="currentColor"
-       d="m25-173v5h4v-5h-1v4h-2v-4z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-40-umts-locked">
-    <rect
-       id="rect443"
-       fill="none"
-       height="22"
-       width="22"
-       y="-176"
-       x="44" />
-    <path
-       id="path445"
-       opacity=".5"
-       fill="currentColor"
-       d="m63-173-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path447"
-       fill="currentColor"
-       d="m62-164c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-    <path
-       id="path449"
-       fill="currentColor"
-       d="m57-167-10 10h10z"
-       class="ColorScheme-Text" />
-    <path
-       id="path451"
-       fill="currentColor"
-       d="m47-173v5h4v-5h-1v4h-2v-4z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-20-umts-locked">
-    <rect
-       id="rect454"
-       fill="none"
-       height="22"
-       width="22"
-       y="-176"
-       x="66" />
-    <path
-       id="path456"
-       opacity=".5"
-       fill="currentColor"
-       d="m85-173-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path458"
-       fill="currentColor"
-       d="m84-164c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-    <path
-       id="path460"
-       fill="currentColor"
-       d="m76-164-7 7h7z"
-       class="ColorScheme-Text" />
-    <path
-       id="path462"
-       fill="currentColor"
-       d="m69-173v5h4v-5h-1v4h-2v-4z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-0-umts-locked">
-    <rect
-       id="rect465"
-       fill="none"
-       height="22"
-       width="22"
-       y="-176"
-       x="88" />
-    <path
-       id="path467"
-       opacity=".5"
-       fill="currentColor"
-       d="m107-173-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path469"
-       fill="currentColor"
-       d="m106-164c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-    <path
-       id="path471"
-       fill="currentColor"
-       d="m91-173v5h4v-5h-1v4h-2v-4z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-100-hspa">
-    <rect
-       id="rect474"
-       fill="none"
-       height="22"
-       width="22"
-       y="-198"
-       x="-22" />
-    <path
-       id="path476"
-       fill="currentColor"
-       d="m-19-179 16-16v16z"
-       class="ColorScheme-Text" />
-    <path
-       id="path478"
-       fill="currentColor"
-       d="m-19-195v5h1v-2h2v2h1v-5h-1v2h-2v-2z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-80-hspa">
-    <rect
-       id="rect481"
-       fill="none"
-       height="22"
-       width="22"
-       y="-198" />
-    <path
-       id="path483"
-       opacity=".5"
-       fill="currentColor"
-       d="m3-179 16-16v16z"
-       class="ColorScheme-Text" />
-    <path
-       id="path485"
-       fill="currentColor"
-       d="m17-193-14 14h14z"
-       class="ColorScheme-Text" />
-    <path
-       id="path487"
-       fill="currentColor"
-       d="m3-195v5h1v-2h2v2h1v-5h-1v2h-2v-2z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-60-hspa">
-    <rect
-       id="rect490"
-       fill="none"
-       height="22"
-       width="22"
-       y="-198"
-       x="22" />
-    <path
-       id="path492"
-       opacity=".5"
-       fill="currentColor"
-       d="m25-179 16-16v16z"
-       class="ColorScheme-Text" />
-    <path
-       id="path494"
-       fill="currentColor"
-       d="m37-191-12 12h12z"
-       class="ColorScheme-Text" />
-    <path
-       id="path496"
-       fill="currentColor"
-       d="m25-195v5h1v-2h2v2h1v-5h-1v2h-2v-2z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-40-hspa">
-    <rect
-       id="rect499"
-       fill="none"
-       height="22"
-       width="22"
-       y="-198"
-       x="44" />
-    <path
-       id="path501"
-       opacity=".5"
-       fill="currentColor"
-       d="m47-179 16-16v16z"
-       class="ColorScheme-Text" />
-    <path
-       id="path503"
-       fill="currentColor"
-       d="m57-189-10 10h10z"
-       class="ColorScheme-Text" />
-    <path
-       id="path505"
-       fill="currentColor"
-       d="m47-195v5h1v-2h2v2h1v-5h-1v2h-2v-2z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-20-hspa">
-    <rect
-       id="rect508"
-       fill="none"
-       height="22"
-       width="22"
-       y="-198"
-       x="66" />
-    <path
-       id="path510"
-       opacity=".5"
-       fill="currentColor"
-       d="m69-179 16-16v16z"
-       class="ColorScheme-Text" />
-    <path
-       id="path512"
-       fill="currentColor"
-       d="m76-186-7 7h7z"
-       class="ColorScheme-Text" />
-    <path
-       id="path514"
-       fill="currentColor"
-       d="m69-195v5h1v-2h2v2h1v-5h-1v2h-2v-2z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-0-hspa">
-    <rect
-       id="rect517"
-       fill="none"
-       height="22"
-       width="22"
-       y="-198"
-       x="88" />
-    <path
-       id="path519"
-       opacity=".5"
-       fill="currentColor"
-       d="m91-179 16-16v16z"
-       class="ColorScheme-Text" />
-    <path
-       id="path521"
-       fill="currentColor"
-       d="m91-195v5h1v-2h2v2h1v-5h-1v2h-2v-2z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-100-hspa-locked">
-    <rect
-       id="rect524"
-       fill="none"
-       height="22"
-       width="22"
-       y="-220"
-       x="-22" />
-    <path
-       id="path526"
-       fill="currentColor"
-       d="m-3-217-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path528"
-       fill="currentColor"
-       d="m-4-208c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-    <path
-       id="path530"
-       fill="currentColor"
-       d="m-19-217v5h1v-2h2v2h1v-5h-1v2h-2v-2z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-80-hspa-locked">
-    <rect
-       id="rect533"
-       fill="none"
-       height="22"
-       width="22"
-       y="-220" />
-    <path
-       id="path535"
-       opacity=".5"
-       fill="currentColor"
-       d="m19-217-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path537"
-       fill="currentColor"
-       d="m18-208c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-    <path
-       id="path539"
-       fill="currentColor"
-       d="m17-215-14 14h11v-3l1-1v-2l2-2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path541"
-       fill="currentColor"
-       d="m3-217v5h1v-2h2v2h1v-5h-1v2h-2v-2z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-60-hspa-locked">
-    <rect
-       id="rect544"
-       fill="none"
-       height="22"
-       width="22"
-       y="-220"
-       x="22" />
-    <path
-       id="path546"
-       opacity=".5"
-       fill="currentColor"
-       d="m41-217-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path548"
-       fill="currentColor"
-       d="m40-208c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-    <path
-       id="path550"
-       fill="currentColor"
-       d="m37-213-12 12h11v-3l1-1v-2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path552"
-       fill="currentColor"
-       d="m25-217v5h1v-2h2v2h1v-5h-1v2h-2v-2z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-40-hspa-locked">
-    <rect
-       id="rect555"
-       fill="none"
-       height="22"
-       width="22"
-       y="-220"
-       x="44" />
-    <path
-       id="path557"
-       opacity=".5"
-       fill="currentColor"
-       d="m63-217-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path559"
-       fill="currentColor"
-       d="m62-208c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-    <path
-       id="path561"
-       fill="currentColor"
-       d="m57-211-10 10h10z"
-       class="ColorScheme-Text" />
-    <path
-       id="path563"
-       fill="currentColor"
-       d="m47-217v5h1v-2h2v2h1v-5h-1v2h-2v-2z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-20-hspa-locked">
-    <rect
-       id="rect566"
-       fill="none"
-       height="22"
-       width="22"
-       y="-220"
-       x="66" />
-    <path
-       id="path568"
-       opacity=".5"
-       fill="currentColor"
-       d="m85-217-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path570"
-       fill="currentColor"
-       d="m84-208c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-    <path
-       id="path572"
-       fill="currentColor"
-       d="m76-208-7 7h7z"
-       class="ColorScheme-Text" />
-    <path
-       id="path574"
-       fill="currentColor"
-       d="m69-217v5h1v-2h2v2h1v-5h-1v2h-2v-2z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-0-hspa-locked">
-    <rect
-       id="rect577"
-       fill="none"
-       height="22"
-       width="22"
-       y="-220"
-       x="88" />
-    <path
-       id="path579"
-       opacity=".5"
-       fill="currentColor"
-       d="m107-217-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path581"
-       fill="currentColor"
-       d="m106-208c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-    <path
-       id="path583"
-       fill="currentColor"
-       d="m91-217v5h1v-2h2v2h1v-5h-1v2h-2v-2z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-100-hsupa">
-    <rect
-       id="rect586"
-       fill="none"
-       height="22"
-       width="22"
-       y="-242"
-       x="-22" />
-    <path
-       id="path588"
-       fill="currentColor"
-       d="m-19-223 16-16v16z"
-       class="ColorScheme-Text" />
-    <path
-       id="path590"
-       fill="currentColor"
-       d="m-19-239v5h1v-2h2v2h1v-5h-1v2h-2v-2zm6 0-1 2h2z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-80-hsupa">
-    <rect
-       id="rect593"
-       fill="none"
-       height="22"
-       width="22"
-       y="-242" />
-    <path
-       id="path595"
-       opacity=".5"
-       fill="currentColor"
-       d="m3-223 16-16v16z"
-       class="ColorScheme-Text" />
-    <path
-       id="path597"
-       fill="currentColor"
-       d="m17-237-14 14h14z"
-       class="ColorScheme-Text" />
-    <path
-       id="path599"
-       fill="currentColor"
-       d="m3-239v5h1v-2h2v2h1v-5h-1v2h-2v-2zm6 0-1 2h2z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-60-hsupa">
-    <rect
-       id="rect602"
-       fill="none"
-       height="22"
-       width="22"
-       y="-242"
-       x="22" />
-    <path
-       id="path604"
-       opacity=".5"
-       fill="currentColor"
-       d="m25-223 16-16v16z"
-       class="ColorScheme-Text" />
-    <path
-       id="path606"
-       fill="currentColor"
-       d="m37-235-12 12h12z"
-       class="ColorScheme-Text" />
-    <path
-       id="path608"
-       fill="currentColor"
-       d="m25-239v5h1v-2h2v2h1v-5h-1v2h-2v-2zm6 0-1 2h2z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-40-hsupa">
-    <rect
-       id="rect611"
-       fill="none"
-       height="22"
-       width="22"
-       y="-242"
-       x="44" />
-    <path
-       id="path613"
-       opacity=".5"
-       fill="currentColor"
-       d="m47-223 16-16v16z"
-       class="ColorScheme-Text" />
-    <path
-       id="path615"
-       fill="currentColor"
-       d="m57-233-10 10h10z"
-       class="ColorScheme-Text" />
-    <path
-       id="path617"
-       fill="currentColor"
-       d="m47-239v5h1v-2h2v2h1v-5h-1v2h-2v-2zm6 0-1 2h2z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-20-hsupa">
-    <rect
-       id="rect620"
-       fill="none"
-       height="22"
-       width="22"
-       y="-242"
-       x="66" />
-    <path
-       id="path622"
-       opacity=".5"
-       fill="currentColor"
-       d="m69-223 16-16v16z"
-       class="ColorScheme-Text" />
-    <path
-       id="path624"
-       fill="currentColor"
-       d="m76-230-7 7h7z"
-       class="ColorScheme-Text" />
-    <path
-       id="path626"
-       fill="currentColor"
-       d="m69-239v5h1v-2h2v2h1v-5h-1v2h-2v-2zm6 0-1 2h2z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-0-hsupa">
-    <rect
-       id="rect629"
-       fill="none"
-       height="22"
-       width="22"
-       y="-242"
-       x="88" />
-    <path
-       id="path631"
-       opacity=".5"
-       fill="currentColor"
-       d="m91-223 16-16v16z"
-       class="ColorScheme-Text" />
-    <path
-       id="path633"
-       fill="currentColor"
-       d="m91-239v5h1v-2h2v2h1v-5h-1v2h-2v-2zm6 0-1 2h2z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-100-hsupa-locked">
-    <rect
-       id="rect636"
-       fill="none"
-       height="22"
-       width="22"
-       y="-264"
-       x="-22" />
-    <path
-       id="path638"
-       fill="currentColor"
-       d="m-3-261-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path640"
-       fill="currentColor"
-       d="m-4-252c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-    <path
-       id="path642"
-       fill="currentColor"
-       d="m-19-261v5h1v-2h2v2h1v-5h-1v2h-2v-2zm6 0-1 2h2z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-80-hsupa-locked">
-    <rect
-       id="rect645"
-       fill="none"
-       height="22"
-       width="22"
-       y="-264" />
-    <path
-       id="path647"
-       opacity=".5"
-       fill="currentColor"
-       d="m19-261-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path649"
-       fill="currentColor"
-       d="m18-252c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-    <path
-       id="path651"
-       fill="currentColor"
-       d="m17-259-14 14h11v-3l1-1v-2l2-2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path653"
-       fill="currentColor"
-       d="m3-261v5h1v-2h2v2h1v-5h-1v2h-2v-2zm6 0-1 2h2z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-60-hsupa-locked">
-    <rect
-       id="rect656"
-       fill="none"
-       height="22"
-       width="22"
-       y="-264"
-       x="22" />
-    <path
-       id="path658"
-       opacity=".5"
-       fill="currentColor"
-       d="m41-261-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path660"
-       fill="currentColor"
-       d="m40-252c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-    <path
-       id="path662"
-       fill="currentColor"
-       d="m37-257-12 12h11v-3l1-1v-2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path664"
-       fill="currentColor"
-       d="m25-261v5h1v-2h2v2h1v-5h-1v2h-2v-2zm6 0-1 2h2z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-40-hsupa-locked">
-    <rect
-       id="rect667"
-       fill="none"
-       height="22"
-       width="22"
-       y="-264"
-       x="44" />
-    <path
-       id="path669"
-       opacity=".5"
-       fill="currentColor"
-       d="m63-261-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path671"
-       fill="currentColor"
-       d="m62-252c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-    <path
-       id="path673"
-       fill="currentColor"
-       d="m57-255-10 10h10z"
-       class="ColorScheme-Text" />
-    <path
-       id="path675"
-       fill="currentColor"
-       d="m47-261v5h1v-2h2v2h1v-5h-1v2h-2v-2zm6 0-1 2h2z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-20-hsupa-locked">
-    <rect
-       id="rect678"
-       fill="none"
-       height="22"
-       width="22"
-       y="-264"
-       x="66" />
-    <path
-       id="path680"
-       opacity=".5"
-       fill="currentColor"
-       d="m85-261-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path682"
-       fill="currentColor"
-       d="m84-252c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-    <path
-       id="path684"
-       fill="currentColor"
-       d="m76-252-7 7h7z"
-       class="ColorScheme-Text" />
-    <path
-       id="path686"
-       fill="currentColor"
-       d="m69-261v5h1v-2h2v2h1v-5h-1v2h-2v-2zm6 0-1 2h2z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-0-hsupa-locked">
-    <rect
-       id="rect689"
-       fill="none"
-       height="22"
-       width="22"
-       y="-264"
-       x="88" />
-    <path
-       id="path691"
-       opacity=".5"
-       fill="currentColor"
-       d="m107-261-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path693"
-       fill="currentColor"
-       d="m106-252c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-    <path
-       id="path695"
-       fill="currentColor"
-       d="m91-261v5h1v-2h2v2h1v-5h-1v2h-2v-2zm6 0-1 2h2z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-100-hsdpa">
-    <rect
-       id="rect698"
-       fill="none"
-       height="22"
-       width="22"
-       y="-286"
-       x="-22" />
-    <path
-       id="path700"
-       fill="currentColor"
-       d="m-19-267 16-16v16z"
-       class="ColorScheme-Text" />
-    <path
-       id="path702"
-       fill="currentColor"
-       d="m-19-283v5h1v-2h2v2h1v-5h-1v2h-2v-2zm5 0 1 2 1-2z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-80-hsdpa">
-    <rect
-       id="rect705"
-       fill="none"
-       height="22"
-       width="22"
-       y="-286" />
-    <path
-       id="path707"
-       opacity=".5"
-       fill="currentColor"
-       d="m3-267 16-16v16z"
-       class="ColorScheme-Text" />
-    <path
-       id="path709"
-       fill="currentColor"
-       d="m17-281-14 14h14z"
-       class="ColorScheme-Text" />
-    <path
-       id="path711"
-       fill="currentColor"
-       d="m6.5-283v5h1v-2h2v2h1v-5h-1v2h-2v-2zm5 0 1 2 1-2z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-60-hsdpa">
-    <rect
-       id="rect714"
-       fill="none"
-       height="22"
-       width="22"
-       y="-286"
-       x="22" />
-    <path
-       id="path716"
-       opacity=".5"
-       fill="currentColor"
-       d="m25-267 16-16v16z"
-       class="ColorScheme-Text" />
-    <path
-       id="path718"
-       fill="currentColor"
-       d="m37-279-12 12h12z"
-       class="ColorScheme-Text" />
-    <path
-       id="path720"
-       fill="currentColor"
-       d="m25-283v5h1v-2h2v2h1v-5h-1v2h-2v-2zm5 0 1 2 1-2z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-40-hsdpa">
-    <rect
-       id="rect723"
-       fill="none"
-       height="22"
-       width="22"
-       y="-286"
-       x="44" />
-    <path
-       id="path725"
-       opacity=".5"
-       fill="currentColor"
-       d="m47-267 16-16v16z"
-       class="ColorScheme-Text" />
-    <path
-       id="path727"
-       fill="currentColor"
-       d="m57-277-10 10h10z"
-       class="ColorScheme-Text" />
-    <path
-       id="path729"
-       fill="currentColor"
-       d="m50.5-283v5h1v-2h2v2h1v-5h-1v2h-2v-2zm5 0 1 2 1-2z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-20-hsdpa">
-    <rect
-       id="rect732"
-       fill="none"
-       height="22"
-       width="22"
-       y="-286"
-       x="66" />
-    <path
-       id="path734"
-       opacity=".5"
-       fill="currentColor"
-       d="m69-267 16-16v16z"
-       class="ColorScheme-Text" />
-    <path
-       id="path736"
-       fill="currentColor"
-       d="m76-274-7 7h7z"
-       class="ColorScheme-Text" />
-    <path
-       id="path738"
-       fill="currentColor"
-       d="m69-283v5h1v-2h2v2h1v-5h-1v2h-2v-2zm5 0 1 2 1-2z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-0-hsdpa">
-    <rect
-       id="rect741"
-       fill="none"
-       height="22"
-       width="22"
-       y="-286"
-       x="88" />
-    <path
-       id="path743"
-       opacity=".5"
-       fill="currentColor"
-       d="m91-267 16-16v16z"
-       class="ColorScheme-Text" />
-    <path
-       id="path745"
-       fill="currentColor"
-       d="m94.5-283v5h1v-2h2v2h1v-5h-1v2h-2v-2zm5 0 1 2 1-2z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-100-hsdpa-locked">
-    <rect
-       id="rect748"
-       fill="none"
-       height="22"
-       width="22"
-       y="-308"
-       x="-22" />
-    <path
-       id="path750"
-       fill="currentColor"
-       d="m-3-305-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path752"
-       fill="currentColor"
-       d="m-4-296c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-    <path
-       id="path754"
-       fill="currentColor"
-       d="m-19-305v5h1v-2h2v2h1v-5h-1v2h-2v-2zm5 0 1 2 1-2z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-80-hsdpa-locked">
-    <rect
-       id="rect757"
-       fill="none"
-       height="22"
-       width="22"
-       y="-308" />
-    <path
-       id="path759"
-       opacity=".5"
-       fill="currentColor"
-       d="m19-305-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path761"
-       fill="currentColor"
-       d="m18-296c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-    <path
-       id="path763"
-       fill="currentColor"
-       d="m17-303-14 14h11v-3l1-1v-2l2-2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path765"
-       fill="currentColor"
-       d="m6.5-305v5h1v-2h2v2h1v-5h-1v2h-2v-2zm5 0 1 2 1-2z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-60-hsdpa-locked">
-    <rect
-       id="rect768"
-       fill="none"
-       height="22"
-       width="22"
-       y="-308"
-       x="22" />
-    <path
-       id="path770"
-       opacity=".5"
-       fill="currentColor"
-       d="m41-305-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path772"
-       fill="currentColor"
-       d="m40-296c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-    <path
-       id="path774"
-       fill="currentColor"
-       d="m37-301-12 12h11v-3l1-1v-2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path776"
-       fill="currentColor"
-       d="m25-305v5h1v-2h2v2h1v-5h-1v2h-2v-2zm5 0 1 2 1-2z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-40-hsdpa-locked">
-    <rect
-       id="rect779"
-       fill="none"
-       height="22"
-       width="22"
-       y="-308"
-       x="44" />
-    <path
-       id="path781"
-       opacity=".5"
-       fill="currentColor"
-       d="m63-305-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path783"
-       fill="currentColor"
-       d="m62-296c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-    <path
-       id="path785"
-       fill="currentColor"
-       d="m57-299-10 10h10z"
-       class="ColorScheme-Text" />
-    <path
-       id="path787"
-       fill="currentColor"
-       d="m50.5-305v5h1v-2h2v2h1v-5h-1v2h-2v-2zm5 0 1 2 1-2z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-20-hsdpa-locked">
-    <rect
-       id="rect790"
-       fill="none"
-       height="22"
-       width="22"
-       y="-308"
-       x="66" />
-    <path
-       id="path792"
-       opacity=".5"
-       fill="currentColor"
-       d="m85-305-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path794"
-       fill="currentColor"
-       d="m84-296c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-    <path
-       id="path796"
-       fill="currentColor"
-       d="m76-296-7 7h7z"
-       class="ColorScheme-Text" />
-    <path
-       id="path798"
-       fill="currentColor"
-       d="m69-305v5h1v-2h2v2h1v-5h-1v2h-2v-2zm5 0 1 2 1-2z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -166.5)"
-     id="network-mobile-0-hsdpa-locked">
-    <rect
-       id="rect801"
-       fill="none"
-       height="22"
-       width="22"
-       y="-308"
-       x="88" />
-    <path
-       id="path803"
-       opacity=".5"
-       fill="currentColor"
-       d="m107-305-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path805"
-       fill="currentColor"
-       d="m106-296c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-    <path
-       id="path807"
-       fill="currentColor"
-       d="m94.5-305v5h1v-2h2v2h1v-5h-1v2h-2v-2zm5 0 1 2 1-2z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -122.5)"
-     id="network-mobile-100-lte">
-    <rect
-       id="rect810"
-       fill="none"
-       height="22"
-       width="22"
-       y="-374"
-       x="-22" />
-    <path
-       id="path812"
-       fill="currentColor"
-       d="m-19-355 16-16v16z"
-       class="ColorScheme-Text" />
-    <path
-       id="path814"
-       fill="currentColor"
-       d="m-19-371v5h4v-1h-3v-4z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -122.5)"
-     id="network-mobile-80-lte">
-    <rect
-       id="rect817"
-       fill="none"
-       height="22"
-       width="22"
-       y="-374" />
-    <path
-       id="path819"
-       opacity=".5"
-       fill="currentColor"
-       d="m3-355 16-16v16z"
-       class="ColorScheme-Text" />
-    <path
-       id="path821"
-       fill="currentColor"
-       d="m17-369-14 14h14z"
-       class="ColorScheme-Text" />
-    <path
-       id="path823"
-       fill="currentColor"
-       d="m3-371v5h4v-1h-3v-4z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -122.5)"
-     id="network-mobile-60-lte">
-    <rect
-       id="rect826"
-       fill="none"
-       height="22"
-       width="22"
-       y="-374"
-       x="22" />
-    <path
-       id="path828"
-       opacity=".5"
-       fill="currentColor"
-       d="m25-355 16-16v16z"
-       class="ColorScheme-Text" />
-    <path
-       id="path830"
-       fill="currentColor"
-       d="m37-367-12 12h12z"
-       class="ColorScheme-Text" />
-    <path
-       id="path832"
-       fill="currentColor"
-       d="m25-371v5h4v-1h-3v-4z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -122.5)"
-     id="network-mobile-40-lte">
-    <rect
-       id="rect835"
-       fill="none"
-       height="22"
-       width="22"
-       y="-374"
-       x="44" />
-    <path
-       id="path837"
-       opacity=".5"
-       fill="currentColor"
-       d="m47-355 16-16v16z"
-       class="ColorScheme-Text" />
-    <path
-       id="path839"
-       fill="currentColor"
-       d="m57-365-10 10h10z"
-       class="ColorScheme-Text" />
-    <path
-       id="path841"
-       fill="currentColor"
-       d="m47-371v5h4v-1h-3v-4z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -122.5)"
-     id="network-mobile-20-lte">
-    <rect
-       id="rect844"
-       fill="none"
-       height="22"
-       width="22"
-       y="-374"
-       x="66" />
-    <path
-       id="path846"
-       opacity=".5"
-       fill="currentColor"
-       d="m69-355 16-16v16z"
-       class="ColorScheme-Text" />
-    <path
-       id="path848"
-       fill="currentColor"
-       d="m76-362-7 7h7z"
-       class="ColorScheme-Text" />
-    <path
-       id="path850"
-       fill="currentColor"
-       d="m69-371v5h4v-1h-3v-4z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20.5 -122.5)"
-     id="network-mobile-0-lte">
-    <rect
-       id="rect853"
-       fill="none"
-       height="22"
-       width="22"
-       y="-374"
-       x="88" />
-    <path
-       id="path855"
-       opacity=".5"
-       fill="currentColor"
-       d="m91-355 16-16v16z"
-       class="ColorScheme-Text" />
-    <path
-       id="path857"
-       fill="currentColor"
-       d="m91-371v5h4v-1h-3v-4z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20,-128)"
-     id="network-mobile-100-lte-locked">
-    <rect
-       id="rect860"
-       fill="none"
-       height="22"
-       width="22"
-       y="-396"
-       x="-22" />
-    <path
-       id="path862"
-       fill="currentColor"
-       d="m-3-393-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path864"
-       fill="currentColor"
-       d="m-4-384c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-    <path
-       id="path866"
-       fill="currentColor"
-       d="m-19-393v5h4v-1h-3v-4z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20,-128)"
-     id="network-mobile-80-lte-locked">
-    <rect
-       id="rect869"
-       fill="none"
-       height="22"
-       width="22"
-       y="-396" />
-    <path
-       id="path871"
-       opacity=".5"
-       fill="currentColor"
-       d="m19-393-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path873"
-       fill="currentColor"
-       d="m18-384c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-    <path
-       id="path875"
-       fill="currentColor"
-       d="m17-391-14 14h11v-3l1-1v-2l2-2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path877"
-       fill="currentColor"
-       d="m3-393v5h4v-1h-3v-4z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20,-128)"
-     id="network-mobile-60-lte-locked">
-    <rect
-       id="rect880"
-       fill="none"
-       height="22"
-       width="22"
-       y="-396"
-       x="22" />
-    <path
-       id="path882"
-       opacity=".5"
-       fill="currentColor"
-       d="m41-393-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path884"
-       fill="currentColor"
-       d="m40-384c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-    <path
-       id="path886"
-       fill="currentColor"
-       d="m37-389-12 12h11v-3l1-1v-2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path888"
-       fill="currentColor"
-       d="m25-393v5h4v-1h-3v-4z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20,-128)"
-     id="network-mobile-40-lte-locked">
-    <rect
-       id="rect891"
-       fill="none"
-       height="22"
-       width="22"
-       y="-396"
-       x="44" />
-    <path
-       id="path893"
-       opacity=".5"
-       fill="currentColor"
-       d="m63-393-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path895"
-       fill="currentColor"
-       d="m62-384c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-    <path
-       id="path897"
-       fill="currentColor"
-       d="m57-387-10 10h10z"
-       class="ColorScheme-Text" />
-    <path
-       id="path899"
-       fill="currentColor"
-       d="m47-393v5h4v-1h-3v-4z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20,-128)"
-     id="network-mobile-20-lte-locked">
-    <rect
-       id="rect902"
-       fill="none"
-       height="22"
-       width="22"
-       y="-396"
-       x="66" />
-    <path
-       id="path904"
-       opacity=".5"
-       fill="currentColor"
-       d="m85-393-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path906"
-       fill="currentColor"
-       d="m84-384c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-    <path
-       id="path908"
-       fill="currentColor"
-       d="m76-384-7 7h7z"
-       class="ColorScheme-Text" />
-    <path
-       id="path910"
-       fill="currentColor"
-       d="m69-393v5h4v-1h-3v-4z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(20,-128)"
-     id="network-mobile-0-lte-locked">
-    <rect
-       id="rect913"
-       fill="none"
-       height="22"
-       width="22"
-       y="-396"
-       x="88" />
-    <path
-       id="path915"
-       opacity=".5"
-       fill="currentColor"
-       d="m107-393-16 16h11v-3l1-1v-2l2-2h2z"
-       class="ColorScheme-Text" />
-    <path
-       id="path917"
-       fill="currentColor"
-       d="m106-384c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
-       class="ColorScheme-Text" />
-    <path
-       id="path919"
-       fill="currentColor"
-       d="m91-393v5h4v-1h-3v-4z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
      transform="translate(20.5 -166.5)"
      id="network-vpn">
     <rect
@@ -2778,22 +206,6 @@
        id="path924"
        fill="currentColor"
        d="m33 131s-2 2.6575-8 3.3242c0 0 0 9.3339 8 12.676 8-3.3419 8-12.676 8-12.676-6-0.6667-8-3.3242-8-3.3242zm0 1.377c1.587 1.3447 3.8772 2.2418 6.8457 2.6934-0.16126 1.4452-0.31587 2.5328-0.68945 3.584-0.78509 2.2091-1.7005 3.553-2.5215 4.5195-1.2722 1.4977-2.4276 2.1038-3.6348 2.707-1.2072-0.6032-2.3625-1.2093-3.6348-2.707-0.821-0.9665-1.7364-2.3104-2.5215-4.5195-0.37358-1.0512-0.52819-2.1388-0.68945-3.584 2.9685-0.5516 5.2587-1.3487 6.8457-2.6934zm0 1.1992c-1.7435 1.2103-3.7022 1.8232-5.668 2.2402 0.93085 5.282 2.9361 7.5407 5.668 8.9551 2.7319-1.4144 4.7371-3.6731 5.668-8.9551-1.9658-0.417-3.9245-1.0299-5.668-2.2402z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(-23.5 -166.5)"
-     id="network-mobile-on">
-    <rect
-       id="rect927"
-       fill="none"
-       height="22"
-       width="22"
-       y="-22"
-       x="-22" />
-    <path
-       id="path929"
-       fill="currentColor"
-       d="m-19-3 16-16v16z"
        class="ColorScheme-Text" />
   </g>
   <g
@@ -2811,30 +223,6 @@
        d="m143 3v7.041l-3.293-3.293-0.00196 0.0019531c-0.35574-0.35595-0.99609-0.99609-0.99609-0.99609l-0.70703 0.70703 4.5449 4.541-4.5449 4.541 0.70703 0.70703s0.64035-0.64009 0.99609-0.99609h2e-3l3.2949-3.293v7.0391h1l4-4-4-4 4-4-4-4zm1.002 1.416 2.5859 2.5859-2.5859 2.5859zm-11 5.584c-0.55228 0-1 0.44772-1 1s0.44772 1 1 1 1-0.44772 1-1-0.44772-1-1-1zm4 0c-0.55228 0-1 0.44772-1 1s0.44772 1 1 1 1-0.44772 1-1-0.44772-1-1-1zm14 2c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm-7 0.41602 2.5859 2.5859-2.5859 2.5859zm7 0.58398c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
        transform="translate(-66)"
        class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(-15.5 -240.5)"
-     id="network-mobile-off">
-    <rect
-       id="rect937"
-       opacity=".2"
-       fill="none"
-       height="22"
-       width="22"
-       y="52"
-       x="146" />
-    <path
-       id="path939"
-       opacity=".5"
-       fill="currentColor"
-       d="m165 55-16 16h12.902l-0.85351-0.85352 2.1523-2.1504-2.1523-2.1523 1.3086-1.3066 0.45899-0.46094 2.1523 2.1523 0.0312-0.03125z"
-       class="ColorScheme-Text" />
-    <path
-       id="path941"
-       fill="currentColor"
-       color="#e74c3c"
-       d="m162.82 64.996-0.84844 0.84844 2.1516 2.1516-2.1516 2.1516 0.84844 0.84844 2.1516-2.1516 2.1516 2.1516 0.84844-0.84844-2.1516-2.1516 2.1516-2.1516-0.84844-0.84844-2.1516 2.1516z"
-       class="ColorScheme-NegativeText" />
   </g>
   <g
      transform="translate(14.697 5.5059)"
@@ -3008,7 +396,7 @@
      transform="translate(26.99)"
      id="network-wireless-on" />
   <g
-     id="g1005"
+     id="network-wireless-100"
      transform="translate(138.1 -.90039)">
     <rect
        id="rect995"
@@ -3035,7 +423,7 @@
     </g>
   </g>
   <g
-     id="g1017"
+     id="network-wireless-80"
      transform="translate(162.1 -.90039)">
     <rect
        id="rect1007"
@@ -3063,7 +451,7 @@
     </g>
   </g>
   <g
-     id="g1029"
+     id="network-wireless-60"
      transform="translate(186.1 -.90039)">
     <rect
        id="rect1019"
@@ -3092,7 +480,7 @@
     </g>
   </g>
   <g
-     id="g1041"
+     id="network-wireless-40"
      transform="translate(210.1 -.90039)">
     <rect
        id="rect1031"
@@ -3121,7 +509,7 @@
     </g>
   </g>
   <g
-     id="g1053"
+     id="network-wireless-20"
      transform="translate(234.1 -.90039)">
     <rect
        id="rect1043"
@@ -3151,7 +539,7 @@
     </g>
   </g>
   <g
-     id="g1065"
+     id="network-wireless-0"
      transform="translate(258.1 -.90039)">
     <rect
        id="rect1055"
@@ -3181,7 +569,7 @@
     </g>
   </g>
   <g
-     id="g1077"
+     id="network-wireless-connected-100"
      transform="translate(138.1 24.1)">
     <rect
        id="rect1067"
@@ -3208,7 +596,7 @@
     </g>
   </g>
   <g
-     id="g1089"
+     id="network-wireless-connected-80"
      transform="translate(162.1 24.1)">
     <rect
        id="rect1079"
@@ -3236,7 +624,7 @@
     </g>
   </g>
   <g
-     id="g1101"
+     id="network-wireless-connected-60"
      transform="translate(186.1 24.1)">
     <rect
        id="rect1091"
@@ -3265,7 +653,7 @@
     </g>
   </g>
   <g
-     id="g1113"
+     id="network-wireless-connected-40"
      transform="translate(210.1 24.1)">
     <rect
        id="rect1103"
@@ -3294,7 +682,7 @@
     </g>
   </g>
   <g
-     id="g1125"
+     id="network-wireless-connected-20"
      transform="translate(234.1 24.1)">
     <rect
        id="rect1115"
@@ -3324,7 +712,7 @@
     </g>
   </g>
   <g
-     id="g1137"
+     id="network-wireless-connected-00"
      transform="translate(258.1 24.1)">
     <rect
        id="rect1127"
@@ -3458,6 +846,8 @@
 <path
    id="path1175"
    d="m-52.061 15a4 4 0 0 0-2.7676 1.1719l2.8281 2.8281 2.8281-2.8281a4 4 0 0 0-2.8281-1.1719 4 4 0 0 0-0.06055 0z" />
+
+
 class=&quot;ColorScheme-Text&quot; fill=&quot;currentColor&quot;/&gt;
    </g>
     </g>
@@ -3497,6 +887,8 @@ class=&quot;ColorScheme-Text&quot; fill=&quot;currentColor&quot;/&gt;
 <path
    id="path1190"
    d="m-52.061 15a4 4 0 0 0-2.7676 1.1719l2.8281 2.8281 2.8281-2.8281a4 4 0 0 0-2.8281-1.1719 4 4 0 0 0-0.06055 0z" />
+
+
 class=&quot;ColorScheme-Text&quot; fill=&quot;currentColor&quot;/&gt;
    </g>
     </g>
@@ -4037,4 +1429,2576 @@ class=&quot;ColorScheme-Text&quot; fill=&quot;currentColor&quot;/&gt;
      xlink:href="#32-32-network-wired-activated"
      y="0"
      x="0" />
+  <g
+     transform="translate(-2.4615047,-186.22887)"
+     id="network-mobile-available">
+    <rect
+       y="-22"
+       x="-22"
+       height="22"
+       width="22"
+       id="rect4662"
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       class="ColorScheme-ButtonFocus"
+       id="path4664"
+       d="M -19,-3 -3,-19 V -3 Z"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-100">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4198"
+       width="22"
+       height="22"
+       x="-22"
+       y="-22" />
+    <path
+       class="ColorScheme-Text"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -19,-3 -3,-19 V -3 Z"
+       id="path4220" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-80">
+    <rect
+       y="-22"
+       x="0"
+       height="22"
+       width="22"
+       id="rect4196"
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 3,-3 19,-19 V -3 Z"
+       id="path4227" />
+    <path
+       class="ColorScheme-Text"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 17,-17 3,-3 h 14 z"
+       id="path4222" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-60">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4200"
+       width="22"
+       height="22"
+       x="22"
+       y="-22" />
+    <path
+       class="ColorScheme-Text"
+       id="path4229"
+       d="M 25,-3 41,-19 V -3 Z"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 37,-15 25,-3 h 12 z"
+       id="path4231" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-40">
+    <rect
+       y="-22"
+       x="44"
+       height="22"
+       width="22"
+       id="rect4202"
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 47,-3 63,-19 V -3 Z"
+       id="path4233" />
+    <path
+       class="ColorScheme-Text"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 57,-13 47,-3 h 10 z"
+       id="path4235" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-20">
+    <rect
+       y="-22"
+       x="66"
+       height="22"
+       width="22"
+       id="rect4293"
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       id="path4315"
+       d="M 69,-3 85,-19 V -3 Z"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 76,-10 -7,7 h 7 z"
+       id="path4317" />
+  </g>
+  <g
+     transform="translate(-2.4615047,-186.22887)"
+     id="network-mobile-0">
+    <rect
+       y="-22"
+       x="110"
+       height="22"
+       width="22"
+       id="rect4295"
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       id="path4330"
+       d="m 113,-3 16,-16 v 16 z"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-100-locked">
+    <rect
+       y="-44"
+       x="-22"
+       height="22"
+       width="22"
+       id="rect4230"
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -3,-41 -16,16 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       id="path4238" />
+    <path
+       class="ColorScheme-Text"
+       id="path4340-4"
+       d="m -4,-32 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-80-locked">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4760"
+       width="22"
+       height="22"
+       x="0"
+       y="-44" />
+    <path
+       class="ColorScheme-Text"
+       id="path4762"
+       d="M 19,-41 3,-25 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 18,-32 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       id="path4764" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 17,-39 3,-25 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 z"
+       id="path4790" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-60-locked">
+    <rect
+       y="-44"
+       x="22"
+       height="22"
+       width="22"
+       id="rect4766"
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 41,-41 -16,16 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       id="path4768" />
+    <path
+       class="ColorScheme-Text"
+       id="path4770"
+       d="m 40,-32 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 37,-37 -12,12 h 11 v -3 l 1,-1 v -2 z"
+       id="path4792" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-40-locked">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4772"
+       width="22"
+       height="22"
+       x="44"
+       y="-44" />
+    <path
+       class="ColorScheme-Text"
+       id="path4774"
+       d="m 63,-41 -16,16 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 62,-32 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       id="path4776" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 57,-35 47,-25 H 57 Z"
+       id="path4794" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-20-locked">
+    <rect
+       y="-44"
+       x="66"
+       height="22"
+       width="22"
+       id="rect4778"
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 85,-41 -16,16 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       id="path4780" />
+    <path
+       class="ColorScheme-Text"
+       id="path4782"
+       d="m 84,-32 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 76,-32 -7,7 h 7 z"
+       id="path4796" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-0-locked">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4784"
+       width="22"
+       height="22"
+       x="88"
+       y="-44" />
+    <path
+       class="ColorScheme-Text"
+       id="path4786"
+       d="m 107,-41 -16,16 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 106,-32 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       id="path4788" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-100-gprs">
+    <rect
+       y="-66"
+       x="-22"
+       height="22"
+       width="22"
+       id="rect4814"
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       id="path4816"
+       d="m -19,-47 16,-16 v 16 z"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       class="ColorScheme-Text" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+       d="m -19,-63 v 4 1 h 4 v -1 -1 -1 h -2 v 1 h 1 v 1 h -2 v -3 h 3 v -1 h -3 z"
+       id="rect4976-4" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-80-gprs">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4820"
+       width="22"
+       height="22"
+       x="0"
+       y="-66" />
+    <path
+       id="path4822"
+       d="m 3,-47 16,-16 v 16 z"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       class="ColorScheme-Text" />
+    <path
+       id="path4824"
+       d="M 17,-61 3,-47 h 14 z"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       class="ColorScheme-Text" />
+    <path
+       class="ColorScheme-Text"
+       id="path5058"
+       d="m 3,-63 v 4 1 h 4 v -1 -1 -1 H 5 v 1 h 1 v 1 H 4 v -3 h 3 v -1 H 4 Z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-60-gprs">
+    <rect
+       y="-66"
+       x="22"
+       height="22"
+       width="22"
+       id="rect4828"
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 25,-47 16,-16 v 16 z"
+       id="path4830"
+       class="ColorScheme-Text" />
+    <path
+       id="path4832"
+       d="M 37,-59 25,-47 H 37 Z"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       class="ColorScheme-Text" />
+    <path
+       class="ColorScheme-Text"
+       id="path5060"
+       d="m 25,-63 v 4 1 h 4 v -1 -1 -1 h -2 v 1 h 1 v 1 h -2 v -3 h 3 v -1 h -3 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-40-gprs">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4836"
+       width="22"
+       height="22"
+       x="44"
+       y="-66" />
+    <path
+       id="path4838"
+       d="m 47,-47 16,-16 v 16 z"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       class="ColorScheme-Text" />
+    <path
+       id="path4840"
+       d="M 57,-57 47,-47 H 57 Z"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       class="ColorScheme-Text" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+       d="m 47,-63 v 4 1 h 4 v -1 -1 -1 h -2 v 1 h 1 v 1 h -2 v -3 h 3 v -1 h -3 z"
+       id="path5062" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-20-gprs">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4844"
+       width="22"
+       height="22"
+       x="66"
+       y="-66" />
+    <path
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 69,-47 16,-16 v 16 z"
+       id="path4846"
+       class="ColorScheme-Text" />
+    <path
+       id="path4848"
+       d="m 76,-54 -7,7 h 7 z"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       class="ColorScheme-Text" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+       d="m 69,-63 v 4 1 h 4 v -1 -1 -1 h -2 v 1 h 1 v 1 h -2 v -3 h 3 v -1 h -3 z"
+       id="path5064" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-0-gprs">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4852"
+       width="22"
+       height="22"
+       x="88"
+       y="-66" />
+    <path
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 91,-47 16,-16 v 16 z"
+       id="path4854"
+       class="ColorScheme-Text" />
+    <path
+       class="ColorScheme-Text"
+       id="path5066"
+       d="m 91,-63 v 4 1 h 4 v -1 -1 -1 h -2 v 1 h 1 v 1 h -2 v -3 h 3 v -1 h -3 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-100-gprs-locked">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4856"
+       width="22"
+       height="22"
+       x="-22"
+       y="-88" />
+    <path
+       class="ColorScheme-Text"
+       id="path4858"
+       d="m -3,-85 -16,16 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -4,-76 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       id="path4860" />
+    <path
+       class="ColorScheme-Text"
+       id="path5068"
+       d="m -19,-85 v 4 1 h 4 v -1 -1 -1 h -2 v 1 h 1 v 1 h -2 v -3 h 3 v -1 h -3 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-80-gprs-locked">
+    <rect
+       y="-88"
+       x="0"
+       height="22"
+       width="22"
+       id="rect4862"
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 19,-85 3,-69 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       id="path4864" />
+    <path
+       class="ColorScheme-Text"
+       id="path4866"
+       d="m 18,-76 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       id="path4892"
+       d="M 17,-83 3,-69 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+       d="m 3,-85 v 4 1 h 4 v -1 -1 -1 H 5 v 1 h 1 v 1 H 4 v -3 h 3 v -1 H 4 Z"
+       id="path5070" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-60-gprs-locked">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4868"
+       width="22"
+       height="22"
+       x="22"
+       y="-88" />
+    <path
+       class="ColorScheme-Text"
+       id="path4870"
+       d="m 41,-85 -16,16 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 40,-76 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       id="path4872" />
+    <path
+       class="ColorScheme-Text"
+       id="path4894"
+       d="m 37,-81 -12,12 h 11 v -3 l 1,-1 v -2 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+       d="m 25,-85 v 4 1 h 4 v -1 -1 -1 h -2 v 1 h 1 v 1 h -2 v -3 h 3 v -1 h -3 z"
+       id="path5072" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-40-gprs-locked">
+    <rect
+       y="-88"
+       x="44"
+       height="22"
+       width="22"
+       id="rect4874"
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 63,-85 -16,16 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       id="path4876" />
+    <path
+       class="ColorScheme-Text"
+       id="path4878"
+       d="m 62,-76 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       id="path4896"
+       d="M 57,-79 47,-69 H 57 Z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       id="path5074"
+       d="m 47,-85 v 4 1 h 4 v -1 -1 -1 h -2 v 1 h 1 v 1 h -2 v -3 h 3 v -1 h -3 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-20-gprs-locked">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4880"
+       width="22"
+       height="22"
+       x="66"
+       y="-88" />
+    <path
+       class="ColorScheme-Text"
+       id="path4882"
+       d="m 85,-85 -16,16 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 84,-76 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       id="path4884" />
+    <path
+       class="ColorScheme-Text"
+       id="path4898"
+       d="m 76,-76 -7,7 h 7 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       id="path5076"
+       d="m 69,-85 v 4 1 h 4 v -1 -1 -1 h -2 v 1 h 1 v 1 h -2 v -3 h 3 v -1 h -3 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-0-gprs-locked">
+    <rect
+       y="-88"
+       x="88"
+       height="22"
+       width="22"
+       id="rect4886"
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 107,-85 -16,16 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       id="path4888" />
+    <path
+       class="ColorScheme-Text"
+       id="path4890"
+       d="m 106,-76 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+       d="m 91,-85 v 4 1 h 4 v -1 -1 -1 h -2 v 1 h 1 v 1 h -2 v -3 h 3 v -1 h -3 z"
+       id="path5078" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-100-edge">
+    <rect
+       y="-110"
+       x="-22"
+       height="22"
+       width="22"
+       id="rect5082"
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       id="path5084"
+       d="m -19,-91 16,-16 v 16 z"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       class="ColorScheme-Text" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+       d="m -19,-107 v 4 1 h 4 v -1 h -3 v -1 h 2 v -1 h -2 v -1 h 3 v -1 h -3 z"
+       id="rect5000" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-80-edge">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5088"
+       width="22"
+       height="22"
+       x="0"
+       y="-110" />
+    <path
+       id="path5090"
+       d="m 3,-91 16,-16 v 16 z"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       class="ColorScheme-Text" />
+    <path
+       id="path5092"
+       d="M 17,-105 3,-91 h 14 z"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       class="ColorScheme-Text" />
+    <path
+       class="ColorScheme-Text"
+       id="path5196"
+       d="m 3,-107 v 4 1 h 4 v -1 H 4 v -1 h 2 v -1 H 4 v -1 h 3 v -1 H 4 Z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-60-edge">
+    <rect
+       y="-110"
+       x="22"
+       height="22"
+       width="22"
+       id="rect5096"
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 25,-91 16,-16 v 16 z"
+       id="path5098"
+       class="ColorScheme-Text" />
+    <path
+       id="path5100"
+       d="M 37,-103 25,-91 H 37 Z"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       class="ColorScheme-Text" />
+    <path
+       class="ColorScheme-Text"
+       id="path5198"
+       d="m 25,-107 v 4 1 h 4 v -1 h -3 v -1 h 2 v -1 h -2 v -1 h 3 v -1 h -3 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-40-edge">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5104"
+       width="22"
+       height="22"
+       x="44"
+       y="-110" />
+    <path
+       id="path5106"
+       d="m 47,-91 16,-16 v 16 z"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       class="ColorScheme-Text" />
+    <path
+       id="path5108"
+       d="M 57,-101 47,-91 H 57 Z"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       class="ColorScheme-Text" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+       d="m 47,-107 v 4 1 h 4 v -1 h -3 v -1 h 2 v -1 h -2 v -1 h 3 v -1 h -3 z"
+       id="path5200" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-20-edge">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5112"
+       width="22"
+       height="22"
+       x="66"
+       y="-110" />
+    <path
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 69,-91 16,-16 v 16 z"
+       id="path5114"
+       class="ColorScheme-Text" />
+    <path
+       id="path5116"
+       d="m 76,-98 -7,7 h 7 z"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       class="ColorScheme-Text" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+       d="m 69,-107 v 4 1 h 4 v -1 h -3 v -1 h 2 v -1 h -2 v -1 h 3 v -1 h -3 z"
+       id="path5202" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-0-edge">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5120"
+       width="22"
+       height="22"
+       x="88"
+       y="-110" />
+    <path
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 91,-91 16,-16 v 16 z"
+       id="path5122"
+       class="ColorScheme-Text" />
+    <path
+       class="ColorScheme-Text"
+       id="path5204"
+       d="m 91,-107 v 4 1 h 4 v -1 h -3 v -1 h 2 v -1 h -2 v -1 h 3 v -1 h -3 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-100-edge-locked">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5124"
+       width="22"
+       height="22"
+       x="-22"
+       y="-132" />
+    <path
+       class="ColorScheme-Text"
+       id="path5126"
+       d="m -3,-129 -16,16 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -4,-120 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       id="path5128" />
+    <path
+       class="ColorScheme-Text"
+       id="path5206"
+       d="m -19,-129 v 4 1 h 4 v -1 h -3 v -1 h 2 v -1 h -2 v -1 h 3 v -1 h -3 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-80-edge-locked">
+    <rect
+       y="-132"
+       x="0"
+       height="22"
+       width="22"
+       id="rect5130"
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 19,-129 -16,16 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       id="path5132" />
+    <path
+       class="ColorScheme-Text"
+       id="path5134"
+       d="m 18,-120 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       id="path5160"
+       d="m 17,-127 -14,14 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+       d="m 3,-129 v 4 1 h 4 v -1 H 4 v -1 h 2 v -1 H 4 v -1 h 3 v -1 H 4 Z"
+       id="path5208" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-60-edge-locked">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5136"
+       width="22"
+       height="22"
+       x="22"
+       y="-132" />
+    <path
+       class="ColorScheme-Text"
+       id="path5138"
+       d="m 41,-129 -16,16 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 40,-120 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       id="path5140" />
+    <path
+       class="ColorScheme-Text"
+       id="path5162"
+       d="m 37,-125 -12,12 h 11 v -3 l 1,-1 v -2 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+       d="m 25,-129 v 4 1 h 4 v -1 h -3 v -1 h 2 v -1 h -2 v -1 h 3 v -1 h -3 z"
+       id="path5210" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-40-edge-locked">
+    <rect
+       y="-132"
+       x="44"
+       height="22"
+       width="22"
+       id="rect5142"
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 63,-129 -16,16 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       id="path5144" />
+    <path
+       class="ColorScheme-Text"
+       id="path5146"
+       d="m 62,-120 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       id="path5164"
+       d="m 57,-123 -10,10 h 10 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       id="path5212"
+       d="m 47,-129 v 4 1 h 4 v -1 h -3 v -1 h 2 v -1 h -2 v -1 h 3 v -1 h -3 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-20-edge-locked">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5148"
+       width="22"
+       height="22"
+       x="66"
+       y="-132" />
+    <path
+       class="ColorScheme-Text"
+       id="path5150"
+       d="m 85,-129 -16,16 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 84,-120 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       id="path5152" />
+    <path
+       class="ColorScheme-Text"
+       id="path5166"
+       d="m 76,-120 -7,7 h 7 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       id="path5214"
+       d="m 69,-129 v 4 1 h 4 v -1 h -3 v -1 h 2 v -1 h -2 v -1 h 3 v -1 h -3 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-0-edge-locked">
+    <rect
+       y="-132"
+       x="88"
+       height="22"
+       width="22"
+       id="rect5154"
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 107,-129 -16,16 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       id="path5156" />
+    <path
+       class="ColorScheme-Text"
+       id="path5158"
+       d="m 106,-120 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+       d="m 91,-129 v 4 1 h 4 v -1 h -3 v -1 h 2 v -1 h -2 v -1 h 3 v -1 h -3 z"
+       id="path5216" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-100-umts">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5218"
+       width="22"
+       height="22"
+       x="-22"
+       y="-154" />
+    <path
+       class="ColorScheme-Text"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -19,-135 16,-16 v 16 z"
+       id="path5220" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+       d="m -19,-151 v 4 1 h 4 v -1 -4 h -1 v 4 h -2 v -4 z"
+       id="rect4990" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-80-umts">
+    <rect
+       y="-154"
+       x="0"
+       height="22"
+       width="22"
+       id="rect5222"
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 3,-135 16,-16 v 16 z"
+       id="path5224" />
+    <path
+       class="ColorScheme-Text"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 17,-149 3,-135 H 17 Z"
+       id="path5226" />
+    <path
+       class="ColorScheme-Text"
+       id="path5335"
+       d="m 3,-151 v 4 1 h 4 v -1 -4 H 6 v 4 H 4 v -4 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-60-umts">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5230"
+       width="22"
+       height="22"
+       x="22"
+       y="-154" />
+    <path
+       class="ColorScheme-Text"
+       id="path5232"
+       d="m 25,-135 16,-16 v 16 z"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 37,-147 -12,12 h 12 z"
+       id="path5234" />
+    <path
+       class="ColorScheme-Text"
+       id="path5351"
+       d="m 25,-151 v 4 1 h 4 v -1 -4 h -1 v 4 h -2 v -4 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-40-umts">
+    <rect
+       y="-154"
+       x="44"
+       height="22"
+       width="22"
+       id="rect5236"
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 47,-135 16,-16 v 16 z"
+       id="path5238" />
+    <path
+       class="ColorScheme-Text"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 57,-145 -10,10 h 10 z"
+       id="path5240" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+       d="m 47,-151 v 4 1 h 4 v -1 -4 h -1 v 4 h -2 v -4 z"
+       id="path5353" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-20-umts">
+    <rect
+       y="-154"
+       x="66"
+       height="22"
+       width="22"
+       id="rect5242"
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       id="path5244"
+       d="m 69,-135 16,-16 v 16 z"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 76,-142 -7,7 h 7 z"
+       id="path5246" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+       d="m 69,-151 v 4 1 h 4 v -1 -4 h -1 v 4 h -2 v -4 z"
+       id="path5359" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-0-umts">
+    <rect
+       y="-154"
+       x="88"
+       height="22"
+       width="22"
+       id="rect5248"
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       id="path5250"
+       d="m 91,-135 16,-16 v 16 z"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       id="path5361"
+       d="m 91,-151 v 4 1 h 4 v -1 -4 h -1 v 4 h -2 v -4 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-100-umts-locked">
+    <rect
+       y="-176"
+       x="-22"
+       height="22"
+       width="22"
+       id="rect5252"
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -3,-173 -16,16 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       id="path5254" />
+    <path
+       class="ColorScheme-Text"
+       id="path5256"
+       d="m -4,-164 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       id="path5347"
+       d="m -19,-173 v 4 1 h 4 v -1 -4 h -1 v 4 h -2 v -4 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-80-umts-locked">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5258"
+       width="22"
+       height="22"
+       x="0"
+       y="-176" />
+    <path
+       class="ColorScheme-Text"
+       id="path5260"
+       d="m 19,-173 -16,16 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 18,-164 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       id="path5262" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 17,-171 -14,14 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 z"
+       id="path5288" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+       d="m 3,-173 v 4 1 h 4 v -1 -4 H 6 v 4 H 4 v -4 z"
+       id="path5349" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-60-umts-locked">
+    <rect
+       y="-176"
+       x="22"
+       height="22"
+       width="22"
+       id="rect5264"
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 41,-173 -16,16 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       id="path5266" />
+    <path
+       class="ColorScheme-Text"
+       id="path5268"
+       d="m 40,-164 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 37,-169 -12,12 h 11 v -3 l 1,-1 v -2 z"
+       id="path5290" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+       d="m 25,-173 v 4 1 h 4 v -1 -4 h -1 v 4 h -2 v -4 z"
+       id="path5355" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-40-umts-locked">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5270"
+       width="22"
+       height="22"
+       x="44"
+       y="-176" />
+    <path
+       class="ColorScheme-Text"
+       id="path5272"
+       d="m 63,-173 -16,16 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 62,-164 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       id="path5274" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 57,-167 -10,10 h 10 z"
+       id="path5292" />
+    <path
+       class="ColorScheme-Text"
+       id="path5357"
+       d="m 47,-173 v 4 1 h 4 v -1 -4 h -1 v 4 h -2 v -4 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-20-umts-locked">
+    <rect
+       y="-176"
+       x="66"
+       height="22"
+       width="22"
+       id="rect5276"
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 85,-173 -16,16 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       id="path5278" />
+    <path
+       class="ColorScheme-Text"
+       id="path5280"
+       d="m 84,-164 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 76,-164 -7,7 h 7 z"
+       id="path5294" />
+    <path
+       class="ColorScheme-Text"
+       id="path5363"
+       d="m 69,-173 v 4 1 h 4 v -1 -4 h -1 v 4 h -2 v -4 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-0-umts-locked">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5282"
+       width="22"
+       height="22"
+       x="88"
+       y="-176" />
+    <path
+       class="ColorScheme-Text"
+       id="path5284"
+       d="m 107,-173 -16,16 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 106,-164 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       id="path5286" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+       d="m 91,-173 v 4 1 h 4 v -1 -4 h -1 v 4 h -2 v -4 z"
+       id="path5365" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-100-hspa">
+    <rect
+       y="-198"
+       x="-22"
+       height="22"
+       width="22"
+       id="rect5369"
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       id="path5371"
+       d="m -19,-179 16,-16 v 16 z"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       class="ColorScheme-Text" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+       d="m -19,-195 v 5 h 1 v -2 h 2 v 2 h 1 v -5 h -1 v 2 h -2 v -2 z"
+       id="rect5018" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-80-hspa">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5375"
+       width="22"
+       height="22"
+       x="0"
+       y="-198" />
+    <path
+       id="path5377"
+       d="m 3,-179 16,-16 v 16 z"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       class="ColorScheme-Text" />
+    <path
+       id="path5379"
+       d="M 17,-193 3,-179 H 17 Z"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       class="ColorScheme-Text" />
+    <path
+       class="ColorScheme-Text"
+       id="path5495"
+       d="m 3,-195 v 5 h 1 v -2 h 2 v 2 h 1 v -5 H 6 v 2 H 4 v -2 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-60-hspa">
+    <rect
+       y="-198"
+       x="22"
+       height="22"
+       width="22"
+       id="rect5383"
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 25,-179 16,-16 v 16 z"
+       id="path5385"
+       class="ColorScheme-Text" />
+    <path
+       id="path5387"
+       d="m 37,-191 -12,12 h 12 z"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       class="ColorScheme-Text" />
+    <path
+       class="ColorScheme-Text"
+       id="path5501"
+       d="m 25,-195 v 5 h 1 v -2 h 2 v 2 h 1 v -5 h -1 v 2 h -2 v -2 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-40-hspa">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5391"
+       width="22"
+       height="22"
+       x="44"
+       y="-198" />
+    <path
+       id="path5393"
+       d="m 47,-179 16,-16 v 16 z"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       class="ColorScheme-Text" />
+    <path
+       id="path5395"
+       d="m 57,-189 -10,10 h 10 z"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       class="ColorScheme-Text" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+       d="m 47,-195 v 5 h 1 v -2 h 2 v 2 h 1 v -5 h -1 v 2 h -2 v -2 z"
+       id="path5503" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-20-hspa">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5399"
+       width="22"
+       height="22"
+       x="66"
+       y="-198" />
+    <path
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 69,-179 16,-16 v 16 z"
+       id="path5401"
+       class="ColorScheme-Text" />
+    <path
+       id="path5403"
+       d="m 76,-186 -7,7 h 7 z"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       class="ColorScheme-Text" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+       d="m 69,-195 v 5 h 1 v -2 h 2 v 2 h 1 v -5 h -1 v 2 h -2 v -2 z"
+       id="path5509" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-0-hspa">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5407"
+       width="22"
+       height="22"
+       x="88"
+       y="-198" />
+    <path
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 91,-179 16,-16 v 16 z"
+       id="path5409"
+       class="ColorScheme-Text" />
+    <path
+       class="ColorScheme-Text"
+       id="path5511"
+       d="m 91,-195 v 5 h 1 v -2 h 2 v 2 h 1 v -5 h -1 v 2 h -2 v -2 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-100-hspa-locked">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5411"
+       width="22"
+       height="22"
+       x="-22"
+       y="-220" />
+    <path
+       class="ColorScheme-Text"
+       id="path5413"
+       d="m -3,-217 -16,16 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -4,-208 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       id="path5415" />
+    <path
+       class="ColorScheme-Text"
+       id="path5497"
+       d="m -19,-217 v 5 h 1 v -2 h 2 v 2 h 1 v -5 h -1 v 2 h -2 v -2 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-80-hspa-locked">
+    <rect
+       y="-220"
+       x="0"
+       height="22"
+       width="22"
+       id="rect5417"
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 19,-217 -16,16 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       id="path5419" />
+    <path
+       class="ColorScheme-Text"
+       id="path5421"
+       d="m 18,-208 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       id="path5447"
+       d="m 17,-215 -14,14 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+       d="m 3,-217 v 5 h 1 v -2 h 2 v 2 h 1 v -5 H 6 v 2 H 4 v -2 z"
+       id="path5499" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-60-hspa-locked">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5423"
+       width="22"
+       height="22"
+       x="22"
+       y="-220" />
+    <path
+       class="ColorScheme-Text"
+       id="path5425"
+       d="m 41,-217 -16,16 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 40,-208 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       id="path5427" />
+    <path
+       class="ColorScheme-Text"
+       id="path5449"
+       d="m 37,-213 -12,12 h 11 v -3 l 1,-1 v -2 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+       d="m 25,-217 v 5 h 1 v -2 h 2 v 2 h 1 v -5 h -1 v 2 h -2 v -2 z"
+       id="path5505" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-40-hspa-locked">
+    <rect
+       y="-220"
+       x="44"
+       height="22"
+       width="22"
+       id="rect5429"
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 63,-217 -16,16 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       id="path5431" />
+    <path
+       class="ColorScheme-Text"
+       id="path5433"
+       d="m 62,-208 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       id="path5451"
+       d="m 57,-211 -10,10 h 10 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       id="path5507"
+       d="m 47,-217 v 5 h 1 v -2 h 2 v 2 h 1 v -5 h -1 v 2 h -2 v -2 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-20-hspa-locked">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5435"
+       width="22"
+       height="22"
+       x="66"
+       y="-220" />
+    <path
+       class="ColorScheme-Text"
+       id="path5437"
+       d="m 85,-217 -16,16 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 84,-208 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       id="path5439" />
+    <path
+       class="ColorScheme-Text"
+       id="path5453"
+       d="m 76,-208 -7,7 h 7 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       id="path5513"
+       d="m 69,-217 v 5 h 1 v -2 h 2 v 2 h 1 v -5 h -1 v 2 h -2 v -2 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-0-hspa-locked">
+    <rect
+       y="-220"
+       x="88"
+       height="22"
+       width="22"
+       id="rect5441"
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 107,-217 -16,16 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       id="path5443" />
+    <path
+       class="ColorScheme-Text"
+       id="path5445"
+       d="m 106,-208 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+       d="m 91,-217 v 5 h 1 v -2 h 2 v 2 h 1 v -5 h -1 v 2 h -2 v -2 z"
+       id="path5515" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-100-hsupa">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5517"
+       width="22"
+       height="22"
+       x="-22"
+       y="-242" />
+    <path
+       class="ColorScheme-Text"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -19,-223 16,-16 v 16 z"
+       id="path5519" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+       d="m -19,-239 v 5 h 1 v -2 h 2 v 2 h 1 v -5 h -1 v 2 h -2 v -2 z m 6,0 -1,2 h 2 z"
+       id="path5033" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-80-hsupa">
+    <rect
+       y="-242"
+       x="0"
+       height="22"
+       width="22"
+       id="rect5521"
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 3,-223 16,-16 v 16 z"
+       id="path5523" />
+    <path
+       class="ColorScheme-Text"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 17,-237 3,-223 H 17 Z"
+       id="path5525" />
+    <path
+       class="ColorScheme-Text"
+       id="path5641"
+       d="m 3,-239 v 5 h 1 v -2 h 2 v 2 h 1 v -5 H 6 v 2 H 4 v -2 z m 6,0 -1,2 h 2 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-60-hsupa">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5527"
+       width="22"
+       height="22"
+       x="22"
+       y="-242" />
+    <path
+       class="ColorScheme-Text"
+       id="path5529"
+       d="m 25,-223 16,-16 v 16 z"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 37,-235 -12,12 h 12 z"
+       id="path5531" />
+    <path
+       class="ColorScheme-Text"
+       id="path5645"
+       d="m 25,-239 v 5 h 1 v -2 h 2 v 2 h 1 v -5 h -1 v 2 h -2 v -2 z m 6,0 -1,2 h 2 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-40-hsupa">
+    <rect
+       y="-242"
+       x="44"
+       height="22"
+       width="22"
+       id="rect5533"
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 47,-223 16,-16 v 16 z"
+       id="path5535" />
+    <path
+       class="ColorScheme-Text"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 57,-233 -10,10 h 10 z"
+       id="path5537" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+       d="m 47,-239 v 5 h 1 v -2 h 2 v 2 h 1 v -5 h -1 v 2 h -2 v -2 z m 6,0 -1,2 h 2 z"
+       id="path5649" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-20-hsupa">
+    <rect
+       y="-242"
+       x="66"
+       height="22"
+       width="22"
+       id="rect5539"
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       id="path5541"
+       d="m 69,-223 16,-16 v 16 z"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 76,-230 -7,7 h 7 z"
+       id="path5543" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+       d="m 69,-239 v 5 h 1 v -2 h 2 v 2 h 1 v -5 h -1 v 2 h -2 v -2 z m 6,0 -1,2 h 2 z"
+       id="path5653" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-0-hsupa">
+    <rect
+       y="-242"
+       x="88"
+       height="22"
+       width="22"
+       id="rect5545"
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       id="path5547"
+       d="m 91,-223 16,-16 v 16 z"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       id="path5657"
+       d="m 91,-239 v 5 h 1 v -2 h 2 v 2 h 1 v -5 h -1 v 2 h -2 v -2 z m 6,0 -1,2 h 2 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-100-hsupa-locked">
+    <rect
+       y="-264"
+       x="-22"
+       height="22"
+       width="22"
+       id="rect5549"
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -3,-261 -16,16 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       id="path5551" />
+    <path
+       class="ColorScheme-Text"
+       id="path5553"
+       d="m -4,-252 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       id="path5639"
+       d="m -19,-261 v 5 h 1 v -2 h 2 v 2 h 1 v -5 h -1 v 2 h -2 v -2 z m 6,0 -1,2 h 2 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-80-hsupa-locked">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5555"
+       width="22"
+       height="22"
+       x="0"
+       y="-264" />
+    <path
+       class="ColorScheme-Text"
+       id="path5557"
+       d="m 19,-261 -16,16 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 18,-252 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       id="path5559" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 17,-259 -14,14 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 z"
+       id="path5585" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+       d="m 3,-261 v 5 h 1 v -2 h 2 v 2 h 1 v -5 H 6 v 2 H 4 v -2 z m 6,0 -1,2 h 2 z"
+       id="path5643" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-60-hsupa-locked">
+    <rect
+       y="-264"
+       x="22"
+       height="22"
+       width="22"
+       id="rect5561"
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 41,-261 -16,16 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       id="path5563" />
+    <path
+       class="ColorScheme-Text"
+       id="path5565"
+       d="m 40,-252 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 37,-257 -12,12 h 11 v -3 l 1,-1 v -2 z"
+       id="path5587" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+       d="m 25,-261 v 5 h 1 v -2 h 2 v 2 h 1 v -5 h -1 v 2 h -2 v -2 z m 6,0 -1,2 h 2 z"
+       id="path5647" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-40-hsupa-locked">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5567"
+       width="22"
+       height="22"
+       x="44"
+       y="-264" />
+    <path
+       class="ColorScheme-Text"
+       id="path5569"
+       d="m 63,-261 -16,16 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 62,-252 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       id="path5571" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 57,-255 -10,10 h 10 z"
+       id="path5589" />
+    <path
+       class="ColorScheme-Text"
+       id="path5651"
+       d="m 47,-261 v 5 h 1 v -2 h 2 v 2 h 1 v -5 h -1 v 2 h -2 v -2 z m 6,0 -1,2 h 2 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-20-hsupa-locked">
+    <rect
+       y="-264"
+       x="66"
+       height="22"
+       width="22"
+       id="rect5573"
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 85,-261 -16,16 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       id="path5575" />
+    <path
+       class="ColorScheme-Text"
+       id="path5577"
+       d="m 84,-252 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 76,-252 -7,7 h 7 z"
+       id="path5591" />
+    <path
+       class="ColorScheme-Text"
+       id="path5655"
+       d="m 69,-261 v 5 h 1 v -2 h 2 v 2 h 1 v -5 h -1 v 2 h -2 v -2 z m 6,0 -1,2 h 2 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-0-hsupa-locked">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5579"
+       width="22"
+       height="22"
+       x="88"
+       y="-264" />
+    <path
+       class="ColorScheme-Text"
+       id="path5581"
+       d="m 107,-261 -16,16 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 106,-252 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       id="path5583" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+       d="m 91,-261 v 5 h 1 v -2 h 2 v 2 h 1 v -5 h -1 v 2 h -2 v -2 z m 6,0 -1,2 h 2 z"
+       id="path5659" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-100-hsdpa">
+    <rect
+       y="-286"
+       x="-22"
+       height="22"
+       width="22"
+       id="rect5661"
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       id="path5663"
+       d="m -19,-267 16,-16 v 16 z"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       class="ColorScheme-Text" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+       d="m -19,-283 v 5 h 1 v -2 h 2 v 2 h 1 v -5 h -1 v 2 h -2 v -2 z m 5,0 1,2 1,-2 z"
+       id="path5037" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-80-hsdpa">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5665"
+       width="22"
+       height="22"
+       x="0"
+       y="-286" />
+    <path
+       id="path5667"
+       d="m 3,-267 16,-16 v 16 z"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       class="ColorScheme-Text" />
+    <path
+       id="path5669"
+       d="M 17,-281 3,-267 H 17 Z"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       class="ColorScheme-Text" />
+    <path
+       class="ColorScheme-Text"
+       id="path5936"
+       d="m 6.5,-283 v 5 h 1 v -2 h 2 v 2 h 1 v -5 h -1 v 2 h -2 v -2 z m 5,0 1,2 1,-2 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-60-hsdpa">
+    <rect
+       y="-286"
+       x="22"
+       height="22"
+       width="22"
+       id="rect5671"
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 25,-267 16,-16 v 16 z"
+       id="path5673"
+       class="ColorScheme-Text" />
+    <path
+       id="path5675"
+       d="m 37,-279 -12,12 h 12 z"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       class="ColorScheme-Text" />
+    <path
+       class="ColorScheme-Text"
+       id="path5940"
+       d="m 25,-283 v 5 h 1 v -2 h 2 v 2 h 1 v -5 h -1 v 2 h -2 v -2 z m 5,0 1,2 1,-2 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-40-hsdpa">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5677"
+       width="22"
+       height="22"
+       x="44"
+       y="-286" />
+    <path
+       id="path5679"
+       d="m 47,-267 16,-16 v 16 z"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       class="ColorScheme-Text" />
+    <path
+       id="path5681"
+       d="m 57,-277 -10,10 h 10 z"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       class="ColorScheme-Text" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+       d="m 50.5,-283 v 5 h 1 v -2 h 2 v 2 h 1 v -5 h -1 v 2 h -2 v -2 z m 5,0 1,2 1,-2 z"
+       id="path5944" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-20-hsdpa">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5683"
+       width="22"
+       height="22"
+       x="66"
+       y="-286" />
+    <path
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 69,-267 16,-16 v 16 z"
+       id="path5685"
+       class="ColorScheme-Text" />
+    <path
+       id="path5687"
+       d="m 76,-274 -7,7 h 7 z"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       class="ColorScheme-Text" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+       d="m 69,-283 v 5 h 1 v -2 h 2 v 2 h 1 v -5 h -1 v 2 h -2 v -2 z m 5,0 1,2 1,-2 z"
+       id="path5948" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-0-hsdpa">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5689"
+       width="22"
+       height="22"
+       x="88"
+       y="-286" />
+    <path
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 91,-267 16,-16 v 16 z"
+       id="path5691"
+       class="ColorScheme-Text" />
+    <path
+       class="ColorScheme-Text"
+       id="path5952"
+       d="m 94.5,-283 v 5 h 1 v -2 h 2 v 2 h 1 v -5 h -1 v 2 h -2 v -2 z m 5,0 1,2 1,-2 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-100-hsdpa-locked">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5693"
+       width="22"
+       height="22"
+       x="-22"
+       y="-308" />
+    <path
+       class="ColorScheme-Text"
+       id="path5695"
+       d="m -3,-305 -16,16 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -4,-296 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       id="path5697" />
+    <path
+       class="ColorScheme-Text"
+       id="path5934"
+       d="m -19,-305 v 5 h 1 v -2 h 2 v 2 h 1 v -5 h -1 v 2 h -2 v -2 z m 5,0 1,2 1,-2 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-80-hsdpa-locked">
+    <rect
+       y="-308"
+       x="0"
+       height="22"
+       width="22"
+       id="rect5699"
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 19,-305 -16,16 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       id="path5701" />
+    <path
+       class="ColorScheme-Text"
+       id="path5703"
+       d="m 18,-296 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       id="path5729"
+       d="m 17,-303 -14,14 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+       d="m 6.5,-305 v 5 h 1 v -2 h 2 v 2 h 1 v -5 h -1 v 2 h -2 v -2 z m 5,0 1,2 1,-2 z"
+       id="path5938" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-60-hsdpa-locked">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5705"
+       width="22"
+       height="22"
+       x="22"
+       y="-308" />
+    <path
+       class="ColorScheme-Text"
+       id="path5707"
+       d="m 41,-305 -16,16 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 40,-296 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       id="path5709" />
+    <path
+       class="ColorScheme-Text"
+       id="path5731"
+       d="m 37,-301 -12,12 h 11 v -3 l 1,-1 v -2 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+       d="m 25,-305 v 5 h 1 v -2 h 2 v 2 h 1 v -5 h -1 v 2 h -2 v -2 z m 5,0 1,2 1,-2 z"
+       id="path5942" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-40-hsdpa-locked">
+    <rect
+       y="-308"
+       x="44"
+       height="22"
+       width="22"
+       id="rect5711"
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 63,-305 -16,16 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       id="path5713" />
+    <path
+       class="ColorScheme-Text"
+       id="path5715"
+       d="m 62,-296 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       id="path5733"
+       d="m 57,-299 -10,10 h 10 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       id="path5946"
+       d="m 50.5,-305 v 5 h 1 v -2 h 2 v 2 h 1 v -5 h -1 v 2 h -2 v -2 z m 5,0 1,2 1,-2 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-20-hsdpa-locked">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5717"
+       width="22"
+       height="22"
+       x="66"
+       y="-308" />
+    <path
+       class="ColorScheme-Text"
+       id="path5719"
+       d="m 85,-305 -16,16 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 84,-296 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       id="path5721" />
+    <path
+       class="ColorScheme-Text"
+       id="path5735"
+       d="m 76,-296 -7,7 h 7 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       id="path5950"
+       d="m 69,-305 v 5 h 1 v -2 h 2 v 2 h 1 v -5 h -1 v 2 h -2 v -2 z m 5,0 1,2 1,-2 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(19.538495,-186.22887)"
+     id="network-mobile-0-hsdpa-locked">
+    <rect
+       y="-308"
+       x="88"
+       height="22"
+       width="22"
+       id="rect5723"
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 107,-305 -16,16 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       id="path5725" />
+    <path
+       class="ColorScheme-Text"
+       id="path5727"
+       d="m 106,-296 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+       d="m 94.5,-305 v 5 h 1 v -2 h 2 v 2 h 1 v -5 h -1 v 2 h -2 v -2 z m 5,0 1,2 1,-2 z"
+       id="path5954" />
+  </g>
+  <g
+     transform="translate(19.538495,-142.22887)"
+     id="network-mobile-100-lte">
+    <rect
+       y="-374"
+       x="-22"
+       height="22"
+       width="22"
+       id="rect5858"
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       id="path5860"
+       d="m -19,-355 16,-16 v 16 z"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       class="ColorScheme-Text" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+       d="m -19,-371 v 4 1 h 4 v -1 h -3 v -4 z"
+       id="rect5010" />
+  </g>
+  <g
+     transform="translate(19.538495,-142.22887)"
+     id="network-mobile-80-lte">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5862"
+       width="22"
+       height="22"
+       x="0"
+       y="-374" />
+    <path
+       id="path5864"
+       d="m 3,-355 16,-16 v 16 z"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       class="ColorScheme-Text" />
+    <path
+       id="path5866"
+       d="M 17,-369 3,-355 H 17 Z"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       class="ColorScheme-Text" />
+    <path
+       class="ColorScheme-Text"
+       id="path6017"
+       d="m 3,-371 v 4 1 h 4 v -1 H 4 v -4 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(19.538495,-142.22887)"
+     id="network-mobile-60-lte">
+    <rect
+       y="-374"
+       x="22"
+       height="22"
+       width="22"
+       id="rect5868"
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 25,-355 16,-16 v 16 z"
+       id="path5870"
+       class="ColorScheme-Text" />
+    <path
+       id="path5872"
+       d="m 37,-367 -12,12 h 12 z"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       class="ColorScheme-Text" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+       d="m 25,-371 v 4 1 h 4 v -1 h -3 v -4 z"
+       id="path6019" />
+  </g>
+  <g
+     transform="translate(19.538495,-142.22887)"
+     id="network-mobile-40-lte">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5874"
+       width="22"
+       height="22"
+       x="44"
+       y="-374" />
+    <path
+       id="path5876"
+       d="m 47,-355 16,-16 v 16 z"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       class="ColorScheme-Text" />
+    <path
+       id="path5878"
+       d="m 57,-365 -10,10 h 10 z"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       class="ColorScheme-Text" />
+    <path
+       class="ColorScheme-Text"
+       id="path6021"
+       d="m 47,-371 v 4 1 h 4 v -1 h -3 v -4 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(19.538495,-142.22887)"
+     id="network-mobile-20-lte">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5880"
+       width="22"
+       height="22"
+       x="66"
+       y="-374" />
+    <path
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 69,-355 16,-16 v 16 z"
+       id="path5882"
+       class="ColorScheme-Text" />
+    <path
+       id="path5884"
+       d="m 76,-362 -7,7 h 7 z"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       class="ColorScheme-Text" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+       d="m 69,-371 v 4 1 h 4 v -1 h -3 v -4 z"
+       id="path6023" />
+  </g>
+  <g
+     transform="translate(19.538495,-142.22887)"
+     id="network-mobile-0-lte">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5886"
+       width="22"
+       height="22"
+       x="88"
+       y="-374" />
+    <path
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 91,-355 16,-16 v 16 z"
+       id="path5888"
+       class="ColorScheme-Text" />
+    <path
+       class="ColorScheme-Text"
+       id="path6025"
+       d="m 91,-371 v 4 1 h 4 v -1 h -3 v -4 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(19.538495,-142.22887)"
+     id="network-mobile-100-lte-locked">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5890"
+       width="22"
+       height="22"
+       x="-22"
+       y="-396" />
+    <path
+       class="ColorScheme-Text"
+       id="path5892"
+       d="m -3,-393 -16,16 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -4,-384 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       id="path5894" />
+    <path
+       class="ColorScheme-Text"
+       id="path6027"
+       d="m -19,-393 v 4 1 h 4 v -1 h -3 v -4 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(19.538495,-142.22887)"
+     id="network-mobile-80-lte-locked">
+    <rect
+       y="-396"
+       x="0"
+       height="22"
+       width="22"
+       id="rect5896"
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 19,-393 -16,16 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       id="path5898" />
+    <path
+       class="ColorScheme-Text"
+       id="path5900"
+       d="m 18,-384 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       id="path5926"
+       d="m 17,-391 -14,14 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+       d="m 3,-393 v 4 1 h 4 v -1 H 4 v -4 z"
+       id="path6029" />
+  </g>
+  <g
+     transform="translate(19.538495,-142.22887)"
+     id="network-mobile-60-lte-locked">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5902"
+       width="22"
+       height="22"
+       x="22"
+       y="-396" />
+    <path
+       class="ColorScheme-Text"
+       id="path5904"
+       d="m 41,-393 -16,16 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 40,-384 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       id="path5906" />
+    <path
+       class="ColorScheme-Text"
+       id="path5928"
+       d="m 37,-389 -12,12 h 11 v -3 l 1,-1 v -2 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       id="path6031"
+       d="m 25,-393 v 4 1 h 4 v -1 h -3 v -4 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(19.538495,-142.22887)"
+     id="network-mobile-40-lte-locked">
+    <rect
+       y="-396"
+       x="44"
+       height="22"
+       width="22"
+       id="rect5908"
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 63,-393 -16,16 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       id="path5910" />
+    <path
+       class="ColorScheme-Text"
+       id="path5912"
+       d="m 62,-384 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       id="path5930"
+       d="m 57,-387 -10,10 h 10 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+       d="m 47,-393 v 4 1 h 4 v -1 h -3 v -4 z"
+       id="path6033" />
+  </g>
+  <g
+     transform="translate(19.538495,-142.22887)"
+     id="network-mobile-20-lte-locked">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5914"
+       width="22"
+       height="22"
+       x="66"
+       y="-396" />
+    <path
+       class="ColorScheme-Text"
+       id="path5916"
+       d="m 85,-393 -16,16 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 84,-384 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       id="path5918" />
+    <path
+       class="ColorScheme-Text"
+       id="path5932"
+       d="m 76,-384 -7,7 h 7 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       id="path6035"
+       d="m 69,-393 v 4 1 h 4 v -1 h -3 v -4 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(19.538495,-142.22887)"
+     id="network-mobile-0-lte-locked">
+    <rect
+       y="-396"
+       x="88"
+       height="22"
+       width="22"
+       id="rect5920"
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 107,-393 -16,16 h 11 v -3 l 1,-1 v -2 l 1,-1 1,-1 h 2 z"
+       id="path5922" />
+    <path
+       class="ColorScheme-Text"
+       id="path5924"
+       d="m 106,-384 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+       d="m 91,-393 v 4 1 h 4 v -1 h -3 v -4 z"
+       id="path6037" />
+  </g>
+  <g
+     transform="translate(-24.461505,-186.22887)"
+     id="network-mobile-on">
+    <rect
+       style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4198-0"
+       width="22"
+       height="22"
+       x="-22"
+       y="-22" />
+    <path
+       class="ColorScheme-Text"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -19,-3 -3,-19 V -3 Z"
+       id="path4220-4" />
+  </g>
+  <g
+     id="network-mobile-off"
+     transform="translate(-16.461505,-260.22887)">
+    <rect
+       style="opacity:0.2;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4437-6"
+       width="22"
+       height="22"
+       x="146"
+       y="52" />
+    <path
+       id="path4439-7"
+       d="m 165,55 -16,16 h 12.90234 l -0.85351,-0.853516 2.15234,-2.15039 -2.15234,-2.152344 1.30859,-1.306641 0.45899,-0.460937 2.15234,2.152344 0.0312,-0.03125 z"
+       style="opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc"
+       class="ColorScheme-Text" />
+    <path
+       id="path6"
+       d="m 162.81706,64.99585 -0.84844,0.848437 2.15156,2.151563 -2.15156,2.151563 0.84844,0.848437 2.15156,-2.151564 2.15156,2.151564 0.84844,-0.848437 -2.15156,-2.151563 2.15156,-2.151563 -0.84844,-0.848437 -2.15156,2.151563 z"
+       class="ColorScheme-NegativeText"
+       style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1.2"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>
