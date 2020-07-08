@@ -5,13 +5,13 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   id="svg120"
    viewBox="0 0 22 22"
    version="1.0"
    height="22"
-   width="22">
+   width="22"
+   id="svg120">
   <metadata
-     id="metadata122">
+     id="metadata121">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -26,214 +26,36 @@
      id="defs5">
     <style
        type="text/css"
-       id="current-color-scheme"> .ColorScheme-Text { color:#363636; } </style>
+       id="current-color-scheme">.ColorScheme-Text { color:#363636; }</style>
   </defs>
   <g
-     fill="currentColor"
-     transform="translate(-99.54,-427.51)"
-     class="ColorScheme-Text"
-     id="22-22-Fill90">
+     transform="translate(360,23)"
+     id="Fill10">
+    <g
+       fill="#ff4d62"
+       transform="translate(0,-24)"
+       id="g1075">
+      <path
+         d="m3-34c-2.216 0-4 1.784-4 4v6c0 2.216 1.784 4 4 4h18c2.216 0 4-1.784 4-4v-6c0-2.216-1.784-4-4-4zm0 2h18c1.108 0 2 0.892 2 2v6c0 1.108-0.892 2-2 2h-18c-1.108 0-2-0.892-2-2v-6c0-1.108 0.892-2 2-2z"
+         id="path1069" />
+      <path
+         d="m26-29v4h0.5a2.25 2.1237 0 0 0 1.5-2.0013 2.25 2.1237 0 0 0-1.5-1.9987z"
+         id="path1071" />
+      <rect
+         ry="1"
+         height="8"
+         width="2"
+         y="-31"
+         x="2"
+         id="rect1073" />
+    </g>
     <rect
-       opacity="0"
-       ry="0"
-       rx="0"
-       height="22"
-       width="22"
-       y="428.51"
-       x="164.54"
-       id="rect940" />
-    <rect
-       ry="1"
-       rx="1"
-       height="7"
-       width="14"
-       y="436.51"
-       x="166.54"
-       id="rect946" />
-  </g>
-  <g
-     fill="currentColor"
-     transform="translate(-74.54,-427.51)"
-     class="ColorScheme-Text"
-     id="22-22-Fill80">
-    <rect
-       opacity="0"
-       ry="0"
-       rx="0"
-       height="22"
-       width="22"
-       y="428.51"
-       x="164.54"
-       id="rect950" />
-    <rect
-       ry="1"
-       rx="1"
-       height="7"
-       width="12"
-       y="436.51"
-       x="166.54"
-       id="rect952" />
-  </g>
-  <g
-     fill="currentColor"
-     transform="translate(-54.54,-427.51)"
-     class="ColorScheme-Text"
-     id="22-22-Fill70">
-    <rect
-       opacity="0"
-       ry="0"
-       rx="0"
-       height="22"
-       width="22"
-       y="428.51"
-       x="164.54"
-       id="rect956" />
-    <rect
-       ry="1"
-       rx="1"
-       height="7"
-       width="11"
-       y="436.51"
-       x="166.54"
-       id="rect958" />
-  </g>
-  <g
-     fill="currentColor"
-     transform="translate(-29.54,-427.51)"
-     class="ColorScheme-Text"
-     id="22-22-Fill60">
-    <rect
-       opacity="0"
-       ry="0"
-       rx="0"
-       height="22"
-       width="22"
-       y="428.51"
-       x="164.54"
-       id="rect962" />
-    <rect
-       ry="1"
-       rx="1"
-       height="7"
-       width="10"
-       y="436.51"
-       x="166.54"
-       id="rect964" />
-  </g>
-  <g
-     fill="currentColor"
-     transform="translate(-4.54,-427.51)"
-     class="ColorScheme-Text"
-     id="22-22-Fill50">
-    <rect
-       opacity="0"
-       ry="0"
-       rx="0"
-       height="22"
-       width="22"
-       y="428.51"
-       x="164.54"
-       id="rect968" />
-    <rect
-       ry="1"
-       rx="1"
-       height="7"
-       width="8"
-       y="436.51"
-       x="166.54"
-       id="rect970" />
-  </g>
-  <g
-     fill="currentColor"
-     transform="translate(20.46,-427.51)"
-     class="ColorScheme-Text"
-     id="22-22-Fill40">
-    <rect
-       opacity="0"
-       ry="0"
-       rx="0"
-       height="22"
-       width="22"
-       y="428.51"
-       x="164.54"
-       id="rect974" />
-    <rect
-       ry="1"
-       rx="1"
-       height="7"
-       width="7"
-       y="436.51"
-       x="166.54"
-       id="rect976" />
-  </g>
-  <g
-     fill="currentColor"
-     transform="translate(40.46,-427.51)"
-     class="ColorScheme-Text"
-     id="22-22-Fill30">
-    <rect
-       opacity="0"
-       ry="0"
-       rx="0"
-       height="22"
-       width="22"
-       y="428.51"
-       x="164.54"
-       id="rect980" />
-    <rect
-       ry="1"
-       rx="1"
-       height="7"
-       width="5"
-       y="436.51"
-       x="166.54"
-       id="rect982" />
-  </g>
-  <g
-     fill="currentColor"
-     transform="translate(60.46,-427.51)"
-     class="ColorScheme-Text"
-     id="22-22-Fill20">
-    <rect
-       opacity="0"
-       ry="0"
-       rx="0"
-       height="22"
-       width="22"
-       y="428.51"
-       x="164.54"
-       id="rect986" />
-    <rect
-       ry="1"
-       rx="1"
-       height="7"
-       width="3"
-       y="436.51"
-       x="166.54"
-       id="rect988" />
-  </g>
-  <g
-     fill="currentColor"
-     transform="translate(-129.54,-427.51)"
-     class="ColorScheme-Text"
-     id="22-22-Fill100">
-    <rect
-       opacity="0"
-       ry="0"
-       rx="0"
-       height="22"
-       width="22"
-       y="428.51"
-       x="164.54"
-       id="rect1029" />
-    <rect
-       ry="1"
-       rx="1"
-       height="7"
-       width="16"
-       y="436.51"
-       x="166.54"
-       id="rect1031" />
+       fill="none"
+       height="32"
+       width="32"
+       y="-67"
+       x="-3"
+       id="rect1077" />
   </g>
   <g
      fill="currentColor"
@@ -250,12 +72,13 @@
        x="189.44"
        id="rect1022" />
     <rect
-       ry="2"
-       rx="2"
-       height="10"
-       width="22"
-       y="347.51"
-       x="193.44"
+       stroke-width=".8528"
+       ry="1"
+       rx="0"
+       height="8"
+       width="20"
+       y="348.51"
+       x="194.45"
        id="rect1028" />
   </g>
   <g
@@ -273,12 +96,13 @@
        x="189.44"
        id="rect1042" />
     <rect
-       ry="2"
-       rx="2"
-       height="10"
-       width="20"
-       y="347.51"
-       x="193.44"
+       stroke-width=".849"
+       ry="1"
+       rx="0"
+       height="8"
+       width="18"
+       y="348.51"
+       x="194.43"
        id="rect1044" />
   </g>
   <g
@@ -296,12 +120,13 @@
        x="189.44"
        id="rect1048" />
     <rect
-       ry="2"
-       rx="2"
-       height="10"
-       width="18"
-       y="347.51"
-       x="193.44"
+       stroke-width=".8438"
+       ry="1"
+       rx="0"
+       height="8"
+       width="16"
+       y="348.51"
+       x="194.43"
        id="rect1050" />
   </g>
   <g
@@ -319,12 +144,13 @@
        x="189.44"
        id="rect1054" />
     <rect
-       ry="2"
-       rx="2"
-       height="10"
-       width="16"
-       y="347.51"
-       x="193.44"
+       stroke-width=".83726"
+       ry="1"
+       rx="0"
+       height="8"
+       width="14"
+       y="348.51"
+       x="194.43"
        id="rect1056" />
   </g>
   <g
@@ -342,12 +168,13 @@
        x="189.44"
        id="rect1060" />
     <rect
-       ry="2"
-       rx="2"
-       height="10"
-       width="14"
-       y="347.51"
-       x="193.44"
+       stroke-width=".82877"
+       ry="1"
+       rx="0"
+       height="8"
+       width="12"
+       y="348.51"
+       x="194.43"
        id="rect1062" />
   </g>
   <g
@@ -365,12 +192,13 @@
        x="189.44"
        id="rect1066" />
     <rect
-       ry="2"
-       rx="2"
-       height="10"
-       width="12"
-       y="347.51"
-       x="193.44"
+       stroke-width=".81731"
+       ry="1"
+       rx="0"
+       height="8"
+       width="10"
+       y="348.51"
+       x="194.43"
        id="rect1068" />
   </g>
   <g
@@ -388,12 +216,13 @@
        x="189.44"
        id="rect1072" />
     <rect
-       ry="2"
-       rx="2"
-       height="10"
-       width="10"
-       y="347.51"
-       x="193.44"
+       stroke-width=".801"
+       ry="1"
+       rx="0"
+       height="8"
+       width="8"
+       y="348.51"
+       x="194.43"
        id="rect1074" />
   </g>
   <g
@@ -411,12 +240,13 @@
        x="189.44"
        id="rect1078" />
     <rect
-       ry="2"
-       rx="2"
-       height="10"
-       width="8"
-       y="347.51"
-       x="193.44"
+       stroke-width=".77589"
+       ry="1"
+       rx="0"
+       height="8"
+       width="6"
+       y="348.51"
+       x="194.43"
        id="rect1080" />
   </g>
   <g
@@ -434,177 +264,14 @@
        x="189.44"
        id="rect1084" />
     <rect
-       ry="2"
-       rx="2"
-       height="10"
-       width="6"
-       y="347.51"
-       x="193.44"
-       id="rect1086" />
-  </g>
-  <g
-     fill="currentColor"
-     transform="translate(-214.54,-357.51)"
-     class="ColorScheme-Text"
-     id="Battery">
-    <path
-       d="m3-81c-2.216 0-4 1.784-4 4v6c0 2.216 1.784 4 4 4h18c2.216 0 4-1.784 4-4v-6c0-2.216-1.784-4-4-4zm0 1h18c1.662 0 3 1.338 3 3v6c0 1.662-1.338 3-3 3h-18c-1.662 0-3-1.338-3-3v-6c0-1.662 1.338-3 3-3z"
-       transform="translate(214.54,404.51)"
-       id="rect168" />
-    <rect
-       opacity="0"
-       ry="0"
-       rx="0"
-       height="32"
-       width="32"
-       y="314.51"
-       x="211.54"
-       id="rect148" />
-    <path
-       d="m240.54 328.51v4a2 2 0 0 0 2-2 2 2 0 0 0-2-2z"
-       id="path152" />
-  </g>
-  <g
-     fill="currentColor"
-     transform="translate(-214.54,-436.51)"
-     class="ColorScheme-Text"
-     id="22-22-Battery">
-    <g
-       transform="translate(50,8)"
-       id="g187">
-      <path
-         d="m21 42.088v2.8262a1.5 1.5 0 0 0 1-1.4141 1.5 1.5 0 0 0-1-1.4121z"
-         transform="translate(164.54,396.51)"
-         id="path185" />
-      <rect
-         opacity="0"
-         ry="0"
-         rx="0"
-         height="22"
-         width="22"
-         y="428.51"
-         x="164.54"
-         id="rect181" />
-    </g>
-    <path
-       d="m3 38c-1.662 0-3 1.338-3 3v5c0 1.662 1.338 3 3 3h14c1.662 0 3-1.338 3-3v-5c0-1.662-1.338-3-3-3zm0 1h14c1.108 0 2 0.892 2 2v5c0 1.108-0.89199 2-2 2h-14c-1.108 0-2-0.892-2-2v-5c0-1.108 0.89199-2 2-2z"
-       transform="translate(214.54,404.51)"
-       id="rect189" />
-  </g>
-  <g
-     transform="translate(35.46,-434.51)"
-     id="22-22-Fill10">
-    <g
-       transform="translate(50,8)"
-       id="g225">
-      <path
-         fill="#ff4d62"
-         d="m21 42.088v2.8262a1.5 1.5 0 0 0 1-1.4141 1.5 1.5 0 0 0-1-1.4121z"
-         transform="translate(164.54,396.51)"
-         id="path221" />
-      <rect
-         opacity="0"
-         ry="0"
-         rx="0"
-         height="22"
-         width="22"
-         y="428.51"
-         x="164.54"
-         id="rect223" />
-    </g>
-    <path
-       fill="#ff4d62"
-       d="m3 38c-1.662 0-3 1.338-3 3v5c0 1.662 1.338 3 3 3h14c1.662 0 3-1.338 3-3v-5c0-1.662-1.338-3-3-3zm0 1h14c1.108 0 2 0.892 2 2v5c0 1.108-0.89199 2-2 2h-14c-1.108 0-2-0.892-2-2v-5c0-1.108 0.89199-2 2-2z"
-       transform="translate(214.54,404.51)"
-       id="path227" />
-    <rect
-       fill="#ff4d62"
+       stroke-width=".73212"
        ry="1"
-       rx="1"
-       height="7"
-       width="2"
-       y="444.51"
-       x="216.54"
-       id="rect229" />
-  </g>
-  <g
-     transform="translate(66.46,-434.51)"
-     id="22-22-Fill0">
-    <g
-       transform="translate(50,8)"
-       id="g237">
-      <path
-         fill="#ff4d62"
-         d="m21 42.088v2.8262a1.5 1.5 0 0 0 1-1.4141 1.5 1.5 0 0 0-1-1.4121z"
-         transform="translate(164.54,396.51)"
-         id="path233" />
-      <rect
-         opacity="0"
-         ry="0"
-         rx="0"
-         height="22"
-         width="22"
-         y="428.51"
-         x="164.54"
-         id="rect235" />
-    </g>
-    <path
-       fill="#ff4d62"
-       d="m3 38c-1.662 0-3 1.338-3 3v5c0 1.662 1.338 3 3 3h14c1.662 0 3-1.338 3-3v-5c0-1.662-1.338-3-3-3zm0 1h14c1.108 0 2 0.892 2 2v5c0 1.108-0.89199 2-2 2h-14c-1.108 0-2-0.892-2-2v-5c0-1.108 0.89199-2 2-2z"
-       transform="translate(214.54,404.51)"
-       id="path239" />
-  </g>
-  <g
-     transform="translate(147.45 -357.51)"
-     id="Fill10">
-    <path
-       fill="#ff4d62"
-       d="m3-81c-2.216 0-4 1.784-4 4v6c0 2.216 1.784 4 4 4h18c2.216 0 4-1.784 4-4v-6c0-2.216-1.784-4-4-4zm0 1h18c1.662 0 3 1.338 3 3v6c0 1.662-1.338 3-3 3h-18c-1.662 0-3-1.338-3-3v-6c0-1.662 1.338-3 3-3z"
-       transform="translate(214.54,404.51)"
-       id="path245" />
-    <rect
-       opacity="0"
-       ry="0"
        rx="0"
-       height="32"
-       width="32"
-       y="314.51"
-       x="211.54"
-       id="rect247" />
-    <path
-       fill="#ff4d62"
-       d="m240.54 328.51v4a2 2 0 0 0 2-2 2 2 0 0 0-2-2z"
-       id="path249" />
-    <rect
-       fill="#ff4d62"
-       ry="2"
-       height="10"
+       height="8"
        width="4"
-       y="325.51"
-       x="215.54"
-       id="rect251" />
-  </g>
-  <g
-     transform="translate(191.45 -357.51)"
-     id="Fill0">
-    <path
-       fill="#ff4d62"
-       d="m3-81c-2.216 0-4 1.784-4 4v6c0 2.216 1.784 4 4 4h18c2.216 0 4-1.784 4-4v-6c0-2.216-1.784-4-4-4zm0 1h18c1.662 0 3 1.338 3 3v6c0 1.662-1.338 3-3 3h-18c-1.662 0-3-1.338-3-3v-6c0-1.662 1.338-3 3-3z"
-       transform="translate(214.54,404.51)"
-       id="path255" />
-    <rect
-       opacity="0"
-       ry="0"
-       rx="0"
-       height="32"
-       width="32"
-       y="314.51"
-       x="211.54"
-       id="rect257" />
-    <path
-       fill="#ff4d62"
-       d="m240.54 328.51v4a2 2 0 0 0 2-2 2 2 0 0 0-2-2z"
-       id="path259" />
+       y="348.51"
+       x="194.43"
+       id="rect1086" />
   </g>
   <g
      transform="translate(-69.54,-403.51)"
@@ -685,8 +352,8 @@
        id="rect1110" />
   </g>
   <g
-     fill="currentColor"
      transform="translate(-220.54 -409.02)"
+     fill="currentColor"
      class="ColorScheme-Text"
      id="22-22-battery-ups">
     <path
@@ -762,5 +429,292 @@
          class="ColorScheme-Text"
          id="rect4622" />
     </g>
+  </g>
+  <g
+     transform="translate(-1,23)"
+     id="Battery">
+    <g
+       fill="currentColor"
+       class="ColorScheme-Text"
+       transform="translate(0,-24)"
+       id="g995">
+      <path
+         d="m3-34c-2.216 0-4 1.784-4 4v6c0 2.216 1.784 4 4 4h18c2.216 0 4-1.784 4-4v-6c0-2.216-1.784-4-4-4zm0 2h18c1.108 0 2 0.892 2 2v6c0 1.108-0.892 2-2 2h-18c-1.108 0-2-0.892-2-2v-6c0-1.108 0.892-2 2-2z"
+         id="rect939" />
+      <path
+         d="m26-29v4h0.5a2.25 2.1237 0 0 0 1.5-2.0013 2.25 2.1237 0 0 0-1.5-1.9987z"
+         id="path944" />
+      <rect
+         ry="1"
+         height="8"
+         width="20"
+         y="-31"
+         x="2"
+         id="rect990" />
+    </g>
+    <rect
+       fill="none"
+       height="32"
+       width="32"
+       y="-67"
+       x="-3"
+       id="rect997" />
+  </g>
+  <g
+     transform="translate(39,-27)"
+     id="22-22-Fill100">
+    <rect
+       opacity="0"
+       height="22"
+       width="22"
+       y="24"
+       id="rect971" />
+    <rect
+       fill="currentColor"
+       class="ColorScheme-Text"
+       ry="1"
+       height="6"
+       width="12"
+       y="32"
+       x="3"
+       id="rect969" />
+  </g>
+  <g
+     transform="translate(66,-27)"
+     id="22-22-Fill90">
+    <rect
+       opacity="0"
+       height="22"
+       width="22"
+       y="24"
+       id="rect977" />
+    <rect
+       fill="currentColor"
+       class="ColorScheme-Text"
+       ry="1"
+       height="6"
+       width="11"
+       y="32"
+       x="3"
+       id="rect979" />
+  </g>
+  <g
+     transform="translate(95,-27)"
+     id="22-22-Fill80">
+    <rect
+       opacity="0"
+       height="22"
+       width="22"
+       y="24"
+       id="rect983" />
+    <rect
+       fill="currentColor"
+       class="ColorScheme-Text"
+       ry="1"
+       height="6"
+       width="10"
+       y="32"
+       x="3"
+       id="rect985" />
+  </g>
+  <g
+     transform="translate(123.5,-27)"
+     id="22-22-Fill70">
+    <rect
+       opacity="0"
+       height="22"
+       width="22"
+       y="24"
+       id="rect989" />
+    <rect
+       fill="currentColor"
+       class="ColorScheme-Text"
+       ry="1"
+       height="6"
+       width="9"
+       y="32"
+       x="3"
+       id="rect991" />
+  </g>
+  <g
+     transform="translate(155.5,-27)"
+     id="22-22-Fill60">
+    <rect
+       opacity="0"
+       height="22"
+       width="22"
+       y="24"
+       id="rect995" />
+    <rect
+       fill="currentColor"
+       class="ColorScheme-Text"
+       ry="1"
+       height="6"
+       width="8"
+       y="32"
+       x="3"
+       id="rect998" />
+  </g>
+  <g
+     transform="translate(190,-27)"
+     id="22-22-Fill50">
+    <rect
+       opacity="0"
+       height="22"
+       width="22"
+       y="24"
+       id="rect1002" />
+    <rect
+       fill="currentColor"
+       class="ColorScheme-Text"
+       ry="1"
+       height="6"
+       width="7"
+       y="32"
+       x="3"
+       id="rect1004" />
+  </g>
+  <g
+     transform="translate(219,-27)"
+     id="22-22-Fill40">
+    <rect
+       opacity="0"
+       height="22"
+       width="22"
+       y="24"
+       id="rect1008" />
+    <rect
+       fill="currentColor"
+       class="ColorScheme-Text"
+       ry="1"
+       height="6"
+       width="5"
+       y="32"
+       x="3"
+       id="rect1011" />
+  </g>
+  <g
+     transform="translate(249,-27)"
+     id="22-22-Fill30">
+    <rect
+       opacity="0"
+       height="22"
+       width="22"
+       y="24"
+       id="rect1015" />
+    <rect
+       fill="currentColor"
+       class="ColorScheme-Text"
+       ry="1"
+       height="6"
+       width="4"
+       y="32"
+       x="3"
+       id="rect1017" />
+  </g>
+  <g
+     transform="translate(279,-27)"
+     id="22-22-Fill20">
+    <rect
+       opacity="0"
+       height="22"
+       width="22"
+       y="24"
+       id="rect1021" />
+    <rect
+       fill="currentColor"
+       class="ColorScheme-Text"
+       ry="1"
+       height="6"
+       width="3"
+       y="32"
+       x="3"
+       id="rect1024" />
+  </g>
+  <g
+     transform="translate(402,23)"
+     id="Fill0">
+    <g
+       fill="#ff4d62"
+       transform="translate(0,-24)"
+       id="g1087">
+      <path
+         d="m3-34c-2.216 0-4 1.784-4 4v6c0 2.216 1.784 4 4 4h18c2.216 0 4-1.784 4-4v-6c0-2.216-1.784-4-4-4zm0 2h18c1.108 0 2 0.892 2 2v6c0 1.108-0.892 2-2 2h-18c-1.108 0-2-0.892-2-2v-6c0-1.108 0.892-2 2-2z"
+         id="path1081" />
+      <path
+         d="m26-29v4h0.5a2.25 2.1237 0 0 0 1.5-2.0013 2.25 2.1237 0 0 0-1.5-1.9987z"
+         id="path1083" />
+    </g>
+    <rect
+       fill="none"
+       height="32"
+       width="32"
+       y="-67"
+       x="-3"
+       id="rect1089" />
+  </g>
+  <g
+     id="22-22-Battery">
+    <rect
+       fill="none"
+       height="22"
+       width="22"
+       id="rect972" />
+    <path
+       fill="currentColor"
+       class="ColorScheme-Text"
+       d="m20 9v4h0.5a1.5 2 0 0 0 1.5-2 1.5 2 0 0 0-1.5-2z"
+       id="path963" />
+    <path
+       fill="currentColor"
+       class="ColorScheme-Text"
+       d="m3.9766 5c-2.2035 0-3.9766 1.773-3.9766 3.9766v4.0469c0 2.2035 1.773 3.9766 3.9766 3.9766h11.047c2.2035 0 3.9766-1.773 3.9766-3.9766v-4.0469c0-2.2035-1.773-3.9766-3.9766-3.9766h-11.047zm0.023438 2h11c1.108 0 2 0.892 2 2v4c0 1.108-0.892 2-2 2h-11c-1.108 0-2-0.892-2-2v-4c0-1.108 0.892-2 2-2z"
+       id="rect942" />
+  </g>
+  <g
+     transform="translate(-6,-20)"
+     id="22-22-Fill10">
+    <rect
+       fill="none"
+       height="22"
+       width="22"
+       y="17"
+       x="313"
+       id="rect952" />
+    <path
+       fill="#ff4d62"
+       d="m333 26v4h0.5a1.5 2 0 0 0 1.5-2 1.5 2 0 0 0-1.5-2z"
+       id="path954" />
+    <path
+       fill="#ff4d62"
+       d="m316.98 22c-2.2035 0-3.9766 1.773-3.9766 3.9766v4.0469c0 2.2035 1.773 3.9766 3.9766 3.9766h11.047c2.2035 0 3.9766-1.773 3.9766-3.9766v-4.0469c0-2.2035-1.773-3.9766-3.9766-3.9766zm0.02344 2h11c1.108 0 2 0.892 2 2v4c0 1.108-0.892 2-2 2h-11c-1.108 0-2-0.892-2-2v-4c0-1.108 0.892-2 2-2z"
+       id="path956" />
+    <rect
+       fill="#ff4d62"
+       ry="1"
+       height="6"
+       width="2"
+       y="25"
+       x="316"
+       id="rect960" />
+  </g>
+  <g
+     transform="translate(30,-20)"
+     id="22-22-Fill0">
+    <rect
+       fill="none"
+       height="22"
+       width="22"
+       y="17"
+       x="313"
+       id="rect973" />
+    <path
+       fill="#ff4d62"
+       d="m333 26v4h0.5a1.5 2 0 0 0 1.5-2 1.5 2 0 0 0-1.5-2z"
+       id="path975" />
+    <path
+       fill="#ff4d62"
+       d="m316.98 22c-2.2035 0-3.9766 1.773-3.9766 3.9766v4.0469c0 2.2035 1.773 3.9766 3.9766 3.9766h11.047c2.2035 0 3.9766-1.773 3.9766-3.9766v-4.0469c0-2.2035-1.773-3.9766-3.9766-3.9766zm0.02344 2h11c1.108 0 2 0.892 2 2v4c0 1.108-0.892 2-2 2h-11c-1.108 0-2-0.892-2-2v-4c0-1.108 0.892-2 2-2z"
+       id="path977" />
   </g>
 </svg>
