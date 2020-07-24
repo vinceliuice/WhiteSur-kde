@@ -5,7 +5,7 @@ cursorTheme=McMojave-cursors
 ColorScheme=WhiteSurDark
 
 [kdeglobals][Icons]
-Theme=McMojave-circle-dark
+Theme=WhiteSur-dark
 
 [kdeglobals][KDE]
 widgetStyle=kvantum-dark
