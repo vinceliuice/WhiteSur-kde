@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg14"
+   viewBox="0 0 54 32"
+   version="1.1">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5">
+    <style
+       type="text/css"
+       id="current-color-scheme"> .ColorScheme-Text { color:#363636; } </style>
+  </defs>
+  <g
+     transform="matrix(1 0 0 1 -420.72 -516.79)"
+     id="22-22-bookmarks">
+    <rect
+       opacity="0"
+       height="22"
+       width="22"
+       y="2"
+       x="-7.1557e-8"
+       transform="matrix(1 0 0 1 420.71 524.79)"
+       id="rect3028" />
+    <path
+       fill="currentColor"
+       d="m426.71 529.79v1 14 1l5-2 5 2v-1-14-1h-10m1 1h8v13.6l-4-1.5996-4 1.5996v-13.6"
+       class="ColorScheme-Text"
+       id="rect4298" />
+  </g>
+  <g
+     transform="translate(59.723 .86801)"
+     id="bookmarks">
+    <path
+       fill="#ff5969"
+       d="m-22.723 0.132c-8.2768 0-15 6.7232-15 15 0 8.2768 6.7232 15 15 15s15-6.7232 15-15c0-8.2768-6.7232-15-15-15z"
+       id="path12" />
+    <rect
+       style="paint-order:fill markers stroke"
+       stroke-width="2"
+       opacity="0"
+       ry="0"
+       rx="0"
+       height="32"
+       width="32"
+       y="-.86801"
+       x="-38.723"
+       id="rect8" />
+    <path
+       fill="#fff"
+       d="m-26.861 8.132c-2.6767 0-4.8617 2.2334-4.8617 5 0 1.4396 0.58595 2.753 1.5268 3.6667l7.4732 7.3333 7.4732-7.3333c0.94096-0.91356 1.5268-2.227 1.5268-3.6667 0-2.7666-2.185-5-4.8617-5-1.7631 0-3.2905 0.96155-4.1384 2.4167-0.84783-1.4551-2.3752-2.4167-4.1384-2.4167z"
+       id="path16" />
+  </g>
+</svg>
