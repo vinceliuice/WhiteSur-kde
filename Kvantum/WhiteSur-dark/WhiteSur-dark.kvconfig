@@ -54,7 +54,7 @@ dark_titlebar=true
 hide_combo_checkboxes=false
 layout_margin=4
 no_window_pattern=false
-reduce_window_opacity=0
+reduce_window_opacity=40
 respect_DE=true
 scrollbar_in_view=false
 spin_button_width=16
@@ -122,6 +122,7 @@ opaque_colors=false
 scroll_jump_workaround=false
 centered_forms=false
 kinetic_scrolling=false
+noninteger_translucency=false
 
 [PanelButtonCommand]
 frame=true
