@@ -14,7 +14,7 @@
    viewBox="0 0 173 56"
    id="svg200"
    sodipodi:docname="panel-background.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata204">
     <rdf:RDF>
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,30 +36,27 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1412"
-     inkscape:window-height="862"
+     inkscape:window-width="1920"
+     inkscape:window-height="1020"
      id="namedview202"
      showgrid="true"
-     inkscape:zoom="7.129335"
-     inkscape:cx="60.320073"
-     inkscape:cy="18.921388"
-     inkscape:window-x="557"
-     inkscape:window-y="149"
-     inkscape:window-maximized="0"
+     inkscape:zoom="3.5646675"
+     inkscape:cx="75.15636"
+     inkscape:cy="25.465576"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg200"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:document-rotation="0"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
-     inkscape:snap-bbox-edge-midpoints="true">
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-nodes="false">
     <inkscape:grid
        type="xygrid"
        id="grid914" />
-    <sodipodi:guide
-       id="guide69"
-       orientation="0,-1"
-       position="60,61" />
   </sodipodi:namedview>
   <defs
      id="defs24">
@@ -168,7 +165,7 @@
        y1="-34.999985"
        x2="-904.3623"
        y2="-34.999985"
-       gradientTransform="matrix(1.2857281,0,0,1,264.40173,0)" />
+       gradientTransform="matrix(1.1020538,0,0,1,98.293668,0)" />
     <radialGradient
        gradientTransform="matrix(0,-2,2,0,16,142)"
        gradientUnits="userSpaceOnUse"
@@ -332,7 +329,7 @@
      transform="rotate(90)" />
   <g
      id="shadow-top"
-     transform="matrix(0.37500332,0,0,1.3333409,52.874889,-1203.8232)"
+     transform="matrix(0.37500332,0,0,1.5555643,52.874889,-1403.4603)"
      style="opacity:1">
     <rect
        transform="matrix(0,-1,-1,0,0,0)"
@@ -344,11 +341,11 @@
        y="-50.999985" />
     <rect
        transform="matrix(0,-1,-1,0,0,0)"
-       style="opacity:0.25;fill:url(#linearGradient4920);fill-opacity:1;stroke:none;stroke-width:1.1339"
+       style="opacity:0.25;fill:url(#linearGradient4920);fill-opacity:1;stroke:none;stroke-width:1.04979"
        id="rect4822"
-       width="9.0000677"
+       width="7.7143521"
        height="31.999859"
-       x="-907.36224"
+       x="-906.07654"
        y="-50.999844" />
     <rect
        y="-50.999985"

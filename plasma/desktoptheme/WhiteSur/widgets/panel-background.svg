@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="panel-background.svg"
    id="svg200"
    viewBox="0 0 173 56"
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -33,14 +33,14 @@
      showguides="true"
      inkscape:current-layer="svg200"
      inkscape:window-maximized="1"
-     inkscape:window-y="36"
+     inkscape:window-y="30"
      inkscape:window-x="0"
-     inkscape:cy="11.774703"
-     inkscape:cx="58.936899"
-     inkscape:zoom="14.25867"
+     inkscape:cy="26.721935"
+     inkscape:cx="71.914248"
+     inkscape:zoom="5.0412011"
      showgrid="true"
      id="namedview202"
-     inkscape:window-height="1018"
+     inkscape:window-height="1020"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -53,10 +53,6 @@
     <inkscape:grid
        id="grid914"
        type="xygrid" />
-    <sodipodi:guide
-       position="60,61"
-       orientation="0,-1"
-       id="guide69" />
   </sodipodi:namedview>
   <defs
      id="defs24">
@@ -130,7 +126,7 @@
        xlink:href="#linearGradient4270"
        inkscape:collect="always" />
     <linearGradient
-       gradientTransform="matrix(1.2857281,0,0,1,264.40173,0)"
+       gradientTransform="matrix(1.1020538,0,0,1,98.293668,0)"
        y2="-34.999985"
        x2="-904.3623"
        y1="-34.999985"
@@ -282,7 +278,7 @@
      style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.70710653" />
   <g
      style="opacity:0.15"
-     transform="matrix(0.37500332,0,0,1.3333409,52.874889,-1203.8232)"
+     transform="matrix(0.37500332,0,0,1.5555643,52.874889,-1403.4603)"
      id="shadow-top">
     <rect
        y="-50.999985"
@@ -294,11 +290,11 @@
        transform="matrix(0,-1,-1,0,0,0)" />
     <rect
        y="-50.999844"
-       x="-907.36224"
+       x="-906.07654"
        height="31.999859"
-       width="9.0000677"
+       width="7.7143521"
        id="rect4822"
-       style="opacity:0.9;fill:url(#linearGradient4920);fill-opacity:1;stroke:none;stroke-width:1.1339"
+       style="opacity:0.9;fill:url(#linearGradient4920);fill-opacity:1;stroke:none;stroke-width:1.04979"
        transform="matrix(0,-1,-1,0,0,0)" />
     <rect
        transform="matrix(0,-1,-1,0,0,0)"
