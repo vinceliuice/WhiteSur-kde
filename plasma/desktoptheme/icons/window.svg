@@ -37,25 +37,35 @@
         color:#da4453;
       }</style>
  </defs>
+ <path id="8-8-window-pin" class="ColorScheme-Text" d="m56.378-2.9024-0.29297 0.29297 0.29297 0.70703-2 2-1.5859-1-0.70703 0.70703 1.793 1.793-2.793 2.793v0.70703h0.70703l2.793-2.793 1.793 1.793 0.70703-0.70703-1-1.5859 2-2 0.70703 0.29297 0.29297-0.29297v-0.41406l-2.293-2.293z" color="#232629" fill="currentColor" stroke-miterlimit="0"/>
+ <path id="8-8-window-unpin" class="ColorScheme-ButtonFocus" d="m75.378-2.9024-0.29297 0.29297 0.29297 0.70703-2 2-1.5859-1-0.70703 0.70703 1.793 1.793-2.793 2.793v0.70703h0.70703l2.793-2.793 1.793 1.793 0.70703-0.70703-1-1.5859 2-2 0.70703 0.29297 0.29297-0.29297v-0.41406l-2.293-2.293z" color="#3daee9" fill="currentColor" stroke-miterlimit="0"/>
  <g id="edit-delete" transform="matrix(.72727 0 0 .72727 -237.09 -388.63)">
   <rect x="326" y="534.36" width="22" height="22" fill="none"/>
   <circle cx="277.56" cy="-509.56" r="0"/>
-  <path class="ColorScheme-NegativeText" d="m337 535.74a9.625 9.625 0 0 0-9.625 9.625 9.625 9.625 0 0 0 9.625 9.625 9.625 9.625 0 0 0 9.625-9.625 9.625 9.625 0 0 0-9.625-9.625zm-3.9619 4.8125 3.9619 3.9619 3.9619-3.9619 0.85065 0.85064-3.9619 3.9619 3.9619 3.9619-0.85065 0.85064-3.9619-3.9619-3.9619 3.9619-0.85063-0.85064 3.9618-3.9619-3.9618-3.9619 0.85063-0.85064z" fill="currentColor"/>
-  <path transform="matrix(1.375 0 0 1.375 326 534.36)" d="m5.1191 4.5-0.61914 0.61914 2.8809 2.8809-2.8809 2.8809 0.61914 0.61914 2.8809-2.8809 2.8809 2.8809 0.61914-0.61914-2.8809-2.8809 2.8809-2.8809-0.61914-0.61914-2.8809 2.8809-2.8809-2.8809z" fill="#fff" fill-opacity=".71176"/>
- </g>
- <g id="window-pin" transform="translate(62,-36)">
-  <rect x="-46" y="44" width="8" height="8" fill="none"/>
-  <path class="ColorScheme-Text" d="m-41 44c-0.38925 0.38925-0.46835 1.0843-0.01563 1.8438l-2.125 1.4219c-0.2642-0.1066-0.5478-0.18609-0.82812-0.1875-0.36438-0.00185-0.71874 0.10938-1.0312 0.42188l1.5 1.5-2 2-0.5 1 1-0.5 2-2 1.5 1.5c0.55348-0.55348 0.48237-1.2539 0.23438-1.8594l1.4219-2.125c0.75941 0.45273 1.4545 0.37363 1.8438-0.015625z" fill="currentColor"/>
- </g>
- <g id="window-unpin" transform="translate(82,-44)">
-  <path class="ColorScheme-Highlight" d="m-61 44c-0.38925 0.38925-0.46835 1.0843-0.01563 1.8438l-2.125 1.4219c-0.2642-0.1066-0.5478-0.18609-0.82812-0.1875-0.36438-0.00185-0.71874 0.10938-1.0312 0.42188l1.5 1.5-2 2-0.5 1 1-0.5 2-2 1.5 1.5c0.55348-0.55348 0.48237-1.2539 0.23438-1.8594l1.4219-2.125c0.75941 0.45273 1.4545 0.37363 1.8438-0.015625z" fill="currentColor"/>
-  <rect x="-66" y="44" width="8" height="8" fill="none"/>
+  <path class="ColorScheme-NegativeText" d="m337 535.74a9.625 9.625 0 0 0-9.625 9.625 9.625 9.625 0 0 0 9.625 9.625 9.625 9.625 0 0 0 9.625-9.625 9.625 9.625 0 0 0-9.625-9.625zm-3.9619 4.8125 3.9619 3.9619 3.9619-3.9619 0.85065 0.85064-3.9619 3.9619 3.9619 3.9619-0.85065 0.85064-3.9619-3.9619-3.9619 3.9619-0.85063-0.85064 3.9618-3.9619-3.9618-3.9619z" fill="currentColor"/>
+  <path transform="matrix(1.375 0 0 1.375 326 534.36)" d="M 5.1191406,4.5 4.5,5.1191406 7.3808594,8 4.5,10.880859 5.1191406,11.5 8,8.6191406 10.880859,11.5 11.5,10.880859 8.6191406,8 11.5,5.1191406 10.880859,4.5 8,7.3808594 Z" fill="#ffffff" fill-opacity=".71176"/>
  </g>
  <g id="window-list" transform="translate(-292 -542.36)">
   <rect x="286" y="561.36" width="32" height="32" ry="0" opacity="0"/>
-  <path class="ColorScheme-Text" transform="translate(326 534.36)" d="m-36 31v10h10v-10h-10zm1 1h8v8h-8v-8z" fill="currentColor"/>
-  <path class="ColorScheme-Text" transform="translate(326 534.36)" d="m-22 31v10h10v-10h-10zm1 1h8v8h-8v-8z" fill="currentColor"/>
-  <path class="ColorScheme-Text" transform="translate(326 534.36)" d="m-36 45v10h10v-10h-10zm1 1h8v8h-8v-8z" fill="currentColor"/>
-  <path class="ColorScheme-Text" transform="translate(326 534.36)" d="m-22 45v10h10v-10h-10zm1 1h8v8h-8v-8z" fill="currentColor"/>
+  <path class="ColorScheme-Text" transform="translate(326 534.36)" d="m-36 31v10h10v-10zm1 1h8v8h-8z" fill="currentColor"/>
+  <path class="ColorScheme-Text" transform="translate(326 534.36)" d="m-22 31v10h10v-10zm1 1h8v8h-8z" fill="currentColor"/>
+  <path class="ColorScheme-Text" transform="translate(326 534.36)" d="m-36 45v10h10v-10zm1 1h8v8h-8z" fill="currentColor"/>
+  <path class="ColorScheme-Text" transform="translate(326 534.36)" d="m-22 45v10h10v-10zm1 1h8v8h-8z" fill="currentColor"/>
+ </g>
+ <g id="16-16-window-pin" transform="translate(51.085 5.0976)">
+  <path d="m0 0h16v16h-16z" fill="none"/>
+  <path class="ColorScheme-Text" d="m10.5 1.793-0.70703 0.70703 0.20703 0.79297-3.3379 3.3379c-0.82695-0.41249-1.738-0.62839-2.6621-0.63086l-0.35352 0.35352 2.6465 2.6465-3.293 3.293v0.70703h0.70703l3.293-3.293 2.6465 2.6465 0.35352-0.35352c-0.0024726-0.92411-0.21837-1.8352-0.63086-2.6621l3.3379-3.3379 0.79297 0.20703 0.70703-0.70703z" fill="currentColor"/>
+ </g>
+ <g id="window-pin" transform="translate(29.085 -.90238)">
+  <path class="ColorScheme-Text" d="m14.5 2.793-0.70703 0.70703 0.5 1.5-4.7051 4.7051c-0.8904-0.46119-1.8781-0.70293-2.8809-0.70508h-0.70703l-0.35352 0.35352 3.1465 3.1465-5.793 5.793v0.70703h0.70703l5.793-5.793 3.1465 3.1465 0.35352-0.35352v-0.70703c-0.0021-1.0027-0.24388-1.9905-0.70508-2.8809l4.7051-4.7051 1.5 0.5 0.70703-0.70703z" fill="currentColor" stroke-linecap="square" stroke-miterlimit="0"/>
+  <path d="m0 0h22v22h-22z" fill="none"/>
+ </g>
+ <g id="16-16-window-unpin" transform="translate(67.085 5.0976)">
+  <path d="m0 0h16v16h-16z" fill="none"/>
+  <path class="ColorScheme-ButtonFocus" d="m10.5 1.793-0.70703 0.70703 0.20703 0.79297-3.3379 3.3379c-0.82695-0.41249-1.738-0.62839-2.6621-0.63086l-0.35352 0.35352 2.6465 2.6465-3.293 3.293v0.70703h0.70703l3.293-3.293 2.6465 2.6465 0.35352-0.35352c-0.0024726-0.92411-0.21837-1.8352-0.63086-2.6621l3.3379-3.3379 0.79297 0.20703 0.70703-0.70703z" fill="currentColor"/>
+ </g>
+ <g id="window-unpin" transform="translate(83.085 -.90238)">
+  <path class="ColorScheme-ButtonFocus" d="m14.5 2.793-0.70703 0.70703 0.5 1.5-4.7051 4.7051c-0.8904-0.46119-1.8781-0.70293-2.8809-0.70508h-0.70703l-0.35352 0.35352 3.1465 3.1465-5.793 5.793v0.70703h0.70703l5.793-5.793 3.1465 3.1465 0.35352-0.35352v-0.70703c-0.0021-1.0027-0.24388-1.9905-0.70508-2.8809l4.7051-4.7051 1.5 0.5 0.70703-0.70703z" fill="currentColor" stroke-linecap="square" stroke-miterlimit="0"/>
+  <path d="m0 0h22v22h-22z" fill="none"/>
  </g>
 </svg>
