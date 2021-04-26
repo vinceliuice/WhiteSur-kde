@@ -35,15 +35,15 @@
      inkscape:snap-bbox="true"
      inkscape:current-layer="svg414"
      inkscape:window-maximized="1"
-     inkscape:window-y="24"
+     inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="104.11272"
-     inkscape:cx="127.91619"
-     inkscape:zoom="4.2539064"
+     inkscape:cy="138.69102"
+     inkscape:cx="81.695314"
+     inkscape:zoom="1.503983"
      showgrid="true"
      id="namedview416"
-     inkscape:window-height="1022"
-     inkscape:window-width="1920"
+     inkscape:window-height="704"
+     inkscape:window-width="1366"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      guidetolerance="10"
@@ -1034,10 +1034,10 @@
   <rect
      y="144.99998"
      x="-119"
-     height="1"
+     height="0.2"
      width="1.9999999"
      id="toolbutton-focus-hint-left-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.499997"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.223605"
      transform="rotate(-90)" />
   <g
      transform="matrix(0.68749936,0,0,0.71348868,147.56249,-616.56599)"
@@ -1124,27 +1124,27 @@
      style="opacity:0.2;fill:#ffffff;stroke-width:0.687499"
      inkscape:connector-curvature="0" />
   <rect
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.499997"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.223605"
      id="toolbutton-focus-hint-top-margin"
      width="1.9999999"
-     height="1"
+     height="0.2"
      x="160.99998"
      y="101" />
   <rect
      transform="rotate(-90)"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.499997"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.223605"
      id="toolbutton-focus-hint-right-margin"
-     width="1.9999999"
-     height="1"
+     width="2"
+     height="0.2"
      x="-119"
      y="177.99998" />
   <rect
      y="133.99998"
      x="160.99998"
-     height="1"
+     height="0.2"
      width="1.9999999"
      id="toolbutton-focus-hint-bottom-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5" />
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.223607" />
   <rect
      id="toolbutton-hover-hint-top-margin"
      x="160.99998"
