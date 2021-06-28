@@ -15,3 +15,6 @@ defaultWallpaperTheme=WhiteSur
 defaultFileSuffix=.png
 defaultHeight=1440
 defaultWidth=2560
+
+[AdaptiveTransparency]
+enabled = true
