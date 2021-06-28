@@ -63,7 +63,6 @@ SessionManagementScreen {
 
     PlasmaComponents.TextField {
         id: passwordBox
-        
         Layout.fillWidth: true
         Layout.minimumHeight: 32
         implicitHeight: usernameFontSize * 2.85
