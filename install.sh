@@ -31,6 +31,8 @@ LATTE_DIR="$HOME/.config/latte"
 [[ ! -d ${KVANTUM_DIR} ]] && mkdir -p ${KVANTUM_DIR}
 [[ ! -d ${WALLPAPER_DIR} ]] && mkdir -p ${WALLPAPER_DIR}
 
+cp -rf "${SRC_DIR}"/configs/Xresources "$HOME"/.Xresources
+
 install() {
   local name=${1}
   local color=${2}

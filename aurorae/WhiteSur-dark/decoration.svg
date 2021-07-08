@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="355"
    height="310"
    id="svg3642"
    sodipodi:version="0.32"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
    sodipodi:docname="decoration.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
    inkscape:export-filename="/home/diau/svn/playground-plasma/desktoptheme/air/widgets/background.png"
    inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   inkscape:export-ydpi="90"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
      id="base"
      pagecolor="#585858"
@@ -26,17 +26,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="565.45922"
-     inkscape:cy="-0.53289844"
+     inkscape:zoom="4.0000001"
+     inkscape:cx="413.12499"
+     inkscape:cy="152"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1022"
+     inkscape:window-height="1008"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      width="48px"
      height="48px"
      showguides="true"
@@ -54,7 +54,8 @@
      inkscape:snap-intersection-paths="true"
      inkscape:object-paths="true"
      inkscape:snap-nodes="true"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid2555"
@@ -260,7 +261,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
       <cc:Work
          rdf:about="">
@@ -478,7 +478,7 @@
       <path
          id="path6211-7"
          d="M 470,277 H 325 v 12 h 145 z"
-         style="opacity:0.6;fill:#242424;fill-opacity:1;stroke:none;stroke-width:1.41421"
+         style="opacity:0.75;fill:#242424;fill-opacity:1;stroke:none;stroke-width:1.41421"
          inkscape:connector-curvature="0" />
     </g>
     <path
@@ -555,7 +555,7 @@
       <path
          id="path6211-7-5"
          d="M 470,276.92202 H 325 v 12 h 145 z"
-         style="opacity:0.6;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1.41421"
+         style="opacity:0.75;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1.41421"
          inkscape:connector-curvature="0" />
     </g>
     <path
@@ -615,7 +615,7 @@
        inkscape:label="#decoration-bottomleft">
       <path
          id="rect7023-1"
-         style="opacity:0.6;fill:#242424;fill-opacity:1;stroke:none"
+         style="opacity:0.75;fill:#242424;fill-opacity:1;stroke:none"
          d="M 81 196 C 81 202.648 86.352 208 93 208 L 110 208 L 110 196 L 81 196 z "
          transform="translate(385,94.000015)" />
       <g
@@ -645,7 +645,7 @@
        id="decoration-inactive-bottomleft">
       <path
          id="path4207"
-         style="opacity:0.6;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1.41421"
+         style="opacity:0.75;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1.41421"
          d="m 441,196 c 0,6.648 5.352,12 12,12 h 14 3 v -12 z"
          transform="translate(0,90)"
          sodipodi:nodetypes="cscccc" />
