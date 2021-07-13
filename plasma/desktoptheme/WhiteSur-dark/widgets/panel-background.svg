@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="173"
    height="56"
    version="1.1"
    viewBox="0 0 173 56"
    id="svg200"
    sodipodi:docname="panel-background.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata204">
     <rdf:RDF>
@@ -23,7 +23,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,14 +36,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1020"
+     inkscape:window-height="1018"
      id="namedview202"
      showgrid="true"
-     inkscape:zoom="3.5646675"
-     inkscape:cx="75.15636"
-     inkscape:cy="25.465576"
+     inkscape:zoom="7.129335"
+     inkscape:cx="53.511302"
+     inkscape:cy="35.697579"
      inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg200"
      showguides="true"
@@ -53,7 +52,8 @@
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:snap-nodes="false">
+     inkscape:snap-nodes="false"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid914" />
@@ -298,34 +298,34 @@
      id="center"
      style="color:#eff0f1;opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3750031" />
   <rect
-     style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.7070992"
+     style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.182574"
      id="hint-top-margin"
      width="4"
-     height="2.9999487"
+     height="0.2"
      x="64"
      y="6.0000515" />
   <rect
      y="47"
      x="64"
-     height="3.0000477"
+     height="0.2"
      width="4"
      id="hint-bottom-margin"
-     style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.70711386" />
+     style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.182575" />
   <rect
-     y="-88.000015"
+     y="-85.199997"
      x="26.000051"
-     height="3.0000153"
+     height="0.2"
      width="4"
      id="hint-right-margin"
-     style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.70710778"
+     style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.182574"
      transform="rotate(90)" />
   <rect
-     style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.70710653"
+     style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.182574"
      id="hint-left-margin"
      width="4"
-     height="3"
+     height="0.2"
      x="26.000051"
-     y="-47"
+     y="-44.200001"
      transform="rotate(90)" />
   <g
      id="shadow-top"
