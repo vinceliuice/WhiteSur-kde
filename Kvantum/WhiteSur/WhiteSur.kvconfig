@@ -353,7 +353,7 @@ text.normal.inactive.color=#33333374
 frame.left=4
 frame.right=4
 frame.top=0
-frame.bottom=8
+frame.bottom=0
 frame.expansion=0
 
 [Slider]
