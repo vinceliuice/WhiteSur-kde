@@ -41,10 +41,7 @@ SessionManagementScreen {
     PlasmaComponents.TextField {
         id: userNameInput
         Layout.fillWidth: true
-        Layout.minimumHeight: 32
-        implicitHeight: root.height / 28
-        font.family: config.Font || "Noto Sans"
-        font.pointSize: usernameFontSize
+        font.pointSize: fontSize + 1
         opacity: 0.5
         text: lastUserName
         visible: showUsernamePrompt
@@ -64,9 +61,7 @@ SessionManagementScreen {
     PlasmaComponents.TextField {
         id: passwordBox
         Layout.fillWidth: true
-        Layout.minimumHeight: 32
-        implicitHeight: usernameFontSize * 2.85
-        font.pointSize: usernameFontSize * 0.8
+        font.pointSize: fontSize + 1
         opacity: passwordFieldOutlined ? 1.0 : 0.5
         font.family: config.Font || "Noto Sans"
         placeholderText: config.PasswordFieldPlaceholderText == "Password" ? i18nd("plasma_lookandfeel_org.kde.lookandfeel", "Password") : config.PasswordFieldPlaceholderText
