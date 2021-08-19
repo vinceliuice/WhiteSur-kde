@@ -48,7 +48,7 @@ ForegroundVisited=49,91,239
 
 [Colors:Header]
 BackgroundAlternate=66,66,66
-BackgroundNormal=51,51,51
+BackgroundNormal=54,54,54
 DecorationFocus=49,91,239
 DecorationHover=49,91,239
 ForegroundActive=246,116,0
@@ -118,7 +118,7 @@ ForegroundVisited=120,120,120
 
 [Colors:Window]
 BackgroundAlternate=66,66,66
-BackgroundNormal=36,36,36
+BackgroundNormal=54,54,54
 DecorationFocus=49,91,239
 DecorationHover=49,91,239
 ForegroundActive=49,91,239

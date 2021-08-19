@@ -1,0 +1,132 @@
+<svg width="257" height="161" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#7B7C7E;
+      }
+      .ColorScheme-Background{
+        color:#EFF0F1;
+      }
+      .ColorScheme-Highlight{
+        color:#3DAEE6;
+      }
+      .ColorScheme-ViewText {
+        color:#7B7C7E;
+      }
+      .ColorScheme-ViewBackground{
+        color:#FCFCFC;
+      }
+      .ColorScheme-ViewHover {
+        color:#3DAEE6;
+      }
+      .ColorScheme-ViewFocus{
+        color:#1E92FF;
+      }
+      .ColorScheme-ButtonText {
+        color:#7B7C7E;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#EFF0F1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3DAEE6;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#1E92FF;
+      }</style>
+ </defs>
+ <rect id="hint-tile-center" x="49.93" y="-90.32" width="40" height="40" fill="#008000" opacity=".875"/>
+ <path id="selected-center" class="ColorScheme-Highlight" d="m22 21v48h48v-48z" color="#3daee6" fill="#000000" opacity=".2"/>
+ <g id="selected-left" transform="matrix(1 0 0 3 -169.14 -2468.6)">
+  <path class="ColorScheme-Highlight" d="m186.14 829.86v16h4v-16z" color="#3daee6" fill="#000000" opacity=".2"/>
+ </g>
+ <g id="selected-topleft" transform="translate(-169.14 -809.86)">
+  <path transform="matrix(.33333 0 0 .33333 170.47 818.86)" d="m59 21c-6.648 0-12 5.352-12 12h12z" color="#3daee6" fill="#000000" opacity=".2" stroke-width="3"/>
+ </g>
+ <g id="selected-top" transform="matrix(.36641 0 0 1 -47.67 -809.86)">
+  <path class="ColorScheme-Highlight" d="m190.14 825.86v4h131v-4z" color="#3daee6" fill="#000000" opacity=".2"/>
+ </g>
+ <g id="selected-topright" transform="matrix(1.5 0 0 1.5 -412.71 -1222.8)">
+  <path d="m322.47 825.86v2.6667h2.6667c0-1.4773-1.1893-2.6667-2.6667-2.6667z" color="#3daee6" fill="#000000" opacity=".2" stroke-width=".66667"/>
+ </g>
+ <g id="selected-right" transform="matrix(1 0 0 3 -250.14 -2468.6)">
+  <path class="ColorScheme-Highlight" d="m325.14 829.86v16h-4v-16z" color="#3daee6" fill="#000000" opacity=".2"/>
+ </g>
+ <path id="normal-center" d="m105 21v48h48v-48z" opacity="0"/>
+ <g id="normal-topleft" transform="matrix(.57143 0 0 .57143 -4.6515 -454.21)" fill="#000000" fill-opacity=".92814" opacity="0">
+  <rect x="183.14" y="822.86" width="7" height="7.0001" opacity=".521" stroke-width="3.5001"/>
+  <path d="m186.14 829.86h4v-4h-1.4688c-1.405 0-2.5312 1.1159-2.5312 2.5312z" opacity=".82273"/>
+  <path d="m185.14 828.39c0-1.9482 1.5884-3.5312 3.5312-3.5312h1.4688v1h-1.4688c-1.405 0-2.5312 1.1159-2.5312 2.5312v1.4688h-1z" opacity=".85"/>
+  <path d="m186.14 829.86h1v-1c0-1.4154 0.59498-2 2-2h1v-1h-1.4688c-1.405 0-2.5312 1.1159-2.5312 2.5312z"/>
+ </g>
+ <g id="normal-top" transform="matrix(.36641 0 0 .57143 35.33 -454.2)" fill="#000000" fill-opacity=".92814" opacity="0">
+  <path d="m190.14 825.86v4h131v-4z" opacity=".82273"/>
+  <path d="m190.14 824.86v1h131v-1z" opacity=".85"/>
+  <path d="m190.14 825.86v1h131v-1z"/>
+  <rect x="190.14" y="822.86" width="131" height="1.9999" opacity=".521" stroke-width="6.6081"/>
+ </g>
+ <g id="selected-bottomright" transform="rotate(180 130.57 449.93)">
+  <path transform="matrix(-.33333 0 0 -.33333 215.81 846.86)" d="m77 51v12c6.648 0 12-5.352 12-12z" color="#3daee6" fill="#000000" opacity=".2" stroke-width="3"/>
+ </g>
+ <g id="selected-bottom" transform="matrix(-.36641 0 0 -1 139.67 899.86)">
+  <path class="ColorScheme-Highlight" d="m190.14 825.86v4h131v-4z" color="#3daee6" fill="#000000" opacity=".2"/>
+ </g>
+ <g id="selected-bottomleft" transform="rotate(180,171.07,449.93)">
+  <path transform="matrix(-.33333 0 0 -.33333 340.81 846.86)" d="m47 51c0 6.648 5.352 12 12 12v-12z" color="#3daee6" fill="#000000" opacity=".2" stroke-width="3"/>
+ </g>
+ <use id="normal-right" transform="rotate(90 129 45)" width="100%" height="100%" opacity="0" xlink:href="#normal-top"/>
+ <use id="normal-left" transform="matrix(0 -1 1 0 84 174)" width="100%" height="100%" opacity="0" xlink:href="#normal-top"/>
+ <use id="normal-bottom" transform="matrix(1 0 0 -1 9.7014e-5 90)" width="100%" height="100%" opacity="0" xlink:href="#normal-top"/>
+ <use id="normal-topright" transform="matrix(-1 0 0 1 258 -1.2373e-5)" width="100%" height="100%" opacity="0" xlink:href="#normal-topleft"/>
+ <use id="normal-bottomleft" transform="matrix(1 0 0 -1 2.0014e-5 90)" width="100%" height="100%" opacity="0" xlink:href="#normal-topleft"/>
+ <use id="normal-bottomright" transform="rotate(180 129 45)" width="100%" height="100%" opacity="0" xlink:href="#normal-topleft"/>
+ <path id="hover-center" class="ColorScheme-Highlight" d="m22 91v48h48v-48z" color="#3daee6" fill="#000000" opacity=".25"/>
+ <g id="hover-left" transform="matrix(1 0 0 3 -169.14 -2398.6)">
+  <path class="ColorScheme-Highlight" d="m186.14 829.86v16h4v-16z" color="#3daee6" fill="#000000" opacity=".25"/>
+ </g>
+ <g id="hover-topleft" transform="translate(-169.14,-739.86)">
+  <path transform="matrix(.33333 0 0 .33333 170.47 818.86)" d="m59 21c-6.648 0-12 5.352-12 12h12z" color="#3daee6" fill="#000000" opacity=".25" stroke-width="3"/>
+ </g>
+ <g id="hover-top" transform="matrix(.36641 0 0 1 -47.67 -739.86)">
+  <path class="ColorScheme-Highlight" d="m190.14 825.86v4h131v-4z" color="#3daee6" fill="#000000" opacity=".25"/>
+ </g>
+ <g id="hover-topright" transform="matrix(1.5 0 0 1.5 -412.71 -1152.8)">
+  <path d="m322.47 825.86v2.6667h2.6667c0-1.4773-1.1893-2.6667-2.6667-2.6667z" color="#3daee6" fill="#000000" opacity=".25" stroke-width=".66667"/>
+ </g>
+ <g id="hover-right" transform="matrix(1 0 0 3 -250.14 -2398.6)">
+  <path class="ColorScheme-Highlight" d="m325.14 829.86v16h-4v-16z" color="#3daee6" fill="#000000" opacity=".25"/>
+ </g>
+ <g id="hover-bottomright" transform="rotate(180 130.57 484.93)">
+  <path transform="matrix(-.33333 0 0 -.33333 215.81 846.86)" d="m77 51v12c6.648 0 12-5.352 12-12z" color="#3daee6" fill="#000000" opacity=".25" stroke-width="3"/>
+ </g>
+ <g id="hover-bottom" transform="matrix(-.36641 0 0 -1 139.67 969.86)">
+  <path class="ColorScheme-Highlight" d="m190.14 825.86v4h131v-4z" color="#3daee6" fill="#000000" opacity=".25"/>
+ </g>
+ <g id="hover-bottomleft" transform="rotate(180 171.07 484.93)">
+  <path transform="matrix(-.33333 0 0 -.33333 340.81 846.86)" d="m47 51c0 6.648 5.352 12 12 12v-12z" color="#3daee6" fill="#000000" opacity=".25" stroke-width="3"/>
+ </g>
+ <path id="selected+hover-center" class="ColorScheme-Highlight" d="m105 91v48h48v-48z" color="#3daee6" fill="#000000" opacity=".2"/>
+ <g id="selected+hover-left" transform="matrix(1 0 0 3 -86.14 -2398.6)">
+  <path class="ColorScheme-Highlight" d="m186.14 829.86v16h4v-16z" color="#3daee6" fill="#000000" opacity=".2"/>
+ </g>
+ <g id="selected+hover-topleft" transform="translate(-86.14 -739.86)">
+  <path transform="matrix(.33333 0 0 .33333 170.47 818.86)" d="m59 21c-6.648 0-12 5.352-12 12h12z" color="#3daee6" fill="#000000" opacity=".2" stroke-width="3"/>
+ </g>
+ <g id="selected+hover-top" transform="matrix(.36641 0 0 1 35.33 -739.86)">
+  <path class="ColorScheme-Highlight" d="m190.14 825.86v4h131v-4z" color="#3daee6" fill="#000000" opacity=".2"/>
+ </g>
+ <g id="selected+hover-topright" transform="matrix(1.5 0 0 1.5 -329.71 -1152.8)">
+  <path d="m322.47 825.86v2.6667h2.6667c0-1.4773-1.1893-2.6667-2.6667-2.6667z" color="#3daee6" fill="#000000" opacity=".2" stroke-width=".66667"/>
+ </g>
+ <g id="selected+hover-right" transform="matrix(1 0 0 3 -167.14 -2398.6)">
+  <path class="ColorScheme-Highlight" d="m325.14 829.86v16h-4v-16z" color="#3daee6" fill="#000000" opacity=".2"/>
+ </g>
+ <g id="selected+hover-bottomright" transform="rotate(180 172.07 484.93)">
+  <path transform="matrix(-.33333 0 0 -.33333 215.81 846.86)" d="m77 51v12c6.648 0 12-5.352 12-12z" color="#3daee6" fill="#000000" opacity=".2" stroke-width="3"/>
+ </g>
+ <g id="selected+hover-bottom" transform="matrix(-.36641 0 0 -1 222.67 969.86)">
+  <path class="ColorScheme-Highlight" d="m190.14 825.86v4h131v-4z" color="#3daee6" fill="#000000" opacity=".2"/>
+ </g>
+ <g id="selected+hover-bottomleft" transform="rotate(180 212.57 484.93)">
+  <path transform="matrix(-.33333 0 0 -.33333 340.81 846.86)" d="m47 51c0 6.648 5.352 12 12 12v-12z" color="#3daee6" fill="#000000" opacity=".2" stroke-width="3"/>
+ </g>
+</svg>
