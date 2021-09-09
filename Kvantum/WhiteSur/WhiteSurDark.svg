@@ -5,7 +5,7 @@
    height="354mm"
    id="svg2"
    inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
-   sodipodi:docname="WhiteSur-dark.svg"
+   sodipodi:docname="WhiteSurDark.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -38,16 +38,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1534"
-     inkscape:window-height="812"
+     inkscape:window-width="1920"
+     inkscape:window-height="1004"
      id="namedview967"
      showgrid="false"
-     inkscape:zoom="3.0030208"
-     inkscape:cx="102.0639"
-     inkscape:cy="545.28427"
-     inkscape:window-x="228"
-     inkscape:window-y="335"
-     inkscape:window-maximized="0"
+     inkscape:zoom="1.5015104"
+     inkscape:cx="328.00306"
+     inkscape:cy="594.73448"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm">
@@ -11381,18 +11381,6 @@
      y="0"
      x="0" />
   <path
-     d="M 245.00001,529 H 257 v 3 h -11.99999 z"
-     id="menuitem-normal-top"
-     style="fill:#0860f2;fill-opacity:1;fill-rule:evenodd;stroke-width:1.06066" />
-  <path
-     d="M 245.00001,550 H 257 v 3 h -11.99999 z"
-     id="menuitem-normal-bottom"
-     style="fill:#0860f2;fill-opacity:1;fill-rule:evenodd;stroke-width:1.06066" />
-  <path
-     d="M 245.00001,532 H 257 v 18 h -11.99999 z"
-     id="menuitem-normal"
-     style="fill:#0860f2;fill-opacity:1;fill-rule:evenodd;stroke-width:1.83712" />
-  <path
      d="m 156,515.99998 h 48 v 48.00004 h -48 z"
      id="menu-normal"
      style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none"
@@ -11711,72 +11699,6 @@
      d="M -45.99997,565 A 9.0000252,9.0000252 0 0 1 -55,574.00003 V 565 Z"
      id="mask-bottomright"
      inkscape:connector-curvature="0" />
-  <g
-     transform="translate(29,149.99999)"
-     id="menuitem-normal-topright">
-    <path
-       sodipodi:nodetypes="ccccc"
-       id="path1594"
-       style="fill:none;fill-rule:evenodd;stroke-width:2.08106;paint-order:normal"
-       d="m 228,379 v 3 h 10 v -3 z" />
-    <rect
-       ry="0"
-       y="379"
-       x="228"
-       height="3"
-       width="6"
-       id="rect2506"
-       style="opacity:1;fill:none;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" />
-    <path
-       d="m 228,379 v 3 h 5.86133 c -0.44369,-1.7263 -1.99278,-3 -3.86133,-3 z"
-       style="fill:#0860f2;fill-opacity:1;fill-rule:evenodd;stroke-width:1.57975;paint-order:normal"
-       id="236" />
-  </g>
-  <g
-     transform="translate(29,149.99999)"
-     id="menuitem-normal-right">
-    <path
-       id="234"
-       style="fill:none;fill-rule:evenodd;stroke-width:1.93649"
-       d="m 228,382 v 18 h 10 v -3 -12 -3 z"
-       sodipodi:nodetypes="ccccccc" />
-    <path
-       d="m 228,382 v 18 h 5.86133 C 233.94383,399.679 234,399.34745 234,399 v -16 c 0,-0.34745 -0.0562,-0.679 -0.13867,-1 z"
-       style="fill:#0860f2;fill-opacity:1;fill-rule:evenodd;stroke-width:1.5"
-       id="path1590" />
-  </g>
-  <use
-     x="0"
-     y="0"
-     xlink:href="#menuitem-normal-right"
-     id="menuitem-normal-left"
-     transform="matrix(-1,0,0,1,502.00002,9e-6)"
-     width="100%"
-     height="100%" />
-  <use
-     x="0"
-     y="0"
-     xlink:href="#menuitem-normal-topright"
-     id="menuitem-normal-topleft"
-     transform="matrix(-1,0,0,1,502.00002,9e-6)"
-     width="100%"
-     height="100%" />
-  <use
-     x="0"
-     y="0"
-     xlink:href="#menuitem-normal-topright"
-     id="menuitem-normal-bottomright"
-     transform="matrix(1,0,0,-1,0,1082)"
-     width="100%"
-     height="100%" />
-  <use
-     height="100%"
-     width="100%"
-     transform="rotate(180,251,541)"
-     id="menuitem-normal-bottomleft"
-     xlink:href="#menuitem-normal-topright"
-     y="0"
-     x="0" />
   <rect
      style="opacity:0.2;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
      width="8"
@@ -11948,4 +11870,72 @@
      style="opacity:0.15;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccc" />
+  <g
+     id="menuitem-normal-left"
+     transform="translate(64.418654,32.628013)">
+    <path
+       id="menuitem-normal-left2"
+       d="M 184,504.00005 V 512 h -8 v -8 z"
+       style="opacity:1;fill:#315bef;fill-opacity:1" />
+  </g>
+  <g
+     id="menuitem-normal-bottomleft"
+     transform="translate(64.418654,32.628013)">
+    <path
+       id="menuitem-normal-bottomleft2"
+       d="m 184,520 c -8,0 -8,-8 -8,-8 h 8 z"
+       style="opacity:1;fill:#315bef;fill-opacity:1" />
+  </g>
+  <g
+     id="menuitem-normal-topleft"
+     transform="translate(64.418654,32.628013)">
+    <path
+       id="menuitem-normal-topleft2"
+       d="m 176,504 c 0,0 0,-8 8,-8 v 8 z"
+       style="opacity:1;fill:#315bef;fill-opacity:1" />
+  </g>
+  <g
+     id="menuitem-normal-bottom"
+     transform="translate(39.418654,32.628013)">
+    <path
+       id="menuitem-normal-bottom2"
+       d="m 209,512 h 7.99995 v 8 h -8 z"
+       style="opacity:1;fill:#315bef;fill-opacity:1" />
+  </g>
+  <g
+     id="menuitem-normal-top"
+     transform="translate(39.418654,32.628013)">
+    <path
+       id="menuitem-normal-top2"
+       d="M 216.99995,504 H 209 v -8 h 8 z"
+       style="opacity:1;fill:#315bef;fill-opacity:1" />
+  </g>
+  <path
+     id="menuitem-normal"
+     d="m 248.41865,544.62801 v -8 h 8 v 8 z"
+     style="fill:#315bef;fill-opacity:1" />
+  <g
+     id="menuitem-normal-right"
+     transform="translate(64.418654,32.628013)">
+    <path
+       id="menuitem-normal-right2"
+       d="m 192,504 v 7.99995 h 8 v -8 z"
+       style="opacity:1;fill:#315bef;fill-opacity:1" />
+  </g>
+  <g
+     id="menuitem-normal-bottomright"
+     transform="translate(64.418654,32.628013)">
+    <path
+       id="menuitem-normal-bottomright2"
+       d="M 192,519.99989 C 200,520 199.99979,512 199.99979,512 H 192 Z"
+       style="opacity:1;fill:#315bef;fill-opacity:1" />
+  </g>
+  <g
+     id="menuitem-normal-topright"
+     transform="translate(64.418654,32.628013)">
+    <path
+       id="menuitem-normal-topright2"
+       d="M 199.99979,503.99989 C 199.99979,503.99989 200,496 192,496 v 7.99978 z"
+       style="opacity:1;fill:#315bef;fill-opacity:1" />
+  </g>
 </svg>

@@ -36,16 +36,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1534"
-     inkscape:window-height="812"
+     inkscape:window-width="1920"
+     inkscape:window-height="1004"
      id="namedview1687"
      showgrid="false"
-     inkscape:zoom="5.6568545"
-     inkscape:cx="378.03694"
-     inkscape:cy="430.36284"
-     inkscape:window-x="311"
-     inkscape:window-y="296"
-     inkscape:window-maximized="0"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="355.24998"
+     inkscape:cy="386.99998"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg1685"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
@@ -1538,18 +1538,6 @@
      style="fill-rule:evenodd"
      id="expand-tbutton-normal"
      d="M 0,0 H 10 V 10 H 0 Z" />
-  <path
-     style="fill:#0860f2;fill-rule:evenodd;stroke-width:1.06066;fill-opacity:1"
-     id="menuitem-normal-top"
-     d="m 216,379 h 12 v 3 h -12 z" />
-  <path
-     style="fill:#0860f2;fill-rule:evenodd;stroke-width:1.06066;fill-opacity:1"
-     id="menuitem-normal-bottom"
-     d="m 216,400 h 12 v 3 h -12 z" />
-  <path
-     style="fill:#0860f2;fill-rule:evenodd;stroke-width:1.83712;fill-opacity:1"
-     id="menuitem-normal"
-     d="m 216,382 h 12 v 18 h -12 z" />
   <g
      style="fill-rule:evenodd"
      id="scrollbarslider-focused-topleft"
@@ -6340,70 +6328,6 @@
      xlink:href="#menubaritem-pressed-topleft"
      y="0"
      x="0" />
-  <g
-     id="menuitem-normal-topright">
-    <path
-       d="m 228,379 v 3 h 10 v -3 z"
-       style="fill:none;fill-rule:evenodd;stroke-width:2.08106;paint-order:normal"
-       id="path1594"
-       sodipodi:nodetypes="ccccc" />
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
-       id="rect2506"
-       width="6"
-       height="3"
-       x="228"
-       y="379"
-       ry="0" />
-    <path
-       id="236"
-       style="fill:#0860f2;fill-rule:evenodd;stroke-width:1.57975;paint-order:normal;fill-opacity:1"
-       d="M 228 379 L 228 382 L 233.86133 382 C 233.41764 380.2737 231.86855 379 230 379 L 228 379 z " />
-  </g>
-  <g
-     id="menuitem-normal-right">
-    <path
-       sodipodi:nodetypes="ccccccc"
-       d="m 228,382 v 18 h 10 v -3 -12 -3 z"
-       style="fill:none;fill-rule:evenodd;stroke-width:1.93649"
-       id="234" />
-    <path
-       id="path1590"
-       style="fill:#0860f2;fill-rule:evenodd;stroke-width:1.5;fill-opacity:1"
-       d="M 228 382 L 228 400 L 233.86133 400 C 233.94383 399.679 234 399.34745 234 399 L 234 383 C 234 382.65255 233.94383 382.321 233.86133 382 L 228 382 z " />
-  </g>
-  <use
-     height="100%"
-     width="100%"
-     transform="matrix(-1,0,0,1,444,0)"
-     id="menuitem-normal-left"
-     xlink:href="#menuitem-normal-right"
-     y="0"
-     x="0" />
-  <use
-     height="100%"
-     width="100%"
-     transform="matrix(-1,0,0,1,444,0)"
-     id="menuitem-normal-topleft"
-     xlink:href="#menuitem-normal-topright"
-     y="0"
-     x="0" />
-  <use
-     height="100%"
-     width="100%"
-     transform="matrix(1,0,0,-1,0,782)"
-     id="menuitem-normal-bottomright"
-     xlink:href="#menuitem-normal-topright"
-     y="0"
-     x="0" />
-  <use
-     x="0"
-     y="0"
-     xlink:href="#menuitem-normal-topright"
-     id="menuitem-normal-bottomleft"
-     transform="rotate(180,222,391)"
-     width="100%"
-     height="100%" />
   <use
      x="0"
      y="0"
@@ -9321,5 +9245,73 @@
        style="opacity:0;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0327539"
        d="M 7.0001194,-19 C 14.731977,-19 21,-12.731969 21,-5.0000048 21,2.7319795 14.731977,9 7.0001194,9 -0.7319672,9 -7,2.7319795 -7,-5.0000048 -7,-12.731969 -0.7319672,-19 7.0001194,-19"
        inkscape:connector-curvature="0" />
+  </g>
+  <g
+     id="menuitem-normal-left"
+     transform="translate(39.99999,-107.00002)">
+    <path
+       id="menuitem-normal-left2"
+       d="M 184,504.00005 V 512 h -8 v -8 z"
+       style="opacity:1;fill:#0860f2;fill-opacity:1" />
+  </g>
+  <g
+     id="menuitem-normal-bottomleft"
+     transform="translate(39.99999,-107.00002)">
+    <path
+       id="menuitem-normal-bottomleft2"
+       d="m 184,520 c -8,0 -8,-8 -8,-8 h 8 z"
+       style="opacity:1;fill:#0860f2;fill-opacity:1" />
+  </g>
+  <g
+     id="menuitem-normal-topleft"
+     transform="translate(39.99999,-107.00002)">
+    <path
+       id="menuitem-normal-topleft2"
+       d="m 176,504 c 0,0 0,-8 8,-8 v 8 z"
+       style="opacity:1;fill:#0860f2;fill-opacity:1" />
+  </g>
+  <g
+     id="menuitem-normal-bottom"
+     transform="translate(14.99999,-107.00002)">
+    <path
+       id="menuitem-normal-bottom2"
+       d="m 209,512 h 7.99995 v 8 h -8 z"
+       style="opacity:1;fill:#0860f2;fill-opacity:1" />
+  </g>
+  <g
+     id="menuitem-normal-top"
+     transform="translate(14.99999,-107.00002)">
+    <path
+       id="menuitem-normal-top2"
+       d="M 216.99995,504 H 209 v -8 h 8 z"
+       style="opacity:1;fill:#0860f2;fill-opacity:1" />
+  </g>
+  <path
+     id="menuitem-normal"
+     d="m 223.99999,404.99998 v -8 h 8 v 8 z"
+     style="fill:#0860f2;fill-opacity:1" />
+  <g
+     id="menuitem-normal-right"
+     transform="translate(39.99999,-107.00002)">
+    <path
+       id="menuitem-normal-right2"
+       d="m 192,504 v 7.99995 h 8 v -8 z"
+       style="opacity:1;fill:#0860f2;fill-opacity:1" />
+  </g>
+  <g
+     id="menuitem-normal-bottomright"
+     transform="translate(39.99999,-107.00002)">
+    <path
+       id="menuitem-normal-bottomright2"
+       d="M 192,519.99989 C 200,520 199.99979,512 199.99979,512 H 192 Z"
+       style="opacity:1;fill:#0860f2;fill-opacity:1" />
+  </g>
+  <g
+     id="menuitem-normal-topright"
+     transform="translate(39.99999,-107.00002)">
+    <path
+       id="menuitem-normal-topright2"
+       d="M 199.99979,503.99989 C 199.99979,503.99989 200,496 192,496 v 7.99978 z"
+       style="opacity:1;fill:#0860f2;fill-opacity:1" />
   </g>
 </svg>

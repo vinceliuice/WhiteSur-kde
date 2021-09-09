@@ -11,7 +11,7 @@ group_toolbar_buttons=false
 spread_progressbar=true
 composite=true
 menu_shadow_depth=27
-spread_menuitems=true
+spread_menuitems=false
 tooltip_shadow_depth=6
 scroll_width=12
 scroll_arrows=false
@@ -463,10 +463,10 @@ frame.expansion=0
 
 [Menu]
 inherits=PanelButtonCommand
-frame.top=9
-frame.bottom=9
-frame.left=9
-frame.right=9
+frame.top=6
+frame.bottom=6
+frame.left=6
+frame.right=6
 frame.element=menu
 interior.element=menu
 text.normal.color=#dfdfdf
@@ -486,8 +486,8 @@ text.margin.left=6
 text.margin.right=6
 frame.top=3
 frame.bottom=3
-frame.left=10
-frame.right=10
+frame.left=3
+frame.right=3
 frame.expansion=0
 
 [ComboBox]
