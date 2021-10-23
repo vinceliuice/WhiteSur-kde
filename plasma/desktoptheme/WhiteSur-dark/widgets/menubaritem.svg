@@ -1,0 +1,107 @@
+<svg width="112" height="34" version="1.1" viewBox="0 0 112 34" xmlns="http://www.w3.org/2000/svg">
+ <style id="current-color-scheme" type="text/css">.ColorScheme-ButtonBackground {
+            color:#eff0f1;
+            stop-color:#eff0f1;
+        }
+        .ColorScheme-ButtonHover {
+            color:#93cee9;
+            stop-color:#93cee9;
+        }
+        .ColorScheme-ButtonFocus{
+            color:#3daee9;
+            stop-color:#3daee9;
+        }</style>
+ <g id="normal-center" transform="translate(-174,-62)">
+  <path d="m180 68h22v22h-22z" fill="transparent" fill-rule="evenodd"/>
+ </g>
+ <g id="normal-bottomleft" transform="matrix(2.5,0,0,2.5,0,-41)" fill-rule="evenodd">
+  <path d="m0 28c0 1.108 0.892 2 2 2v-2z" fill="transparent"/>
+ </g>
+ <g id="normal-bottom" transform="matrix(1,0,0,2.5,2,-41)" fill-rule="evenodd">
+  <path transform="scale(-1)" d="m-26-30h22v2h-22z" fill="transparent"/>
+ </g>
+ <g id="normal-topleft" transform="matrix(2.5,0,0,-2.5,0,75)" fill-rule="evenodd">
+  <path d="m0 28c0 1.108 0.892 2 2 2v-2z" fill="transparent"/>
+ </g>
+ <g id="normal-top" transform="matrix(1,0,0,-2.5,2,75)" fill-rule="evenodd">
+  <path transform="scale(-1)" d="m-26-30h22v2h-22z" fill="transparent"/>
+ </g>
+ <g id="normal-topright" transform="matrix(0,2.5,2.5,0,-41,0)" fill-rule="evenodd">
+  <path d="m0 28c0 1.108 0.892 2 2 2v-2z" fill="transparent"/>
+ </g>
+ <g id="normal-right" transform="matrix(0,1,2.5,0,-41,2)" fill-rule="evenodd">
+  <path transform="scale(-1)" d="m-26-30h22v2h-22z" fill="transparent"/>
+ </g>
+ <g id="normal-bottomright" transform="matrix(-1,0,0,1,34,4)" fill-rule="evenodd">
+  <path d="m0 25c0 2.77 2.23 5 5 5v-5z" fill="transparent" stroke-width="2.5"/>
+ </g>
+ <g id="normal-left" transform="matrix(0,1,-2.5,0,75,2)" fill-rule="evenodd">
+  <path transform="scale(-1)" d="m-26-30h22v2h-22z" fill="transparent"/>
+ </g>
+ <path id="normal-hint-top-margin" d="m16 0h2v6h-2z" fill="#ed333b" fill-rule="evenodd"/>
+ <path id="normal-hint-bottom-margin" d="m16 28h2v6h-2z" fill="#ed333b" fill-rule="evenodd"/>
+ <path id="normal-hint-left-margin" d="m0 16h6v2h-6z" fill="#ed333b" fill-rule="evenodd"/>
+ <path id="normal-hint-right-margin" d="m28 16h6v2h-6z" fill="#ed333b" fill-rule="evenodd"/>
+ <g id="hover-center" transform="translate(-72,-138)">
+  <path class="ColorScheme-Text" d="m118 144h22v22h-22z" fill="currentColor" fill-rule="evenodd" opacity=".2"/>
+ </g>
+ <g id="hover-bottomleft" transform="matrix(2.5,0,0,2.5,40,-41)" fill-rule="evenodd">
+  <path class="ColorScheme-Text" transform="matrix(.4 0 0 .4 -16 16.4)" d="m40 29c0 2.77 2.23 5 5 5v-5h-5z" fill="currentColor" opacity=".2"/>
+ </g>
+ <g id="hover-bottom" transform="matrix(1,0,0,2.5,42,-41)" fill-rule="evenodd">
+  <path class="ColorScheme-Text" transform="scale(-1)" d="m-26-30h22v2h-22z" fill="currentColor" opacity=".2"/>
+ </g>
+ <g id="hover-topleft" transform="matrix(2.5,0,0,-2.5,40,75)" fill-rule="evenodd">
+  <path class="ColorScheme-Text" transform="matrix(.4 0 0 -.4 -16 30)" d="m45 0c-2.77 0-5 2.23-5 5h5v-5z" fill="currentColor" opacity=".2"/>
+ </g>
+ <g id="hover-top" transform="matrix(1,0,0,-2.5,42,75)" fill-rule="evenodd">
+  <path class="ColorScheme-Text" transform="scale(-1)" d="m-26-30h22v2h-22z" fill="currentColor" opacity=".2"/>
+ </g>
+ <g id="hover-topright" transform="matrix(0,2.5,2.5,0,-1,0)" fill-rule="evenodd">
+  <path class="ColorScheme-Text" transform="matrix(0 .4 .4 0 0 .4)" d="m69 0v5h5c0-2.77-2.23-5-5-5z" fill="currentColor" opacity=".2"/>
+ </g>
+ <g id="hover-right" transform="matrix(0,1,2.5,0,-1,2)" fill-rule="evenodd">
+  <path class="ColorScheme-Text" transform="scale(-1)" d="m-26-30h22v2h-22z" fill="currentColor" opacity=".2"/>
+ </g>
+ <g id="hover-bottomright" transform="matrix(-2.5,0,0,2.5,74,-41)" fill-rule="evenodd">
+  <path class="ColorScheme-Text" transform="matrix(-.4 0 0 .4 29.6 16.4)" d="m69 29v5c2.77 0 5-2.23 5-5h-5z" fill="currentColor" opacity=".2"/>
+ </g>
+ <g id="hover-left" transform="matrix(0,1,-2.5,0,115,2)" fill-rule="evenodd">
+  <path class="ColorScheme-Text" transform="scale(-1)" d="m-26-30h22v2h-22z" fill="currentColor" opacity=".2"/>
+ </g>
+ <path id="hover-hint-top-margin" d="m56 0h2v6h-2z" fill="#ed333b" fill-rule="evenodd"/>
+ <path id="hover-hint-bottom-margin" d="m56 28h2v6h-2z" fill="#ed333b" fill-rule="evenodd"/>
+ <path id="hover-hint-left-margin" d="m40 16h6v2h-6z" fill="#ed333b" fill-rule="evenodd"/>
+ <path id="hover-hint-right-margin" d="m68 16h6v2h-6z" fill="#ed333b" fill-rule="evenodd"/>
+ <g id="pressed-center" transform="translate(-34,-138)">
+  <path class="ColorScheme-Text" d="m118 144h22v22h-22z" fill="currentColor" fill-rule="evenodd" opacity=".3"/>
+ </g>
+ <g id="pressed-bottomleft" transform="matrix(2.5,0,0,2.5,78,-41)" fill-rule="evenodd">
+  <path class="ColorScheme-Text" transform="matrix(.4 0 0 .4 -31.2 16.4)" d="m78 29c0 2.77 2.23 5 5 5v-5h-5z" fill="currentColor" opacity=".3"/>
+ </g>
+ <g id="pressed-bottom" transform="matrix(1,0,0,2.5,80,-41)" fill-rule="evenodd">
+  <path class="ColorScheme-Text" transform="scale(-1)" d="m-26-30h22v2h-22z" fill="currentColor" opacity=".3"/>
+ </g>
+ <g id="pressed-topleft" transform="matrix(2.5,0,0,-2.5,78,75)" fill-rule="evenodd">
+  <path class="ColorScheme-Text" transform="matrix(.4 0 0 -.4 -31.2 30)" d="m83 0c-2.77 0-5 2.23-5 5h5v-5z" fill="currentColor" opacity=".3"/>
+ </g>
+ <g id="pressed-top" transform="matrix(1,0,0,-2.5,80,75)" fill-rule="evenodd">
+  <path class="ColorScheme-Text" transform="scale(-1)" d="m-26-30h22v2h-22z" fill="currentColor" opacity=".3"/>
+ </g>
+ <g id="pressed-topright" transform="matrix(0,2.5,2.5,0,37,0)" fill-rule="evenodd">
+  <path class="ColorScheme-Text" transform="matrix(0 .4 .4 0 0 -14.8)" d="m107 0v5h5c0-2.77-2.23-5-5-5z" fill="currentColor" opacity=".3"/>
+ </g>
+ <g id="pressed-right" transform="matrix(0,1,2.5,0,37,2)" fill-rule="evenodd">
+  <path class="ColorScheme-Text" transform="scale(-1)" d="m-26-30h22v2h-22z" fill="currentColor" opacity=".3"/>
+ </g>
+ <g id="pressed-bottomright" transform="matrix(-2.5,0,0,2.5,112,-41)" fill-rule="evenodd">
+  <path class="ColorScheme-Text" transform="matrix(-.4 0 0 .4 44.8 16.4)" d="m107 29v5c2.77 0 5-2.23 5-5h-5z" fill="currentColor" opacity=".3"/>
+ </g>
+ <g id="pressed-left" transform="matrix(0,1,-2.5,0,153,2)" fill-rule="evenodd">
+  <path class="ColorScheme-Text" transform="scale(-1)" d="m-26-30h22v2h-22z" fill="currentColor" opacity=".3"/>
+ </g>
+ <path id="pressed-hint-top-margin" d="m94 0h2v6h-2z" fill="#ed333b" fill-rule="evenodd"/>
+ <path id="pressed-hint-bottom-margin" d="m94 28h2v6h-2z" fill="#ed333b" fill-rule="evenodd"/>
+ <path id="pressed-hint-left-margin" d="m78 16h6v2h-6z" fill="#ed333b" fill-rule="evenodd"/>
+ <path id="pressed-hint-right-margin" d="m106 16h6v2h-6z" fill="#ed333b" fill-rule="evenodd"/>
+</svg>
