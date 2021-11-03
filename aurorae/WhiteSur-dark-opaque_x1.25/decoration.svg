@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="90"
    inkscape:export-xdpi="90"
    inkscape:export-filename="/home/diau/svn/playground-plasma/desktoptheme/air/widgets/background.png"
    version="1.0"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    sodipodi:docname="decoration.svg"
-   inkscape:version="1.0.1 (0767f8302a, 2020-10-17)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:version="0.32"
    id="svg3642"
    height="320"
-   width="900">
+   width="900"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
      inkscape:document-rotation="0"
      inkscape:snap-nodes="true"
@@ -38,23 +38,24 @@
      showguides="true"
      height="48px"
      width="48px"
-     inkscape:window-y="36"
-     inkscape:window-x="76"
-     inkscape:window-height="2081"
-     inkscape:window-width="3764"
+     inkscape:window-y="28"
+     inkscape:window-x="0"
+     inkscape:window-height="1018"
+     inkscape:window-width="1920"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
      showgrid="false"
      inkscape:current-layer="layer1"
-     inkscape:cy="159.8544"
-     inkscape:cx="639.54452"
-     inkscape:zoom="5.6568542"
+     inkscape:cy="-94.752309"
+     inkscape:cx="316.07673"
+     inkscape:zoom="0.70710678"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
      borderopacity="1.0"
      bordercolor="#666666"
      pagecolor="#585858"
-     id="base">
+     id="base"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        empopacity="0.25098039"
        empcolor="#6decff"
@@ -260,7 +261,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
       <cc:Work
          rdf:about="">
@@ -477,7 +477,7 @@
          id="path6214-7" />
       <path
          inkscape:connector-curvature="0"
-         style="opacity:1;fill:#363636;fill-opacity:1;stroke:none;stroke-width:1.41421"
+         style="opacity:1;fill:#282828;fill-opacity:1;stroke:none;stroke-width:1.41421"
          d="M 470,277 H 325 v 12 h 145 z"
          id="path6211-7" />
     </g>
@@ -554,7 +554,7 @@
          id="path6214-7-4" />
       <path
          inkscape:connector-curvature="0"
-         style="opacity:1;fill:#2d2d2d;fill-opacity:1;stroke:none;stroke-width:1.41421"
+         style="opacity:1;fill:#242424;fill-opacity:1;stroke:none;stroke-width:1.41421"
          d="M 470,276.92202 H 325 v 12 h 145 z"
          id="path6211-7-5" />
     </g>
@@ -616,7 +616,7 @@
       <path
          transform="translate(385,94.000015)"
          d="m 81,196 c 0,6.648 5.352,12 12,12 h 17 v -12 z"
-         style="opacity:1;fill:#363636;fill-opacity:1;stroke:none"
+         style="opacity:1;fill:#282828;fill-opacity:1;stroke:none"
          id="rect7023-1" />
       <g
          id="hrh-6"
@@ -648,7 +648,7 @@
          sodipodi:nodetypes="cscccc"
          transform="translate(0,90)"
          d="m 441,196 c 0,6.648 5.352,12 12,12 h 14 3 v -12 z"
-         style="opacity:1;fill:#2d2d2d;fill-opacity:1;stroke:none;stroke-width:1.41421"
+         style="opacity:1;fill:#242424;fill-opacity:1;stroke:none;stroke-width:1.41421"
          id="path4207" />
       <g
          id="hrh-3"
