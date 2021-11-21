@@ -14,6 +14,8 @@ In this repository you'll find:
 
 ## Installation
 
+Use ```sudo``` or execute as root to install theme for all users instead of current user only.
+
 ```sh
 ./install.sh
 ```
