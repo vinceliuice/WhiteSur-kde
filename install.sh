@@ -1,6 +1,36 @@
 #! /usr/bin/env bash
 
 ROOT_UID=0
+THEME_VARIANTS=('default' 'red')
+
+usage() {
+  [ -z "$1" ] || echo "$1"
+  echo "Usage: $0 [-t, --theme [default*, red]] [-h, --help]" 1>&2; exit 1;
+}
+
+while getopts ":t:theme:h:help:" o; do
+  case "${o}" in
+    t|theme)
+      opt_value=${OPTARG}
+      for value in ${THEME_VARIANTS[*]}; do
+        if [[ "${value}" == "${opt_value}" ]]; then
+          themes+=("${opt_value}")
+          break
+        fi
+      done
+      [ -z "${themes}" ] && usage "+++ invalid theme '${opt_value}'"
+      ;;
+    h|help)
+      usage
+      ;;
+  esac
+done
+shift $((OPTIND-1))
+
+if [ -z "${themes[*]}" ]; then
+  themes='default'
+fi
+echo "Theme variant    : ${themes[*]}"
 
 # Destination directory
 if [ "$UID" -eq "$ROOT_UID" ]; then
@@ -47,6 +77,12 @@ install() {
 
   cp -r ${SRC_DIR}/aurorae/*                                                         ${AURORAE_DIR}
   cp -r ${SRC_DIR}/Kvantum/*                                                         ${KVANTUM_DIR}
+  for theme in ${themes[*]}; do
+    if [[ "${theme}" != 'default' ]]; then
+      cp ${SRC_DIR}/Kvantum/WhiteSur-solid/WhiteSur-solid-${theme}.svg               ${KVANTUM_DIR}/WhiteSur-solid/WhiteSur-solid.svg
+      cp ${SRC_DIR}/Kvantum/WhiteSur-solid/WhiteSur-solidDark-${theme}.svg           ${KVANTUM_DIR}/WhiteSur-solid/WhiteSur-solidDark.svg
+    fi
+  done
   cp -r ${SRC_DIR}/color-schemes/*                                                   ${SCHEMES_DIR}
   cp -r ${SRC_DIR}/plasma/desktoptheme/${name}*                                      ${PLASMA_DIR}
   cp -r ${SRC_DIR}/plasma/desktoptheme/icons                                         ${PLASMA_DIR}/${name}

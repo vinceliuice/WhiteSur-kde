@@ -18,6 +18,14 @@ In this repository you'll find:
 ./install.sh
 ```
 
+### Kvantum Theme
+
+Optionally select "red" Kvantum theme instead of default "blue" one.
+
+```sh
+./install.sh --theme red
+```
+
 ## Recommendations
 
 - For better looking please use this pack with [Kvantum engine](https://github.com/tsujan/Kvantum/blob/master/Kvantum/INSTALL.md#distributions).
