@@ -19,24 +19,27 @@ Options:
 " 1>&2; exit 1;
 }
 
-while getopts ":t:theme:h:help:" o; do
-  case "${o}" in
-    t|theme)
-      opt_value=${OPTARG}
+set -- $(getopt --alternative --longoptions "theme:,help" --options "h,t:" -- "$@")
+while [ $# -gt 0 ]; do
+  case "$1" in
+    -t|--theme)
+      [ -z "${themes}" ] || usage "+++ theme was already defined as '${themes}'"
+      eval opt_value="$2"
       for value in ${THEME_VARIANTS[*]}; do
         if [[ "${value}" == "${opt_value}" ]]; then
-          themes+=("${opt_value}")
-          break
+          opt_ok=${opt_value} && break
         fi
       done
-      [ -z "${themes}" ] && usage "+++ invalid theme '${opt_value}'"
+      [ -z "${opt_ok}" ] && usage "+++ invalid theme '${opt_value}'"
+      themes+=("${opt_ok}")
+      shift
       ;;
-    h|help)
+    -h|--help)
       usage
       ;;
   esac
+  shift
 done
-shift $((OPTIND-1))
 
 if [ -z "${themes[*]}" ]; then
   themes='default'
