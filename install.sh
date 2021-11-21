@@ -4,8 +4,19 @@ ROOT_UID=0
 THEME_VARIANTS=('default' 'red')
 
 usage() {
-  [ -z "$1" ] || echo "$1"
-  echo "Usage: $0 [-t, --theme [default*, red]] [-h, --help]" 1>&2; exit 1;
+  [ -z "$1" ] || echo "
+ $1"
+  echo "
+
+Usage: $0 [Options...]
+
+Options:
+  -t, --theme [default|red]
+ Set theme accent color. Default is BigSur-like \"blue\" theme
+
+  -h, --help
+ Show this help
+" 1>&2; exit 1;
 }
 
 while getopts ":t:theme:h:help:" o; do

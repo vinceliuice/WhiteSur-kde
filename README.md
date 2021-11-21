@@ -18,6 +18,12 @@ In this repository you'll find:
 ./install.sh
 ```
 
+### Help
+
+```sh
+./install.sh --help
+```
+
 ### Kvantum Theme
 
 Optionally select "red" Kvantum theme instead of default "blue" one.
