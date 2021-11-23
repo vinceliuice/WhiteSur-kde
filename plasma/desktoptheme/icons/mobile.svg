@@ -1,0 +1,13 @@
+<svg version="1.1" viewBox="0 0 32 16" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+            color:#232629;
+        }</style>
+    </defs>
+    <g id="mobile-task-switcher" transform="matrix(3.7803186 0 0 3.7803186 -.00289876 -.00254929)" class="ColorScheme-Text" fill="currentColor">
+        <path class="ColorScheme-Text" d="m1.0815353 0.5297303c-0.30537362 0-0.55112919 0.24575557-0.55112919 0.5511292v2.0727416c0 0.3053733 0.24575557 0.5511292 0.55112919 0.5511292h2.0727416c0.3053734 0 0.5511292-0.2457559 0.5511292-0.5511292v-2.0727416c0-0.30537363-0.2457558-0.5511292-0.5511292-0.5511292zm0.064595 0.32995387h1.9466512c0.1571218 0 0.2834453 0.126582 0.2834453 0.28370373v1.9497516c0 0.1571218-0.1263235 0.2837038-0.2834453 0.2837038h-1.9466508c-0.15712152 0-0.28370352-0.126582-0.28370352-0.2837038v-1.9497516c0-0.15712173 0.126582-0.28370373 0.28370312-0.28370373z" stroke-opacity="0" stroke-width=".132292"/>
+    </g>
+    <g id="mobile-close-app" transform="matrix(3.7734101 0 0 3.7734101 .05466992 .00852106)" fill="currentColor">
+        <path class="ColorScheme-Text" d="m4.9144465 0.68618254 2.8625801 2.8625801m-2.8625801 0 2.8625801-2.8625801" stroke="currentColor" stroke-linecap="round" stroke-width=".3175"/>
+    </g>
+</svg>
