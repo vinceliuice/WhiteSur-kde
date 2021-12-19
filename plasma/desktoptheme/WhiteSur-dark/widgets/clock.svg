@@ -5,7 +5,7 @@
    version="1.0"
    id="svg82"
    sodipodi:docname="clock.svg"
-   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -19,12 +19,12 @@
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
-     showgrid="true"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="153.35378"
-     inkscape:cy="7.2478445"
+     showgrid="false"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="-15.909903"
+     inkscape:cy="67.175145"
      inkscape:window-width="1920"
-     inkscape:window-height="1008"
+     inkscape:window-height="1004"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -40,6 +40,30 @@
   </sodipodi:namedview>
   <defs
      id="defs10">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient998">
+      <stop
+         style="stop-color:#343436;stop-opacity:1;"
+         offset="0"
+         id="stop994" />
+      <stop
+         style="stop-color:#414143;stop-opacity:1"
+         offset="1"
+         id="stop996" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient971">
+      <stop
+         style="stop-color:#1c1c1e;stop-opacity:1;"
+         offset="0"
+         id="stop967" />
+      <stop
+         style="stop-color:#262626;stop-opacity:1"
+         offset="1"
+         id="stop969" />
+    </linearGradient>
     <linearGradient
        id="linearGradient977"
        x1="274"
@@ -68,6 +92,24 @@
          stdDeviation="0.2888"
          id="feGaussianBlur7" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient971"
+       id="linearGradient973"
+       x1="100"
+       y1="200"
+       x2="100"
+       y2="10"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient998"
+       id="linearGradient1000"
+       x1="100"
+       y1="180"
+       x2="100"
+       y2="20"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <circle
      transform="rotate(120.04)"
@@ -106,7 +148,7 @@
        rx="40"
        ry="40"
        id="rect18"
-       style="fill:#1c1c1e;fill-opacity:1" />
+       style="fill:url(#linearGradient973);fill-opacity:1" />
     <rect
        x="-10"
        y="-10"
@@ -130,9 +172,9 @@
     <circle
        cx="100"
        cy="100"
-       r="80"
        id="circle24"
-       style="fill:#343436;fill-opacity:1" />
+       style="fill:url(#linearGradient1000);fill-opacity:1"
+       r="80" />
     <g
        fill="#ffffff"
        stroke-width=".39894"
@@ -185,7 +227,7 @@
     </g>
     <path
        id="rect866"
-       style="fill:#ffffff;fill-opacity:1;opacity:0.03"
+       style="fill:#ffffff;fill-opacity:1;opacity:0.08"
        d="M 40 0 C 17.84 0 0 17.84 0 40 L 0 41 C 0 18.84 17.84 1 40 1 L 160 1 C 182.16 1 200 18.84 200 41 L 200 40 C 200 17.84 182.16 0 160 0 L 40 0 z " />
     <path
        id="rect907"
