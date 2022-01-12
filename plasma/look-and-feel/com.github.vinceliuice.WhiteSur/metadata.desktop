@@ -18,4 +18,4 @@ X-KDE-PluginInfo-Website=https://github.com/vinceliuice/WhiteSur-kde
 X-KDE-fallbackPackage=org.kde.breeze.desktop
 X-Plasma-MainScript=defaults
 
-X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1398831,kns://plasma-themes.knsrc/api.kde-look.org/1398837,kns://aurorae.knsrc/api.kde-look.org/1398835,kns://wallpaper.knsrc/api.kde-look.org/1398833,kns://sddmtheme.knsrc/api.kde-look.org/1398839,kns://icons.knsrc/api.kde-look.org/1405756,kns://xcursor.knsrc/api.kde-look.org/1411743
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1398831,kns://plasma-themes.knsrc/api.kde-look.org/1398837,kns://aurorae.knsrc/api.kde-look.org/1398835,kns://wallpaper.knsrc/api.kde-look.org/1398833,kns://sddmtheme.knsrc/api.kde-look.org/1398839,kns://icons.knsrc/api.kde-look.org/1405756,kns://xcursor.knsrc/api.kde-look.org/1411743,kns://latte-indicators.knsrc/api.kde-look.org/1399205
