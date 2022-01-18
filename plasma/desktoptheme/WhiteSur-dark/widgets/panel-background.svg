@@ -6,7 +6,7 @@
    viewBox="0 0 173 56"
    id="svg200"
    sodipodi:docname="panel-background.svg"
-   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -35,15 +35,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1018"
+     inkscape:window-width="1368"
+     inkscape:window-height="702"
      id="namedview202"
      showgrid="true"
-     inkscape:zoom="7.129335"
-     inkscape:cx="53.511302"
-     inkscape:cy="35.697579"
+     inkscape:zoom="3.5646675"
+     inkscape:cx="55.825684"
+     inkscape:cy="26.369921"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg200"
      showguides="true"
@@ -297,36 +297,6 @@
      width="12.000099"
      id="center"
      style="color:#eff0f1;opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3750031" />
-  <rect
-     style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.182574"
-     id="hint-top-margin"
-     width="4"
-     height="0.2"
-     x="64"
-     y="6.0000515" />
-  <rect
-     y="47"
-     x="64"
-     height="0.2"
-     width="4"
-     id="hint-bottom-margin"
-     style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.182575" />
-  <rect
-     y="-85.199997"
-     x="26.000051"
-     height="0.2"
-     width="4"
-     id="hint-right-margin"
-     style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.182574"
-     transform="rotate(90)" />
-  <rect
-     style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.182574"
-     id="hint-left-margin"
-     width="4"
-     height="0.2"
-     x="26.000051"
-     y="-44.200001"
-     transform="rotate(90)" />
   <g
      id="shadow-top"
      transform="matrix(0.37500332,0,0,1.5555643,52.874889,-1403.4603)"
@@ -533,4 +503,34 @@
      xlink:href="#shadow-topleft"
      y="0"
      x="0" />
+  <rect
+     y="6.9999723"
+     x="63.999985"
+     height="6"
+     width="4"
+     id="hint-top-margin"
+     style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.999999" />
+  <rect
+     style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:1"
+     id="hint-bottom-margin"
+     width="4"
+     height="6"
+     x="63.999985"
+     y="44.999912" />
+  <rect
+     transform="rotate(90)"
+     style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.999999"
+     id="hint-right-margin"
+     width="4"
+     height="6"
+     x="26.99991"
+     y="-87.999992" />
+  <rect
+     transform="rotate(90)"
+     y="-49.999989"
+     x="26.99991"
+     height="6"
+     width="4"
+     id="hint-left-margin"
+     style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.999999" />
 </svg>

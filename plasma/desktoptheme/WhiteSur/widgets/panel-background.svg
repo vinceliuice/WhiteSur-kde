@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
    sodipodi:docname="panel-background.svg"
    id="svg200"
    viewBox="0 0 173 56"
@@ -31,16 +31,16 @@
      inkscape:guide-bbox="true"
      showguides="true"
      inkscape:current-layer="svg200"
-     inkscape:window-maximized="0"
-     inkscape:window-y="274"
-     inkscape:window-x="208"
-     inkscape:cy="31.391329"
-     inkscape:cx="66.006095"
-     inkscape:zoom="10.082402"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="11.922571"
+     inkscape:cx="64.206551"
+     inkscape:zoom="28.517339"
      showgrid="true"
      id="namedview202"
-     inkscape:window-height="812"
-     inkscape:window-width="1534"
+     inkscape:window-height="702"
+     inkscape:window-width="1368"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      guidetolerance="10"
@@ -246,36 +246,6 @@
      x="59.999954"
      y="22"
      class="ColorScheme-Background" />
-  <rect
-     y="6.0000515"
-     x="64"
-     height="0.2"
-     width="4"
-     id="hint-top-margin"
-     style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.182574" />
-  <rect
-     style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.182575"
-     id="hint-bottom-margin"
-     width="4"
-     height="0.2"
-     x="64"
-     y="47" />
-  <rect
-     transform="rotate(90)"
-     style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.182574"
-     id="hint-right-margin"
-     width="4"
-     height="0.2"
-     x="26.000051"
-     y="-85.199997" />
-  <rect
-     transform="rotate(90)"
-     y="-44.200001"
-     x="26.000051"
-     height="0.2"
-     width="4"
-     id="hint-left-margin"
-     style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.182574" />
   <g
      style="opacity:0.15"
      transform="matrix(0.37500332,0,0,1.5555643,52.874889,-1403.4603)"
@@ -482,4 +452,34 @@
      transform="rotate(180,65.999999,27.999999)"
      width="100%"
      height="100%" />
+  <rect
+     y="6"
+     x="64"
+     height="6"
+     width="4"
+     id="hint-top-margin"
+     style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.999999" />
+  <rect
+     style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:1"
+     id="hint-bottom-margin"
+     width="4"
+     height="6"
+     x="64"
+     y="43.999939" />
+  <rect
+     transform="rotate(90)"
+     style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.999999"
+     id="hint-right-margin"
+     width="4"
+     height="6"
+     x="25.999939"
+     y="-88.000008" />
+  <rect
+     transform="rotate(90)"
+     y="-50.000008"
+     x="25.999939"
+     height="6"
+     width="4"
+     id="hint-left-margin"
+     style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.999999" />
 </svg>
