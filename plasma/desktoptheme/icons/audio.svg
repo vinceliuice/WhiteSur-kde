@@ -9,6 +9,7 @@
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -20,13 +21,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="1.890625"
-     inkscape:cx="60.826446"
-     inkscape:cy="4.231405"
-     inkscape:window-width="1368"
-     inkscape:window-height="706"
+     inkscape:zoom="1.3368738"
+     inkscape:cx="54.605006"
+     inkscape:cy="-8.6021585"
+     inkscape:window-width="1440"
+     inkscape:window-height="748"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg133" />
   <defs
@@ -142,7 +143,8 @@
         <path
            transform="translate(6.9691,-89.857)"
            d="m-34.75 69.203c-0.22873-0.01291-0.46234 0.05388-0.62305 0.18555l-2.4219 1.9863 3.7949 3.7949v-5.1699c0-0.53171-0.36878-0.77536-0.75-0.79688zm7.7793 1.209-1.7422 0.99414a10 10 0 0 1 1.7129 5.5938 10 10 0 0 1-0.93945 4.2305l1.4883 1.4883a12 12 0 0 0 1.4512-5.7188 12 12 0 0 0-1.9707-6.5879zm-3.4844 1.9902-1.7441 0.99805a6 6 0 0 1 1.1992 3.5996 6 6 0 0 1-0.09766 1.0723l1.6289 1.6289a8 8 0 0 0 0.46875-2.7012 8 8 0 0 0-1.4551-4.5977zm-12.545 0.59766c-1.108 0-2 0.892-2 2v4c0 1.108 0.892 2 2 2h3.2207l4.4062 3.6113c0.1607 0.13168 0.39439 0.1984 0.62305 0.18555 0.38109-0.02151 0.75-0.26516 0.75-0.79688v-3.1719l-7.8281-7.8281h-1.1719z"
-           id="path40" />
+           id="path40"
+           style="opacity:0.35" />
       </g>
     </g>
     <path
@@ -245,7 +247,8 @@
      fill="currentColor">
     <path
        d="m147.21 4.8613-1.6836 1.0938a16 16 0 0 1 3.5469 10.045 16 16 0 0 1-1.8008 7.3711l1.4766 1.4766a18 18 0 0 0 2.3242-8.8477 18 18 0 0 0-3.8633-11.139zm-4.2148 2.7402-1.6934 1.0996a11 11 0 0 1 2.7715 7.2988 11 11 0 0 1-0.59765 3.5742l1.5449 1.5449a13 13 0 0 0 1.0527-5.1191 13 13 0 0 0-3.0781-8.3984zm-8.5957 0.39844-1.3086 1.1895 1.9746 1.9746v-3.1641h-0.66602zm4.3477 2.3613-1.7246 1.1211a6 6 0 0 1 1.9824 3.6211l1.9922 1.9922a8 8 0 0 0 0.0762-1.0957 8 8 0 0 0-2.3262-5.6387zm-8.6172 1.5234-0.12695 0.11523h-4.6035c-0.736 0-1.334 0.59801-1.334 1.334v5.332c0 0.73601 0.59801 1.334 1.334 1.334h4.6035l4.3965 4h0.66602v-7.1797l-4.9356-4.9355zm7.7305 7.7324a6 6 0 0 1-0.83789 0.90039l1.7246 1.1211a8 8 0 0 0 0.53711-0.59766l-1.4238-1.4238zm3.5547 3.5527a11 11 0 0 1-0.11328 0.12891l0.68555 0.44531z"
-       id="path86" />
+       id="path86"
+       style="opacity:0.35" />
     <rect
        x="121.07"
        y="9.7656e-6"
@@ -274,6 +277,7 @@
    fill="currentColor"
    opacity="0"
    id="rect93" />
+
 fill=&quot;none&quot;/&gt;
   <g
    class="ColorScheme-Text"
@@ -304,6 +308,7 @@ fill=&quot;none&quot;/&gt;
    fill="currentColor"
    opacity="0"
    id="rect104" />
+
 fill=&quot;none&quot;/&gt;
   <g
    class="ColorScheme-Text"
@@ -335,6 +340,7 @@ fill=&quot;none&quot;/&gt;
    fill="currentColor"
    opacity="0"
    id="rect115" />
+
 fill=&quot;none&quot;/&gt;
   <g
    class="ColorScheme-Text"
@@ -366,12 +372,15 @@ fill=&quot;none&quot;/&gt;
    fill="currentColor"
    opacity="0"
    id="rect126" />
+
 fill=&quot;none&quot; opacity=&quot;0&quot;/&gt;
   <path
    class="ColorScheme-Text"
    d="m69.387-68.105c-0.18714-0.01056-0.37828 0.04266-0.50977 0.15039l-1.6504 1.3516 2.7734 2.7734v-3.625c0-0.43504-0.30137-0.63278-0.61328-0.65039zm6.2422 0.79102-1.791 0.89453a9 9 0 0 1 1.1621 4.4199 9 9 0 0 1-0.42773 2.7422l1.5527 1.5527a11 11 0 0 0 0.875-4.2949 11 11 0 0 0-1.3711-5.3145zm-2.6855 1.3438-1.793 0.89453a6 6 0 0 1 0.84961 3.0762 6 6 0 0 1-0.003906 0.16602l1.7656 1.7656a8 8 0 0 0 0.23828-1.9316 8 8 0 0 0-1.0566-3.9707zm-10.307 0.9707c-0.90655 0-1.6367 0.73017-1.6367 1.6367v2.7266c0 0.90655 0.73017 1.6367 1.6367 1.6367h2.6348l3.6055 2.9551c0.13148 0.10774 0.32268 0.16286 0.50977 0.15234 0.3118-0.0176 0.61328-0.2173 0.61328-0.65234v-1.625l-6.8301-6.8301h-0.5332z"
    fill="currentColor"
-   id="path128" />
+   id="path128"
+   style="opacity:0.35" />
+
 class=&quot;ColorScheme-Text&quot; fill=&quot;currentColor&quot; /&gt;
   <rect
    class="ColorScheme-Text"
@@ -385,4 +394,36 @@ class=&quot;ColorScheme-Text&quot; fill=&quot;currentColor&quot; /&gt;
    fill="currentColor"
    id="rect130" />
 </g>
+  <use
+     x="0"
+     y="0"
+     xlink:href="#audio-volume-high"
+     id="22-22-audio-volume-high"
+     transform="translate(-44.084428)"
+     width="100%"
+     height="100%" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#audio-volume-medium"
+     id="22-22-audio-volume-medium"
+     transform="translate(-44.084428)"
+     width="100%"
+     height="100%" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#audio-volume-low"
+     id="22-22-audio-volume-low"
+     transform="translate(-44.084428)"
+     width="100%"
+     height="100%" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#audio-volume-muted"
+     id="22-22-audio-volume-muted"
+     transform="translate(-44.084428)"
+     width="100%"
+     height="100%" />
 </svg>

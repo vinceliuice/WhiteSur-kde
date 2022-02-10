@@ -341,10 +341,10 @@ frame.element=toolbar
 text.normal.color=#dedede
 text.focus.color=#ffffff
 text.normal.inactive.color=#dedede74
-frame.left=4
-frame.right=0
+frame.left=6
+frame.right=6
 frame.top=0
-frame.bottom=0
+frame.bottom=1
 frame.expansion=0
 
 [Slider]

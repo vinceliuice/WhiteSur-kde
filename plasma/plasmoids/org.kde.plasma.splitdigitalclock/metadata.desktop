@@ -1,0 +1,21 @@
+[Desktop Entry]
+Name=Split Digital Clock
+
+Comment=Time displayed in a split digital format
+
+Icon=preferences-system-time
+Type=Service
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=Adhe
+X-KDE-PluginInfo-Email=adhemarks2@gmail.com
+X-KDE-PluginInfo-License=GPL-2.0+
+X-KDE-PluginInfo-Name=org.kde.plasma.splitdigitalclock
+X-KDE-PluginInfo-Version=3.0
+X-KDE-PluginInfo-Website=plasma.kde.org
+X-KDE-ServiceTypes=Plasma/Applet
+X-Plasma-API=declarativeappletscript
+X-KDE-PluginInfo-Category=Date and Time
+X-Plasma-Provides=org.kde.plasma.time,org.kde.plasma.date
+
+X-Plasma-MainScript=ui/main.qml
+X-Plasma-RemoteLocation=

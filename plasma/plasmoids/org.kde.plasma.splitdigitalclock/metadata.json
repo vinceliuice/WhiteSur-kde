@@ -1,0 +1,30 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "adhe",
+                "Name": "adhemarks@gmail.com"
+            }
+        ],
+        "Category": "Date and Time",
+        "Description": "Time displayed in a split digital format",
+        "Icon": "preferences-system-time",
+        "Id": "org.kde.plasma.splitdigitalclock",
+        "License": "GPL-2.0+",
+        "Name": "Split Digital Clock",
+       
+        "ServiceTypes": [
+            "Plasma/Applet"
+        ],
+        "Version": "3.0",
+        "Website": "plasma.kde.org"
+    },
+    "X-KDE-ParentApp": "",
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml",
+    "X-Plasma-Provides": [
+        "org.kde.plasma.time",
+        "org.kde.plasma.date"
+    ],
+    "X-Plasma-RemoteLocation": ""
+}

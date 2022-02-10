@@ -350,10 +350,10 @@ frame.element=toolbar
 text.normal.color=#333333
 text.focus.color=#242424
 text.normal.inactive.color=#33333374
-frame.left=4
-frame.right=4
+frame.left=6
+frame.right=6
 frame.top=0
-frame.bottom=0
+frame.bottom=1
 frame.expansion=0
 
 [Slider]
