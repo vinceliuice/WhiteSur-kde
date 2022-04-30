@@ -63,20 +63,23 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1004"
+     inkscape:window-height="999"
      id="namedview4155"
      inkscape:document-units="px"
-     showgrid="false"
+     showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:zoom="1.4142135"
-     inkscape:cx="-125.15791"
-     inkscape:cy="-58.689865"
+     inkscape:zoom="3.9999998"
+     inkscape:cx="-196.62501"
+     inkscape:cy="-13.000001"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4153"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:snap-bbox="true"
+     inkscape:snap-nodes="false"
+     inkscape:bbox-nodes="true">
     <inkscape:grid
        type="xygrid"
        id="grid4140" />
@@ -187,39 +190,6 @@
          y="16"
          ry="1"
          rx="1"
-         style="opacity:1" />
-    </g>
-  </g>
-  <g
-     id="user-desktop"
-     transform="matrix(2,0,0,2,-214,-17)">
-    <g
-       id="g2242">
-      <rect
-         id="rect1906"
-         width="32"
-         height="32"
-         x="25"
-         y="-5"
-         rx="0"
-         ry="0"
-         style="fill:none;stroke-width:0.914286" />
-      <path
-         id="path1908"
-         class="ColorScheme-Text"
-         d="m -150,42 c -4.432,0 -8,3.568 -8,8 v 24 c 0,4.432 3.568,8 8,8 h 36 c 4.432,0 8,-3.568 8,-8 V 50 c 0,-4.432 -3.568,-8 -8,-8 z m 0,2 h 36 c 3.324,0 6,2.676 6,6 v 24 c 0,3.324 -2.676,6 -6,6 h -36 c -3.324,0 -6,-2.676 -6,-6 V 50 c 0,-3.324 2.676,-6 6,-6 z"
-         transform="matrix(0.5,0,0,0.5,107,-20)"
-         fill="currentColor" />
-      <rect
-         id="rect1910"
-         width="18"
-         height="1"
-         x="32"
-         y="17"
-         rx="0.5"
-         ry="0.5"
-         class="ColorScheme-Text"
-         fill="currentColor"
          style="opacity:1" />
     </g>
   </g>
@@ -398,5 +368,32 @@
        id="path33150"
        d="m 55,12 c -4.406429,0 -8,3.593571 -8,8 a 1.0001,1.0001 0 0 0 1,1 h 9.763672 A 4.5,4.5 0 0 1 57.035156,19 H 49.201172 C 49.690981,16.174667 52.029768,14 55,14 c 1.324819,0 2.522746,0.434019 3.488281,1.164062 a 4.5,4.5 0 0 1 1.945313,-1.02539 C 59.004983,12.8132 57.094735,12 55,12 Z"
        style="fill:#9b59b6;fill-opacity:1" />
+  </g>
+  <g
+     id="user-desktop">
+    <rect
+       id="rect881"
+       width="64"
+       height="64"
+       x="-165"
+       y="-20"
+       rx="0"
+       ry="0"
+       style="fill:none;stroke-width:1.82857" />
+    <path
+       id="path883"
+       d="m -151,-8 c -4.432,0 -8,3.568 -8,8 v 24 c 0,4.432 3.568,8 8,8 h 36 c 4.432,0 8,-3.568 8,-8 V 0 c 0,-4.432 -3.568,-8 -8,-8 z m 0,4 h 36 c 2.216,0 4,1.784 4,4 v 24 c 0,2.216 -1.784,4 -4,4 h -36 c -2.216,0 -4,-1.784 -4,-4 V 0 c 0,-2.216 1.784,-4 4,-4 z"
+       class="ColorScheme-Text"
+       fill="currentColor" />
+    <rect
+       id="rect885"
+       width="36"
+       height="4"
+       x="-151"
+       y="20"
+       rx="2"
+       ry="2"
+       class="ColorScheme-Text"
+       fill="currentColor" />
   </g>
 </svg>
