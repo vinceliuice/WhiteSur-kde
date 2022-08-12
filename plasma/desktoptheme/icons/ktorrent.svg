@@ -1,80 +1,92 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   id="svg4153"
-   version="1.1"
    width="22"
    height="22"
-   viewBox="0 0 22 22">
-  <metadata
-     id="metadata4159">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+   version="1"
+   id="svg32"
+   sodipodi:docname="ktorrent.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview34"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="8.4090909"
+     inkscape:cx="19.324324"
+     inkscape:cy="4.8756757"
+     inkscape:window-width="1368"
+     inkscape:window-height="700"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg32"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
-     id="defs4157">
+     id="defs8">
     <style
-       type="text/css"
-       id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background {
-        color:#eff0f1;
-      }
-      .ColorScheme-Highlight {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }
-      </style>
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#333333; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#333333; }</style>
   </defs>
   <g
-     id="ktorrent">
-    <path
-       id="rect4163"
-       d="M 8 3 L 8 9 L 9 9 L 9 4 L 13 4 L 13 9 L 14 9 L 14 3 L 13 3 L 9 3 L 8 3 z M 5.7929688 10 L 5 10.816406 L 11 17 L 17 10.816406 L 16.207031 10 L 11 15.367188 L 5.7929688 10 z M 4 17 L 4 19 L 5 19 L 17 19 L 18 19 L 18 17 L 17 17 L 17 18 L 5 18 L 5 17 L 4 17 z "
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Text" />
+     id="22-22-ktorrent"
+     transform="translate(-326,-534.36218)">
     <rect
-       y="0"
-       x="0"
+       y="534.36218"
+       x="326"
        height="22"
        width="22"
-       id="rect4183"
+       id="rect4148"
        style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       id="rect1484"
+       width="14"
+       height="2"
+       x="330"
+       y="552.36218"
+       rx="1"
+       ry="1"
+       class="ColorScheme-Text"
+       fill="currentColor"
+       style="opacity:1" />
+    <path
+       id="rect989"
+       d="m 335,536.36137 c -0.554,0 -1,0.446 -1,1 v 7.58594 l -1.24414,-1.24414 c -0.19587,-0.19587 -0.45141,-0.29297 -0.70703,-0.29297 -0.25562,0 -0.51116,0.0971 -0.70703,0.29297 -0.39174,0.39174 -0.39174,1.02233 0,1.41406 l 4.95117,4.95118 c 0.0245,0.0245 0.048,0.0469 0.0742,0.0684 0,0 0.002,0 0.002,0 0.0258,0.021 0.0528,0.0405 0.0801,0.0586 0,0 0.002,0 0.002,0 0.0273,0.018 0.0554,0.0357 0.084,0.0508 0,0 0.002,0 0.002,0 0.0285,0.015 0.0564,0.029 0.0859,0.041 0,0 0.002,0 0.002,0 0.0295,0.012 0.0595,0.0242 0.0898,0.0332 0,0 0.002,0 0.002,0 0.0303,0.009 0.0609,0.0174 0.0918,0.0234 0.0951,0.0187 0.19098,0.0229 0.28711,0.0137 0.22285,-0.0214 0.43995,-0.11768 0.61133,-0.28906 0,0 0.002,0 0.002,0 l 4.94922,-4.95118 c 0.39174,-0.39173 0.39174,-1.02232 0,-1.41406 -0.39173,-0.39174 -1.02232,-0.39174 -1.41406,0 L 340,544.94731 v -7.58594 c 0,-0.554 -0.446,-1 -1,-1 z m 1,2 h 2 v 8.58594 l -1,1 -1,-1 z"
+       class="ColorScheme-Text"
+       fill="currentColor" />
+  </g>
+  <g
+     id="ktorrent">
+    <rect
+       y="2.8096008e-05"
+       x="27.000013"
+       height="32"
+       width="32"
+       id="rect1683"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.145455;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       id="rect1687"
+       width="20"
+       height="2"
+       x="33"
+       y="26"
+       rx="1"
+       ry="1"
+       class="ColorScheme-Text"
+       fill="currentColor"
+       style="opacity:1" />
+    <path
+       id="rect1716"
+       d="m 41,3.9992894 c -1.662,0 -3,1.338 -3,3 v 9.5859376 l -2.072266,-2.072266 c -0.391737,-0.391737 -1.022325,-0.391737 -1.414062,0 -0.391737,0.391737 -0.391737,1.022325 0,1.414062 l 7.777344,7.779297 c 0,0 0.002,0 0.002,0 0.02416,0.02409 0.04836,0.04724 0.07422,0.06836 0,0 0.002,0 0.002,0 0.02585,0.02104 0.05276,0.04052 0.08008,0.05859 0,0 0.002,0 0.002,0 0.02731,0.018 0.05544,0.03574 0.08398,0.05078 0,0 0.002,0 0.002,0 0.02853,0.01497 0.0564,0.029 0.08594,0.04102 0,0 0.002,0 0.002,0 0.02954,0.01195 0.05952,0.02419 0.08984,0.0332 0,0 0.002,0 0.002,0 0.03031,0.0089 0.06093,0.01744 0.0918,0.02344 0,0 0.002,0 0.002,0 0.09446,0.01836 0.189649,0.02285 0.285156,0.01367 0.03184,-0.0031 0.06422,-0.0076 0.0957,-0.01367 0.03086,-0.0061 0.06345,-0.01444 0.09375,-0.02344 0.03031,-0.0091 0.06228,-0.02119 0.0918,-0.0332 0.02952,-0.01207 0.05939,-0.02599 0.08789,-0.04102 0.02853,-0.0151 0.05865,-0.03273 0.08594,-0.05078 0.02729,-0.01812 0.05621,-0.03751 0.08203,-0.05859 0.02584,-0.02116 0.05008,-0.04422 0.07422,-0.06836 0,0 0.002,0 0.002,0 l 7.777344,-7.779297 c 0.391737,-0.391737 0.391737,-1.022325 0,-1.414062 -0.391737,-0.391737 -1.022325,-0.391737 -1.414062,0 L 48,16.585227 V 6.9992894 c 0,-1.662 -1.338,-3 -3,-3 z m 0,2 h 4 c 0.554,0 1,0.446 1,1 V 18.583273 l -3,3 -3,-3 V 6.9992894 c 0,-0.554 0.446,-1 1,-1 z"
+       class="ColorScheme-Text"
+       fill="currentColor" />
   </g>
 </svg>
