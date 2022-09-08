@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg7"
+   sodipodi:docname="redshift.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:zoom="7.9107572"
+     inkscape:cx="32.993049"
+     inkscape:cy="16.180499"
+     inkscape:window-width="1368"
+     inkscape:window-height="688"
+     inkscape:window-x="0"
+     inkscape:window-y="44"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid826" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#363636; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+  </defs>
+  <g
+     id="22-22-redshift-status-on">
+    <rect
+       id="rect5142"
+       width="22"
+       height="22"
+       x="-3"
+       y="-3"
+       rx="0"
+       ry="0"
+       style="fill:none" />
+    <path
+       style="fill:currentColor"
+       class="ColorScheme-Text"
+       d="M 8,0 C 5.16,0 2.86,2.31 2.86,5.16 c 0,1.68 0.79,3.16 2.04,4.1 0.57,0.43 1.05,0.99 1.05,1.76 L 6,12 h 4 l 0.06,-0.98 C 10.1,10.25 10.53,9.69 11.1,9.26 12.35,8.32 13.14,6.84 13.14,5.16 13.14,2.31 10.84,0 8,0 Z m 0,2.06 c 1.7,0 3.09,1.39 3.09,3.1 0,0.97 -0.45,1.87 -1.23,2.45 C 8.7,8.49 8.26,9.47 8.1,10.29 H 7.9 C 7.74,9.47 7.3,8.49 6.14,7.61 5.36,7.03 4.91,6.13 4.91,5.16 4.91,3.45 6.3,2.06 8,2.06 Z"
+       id="path5" />
+    <path
+       style="fill:currentColor;opacity:1"
+       class="ColorScheme-Text"
+       d="m 6,13 v 1 h 4 v -1 z m 1,2 v 1 h 2 v -1 z"
+       id="path836" />
+  </g>
+  <g
+     id="redshift-status-on">
+    <rect
+       style="opacity:0.45;fill:none;stroke-width:0.290909;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect850"
+       width="32"
+       height="32"
+       x="23"
+       y="-5"
+       rx="0"
+       ry="0" />
+    <path
+       d="m 39,-1 c -3.895834,0 -7,3.3842994 -7,7.4492187 0,2.3927529 1.055708,4.5367943 2.753906,5.9042973 0.337692,0.272805 0.67659,0.551173 0.894531,0.808593 0.218204,0.25773 0.292969,0.441968 0.292969,0.613282 v 0.02344 L 36.046875,16 h 5.898437 l 0.123047,-2.171875 v -0.0039 c 0.01982,-0.408528 0.525729,-0.942422 1.179688,-1.470703 h -0.002 C 44.944291,10.986013 46,8.8419716 46,6.4492187 46,2.3842994 42.895834,-1 39,-1 Z m 0,2 c 2.734509,0 5,2.3891452 5,5.4492187 0,1.807243 -0.787727,3.3651612 -2.007813,4.3476563 h -0.002 c -0.67541,0.545611 -1.840136,1.411101 -1.917968,2.921875 v 0.0039 L 40.054687,14 h -2.101562 l -0.01172,-0.273437 v 0.04883 c 0,-0.791186 -0.371969,-1.438981 -0.767578,-1.90625 -0.395608,-0.46727 -0.83679,-0.807889 -1.164062,-1.072266 h -0.002 C 34.787726,9.8143798 34,8.2564617 34,6.4492187 34,3.3891452 36.265491,1 39,1 Z"
+       id="path3678"
+       class="ColorScheme-Text"
+       fill="currentColor" />
+    <path
+       id="rect3944"
+       d="m 36,18 v 1 c 0,0.554 0.446,1 1,1 h 4 c 0.554,0 1,-0.446 1,-1 v -1 h -1 -4 z m 1,4 V 22.990234 23 23.0098 C 37,23.557837 37.446,24 38,24 h 2 c 0.554,0 1,-0.442163 1,-0.990234 V 23 22.990234 22 h -1 -2 z"
+       class="ColorScheme-Text"
+       fill="currentColor"
+       style="opacity:1"
+       sodipodi:nodetypes="csssscccccccsssscccccc" />
+  </g>
+  <use
+     x="0"
+     y="0"
+     xlink:href="#22-22-redshift-status-on"
+     id="22-22-redshift-status-off"
+     transform="translate(0,30)"
+     width="100%"
+     height="100%"
+     style="opacity:0.35" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#redshift-status-on"
+     id="redshift-status-off"
+     transform="translate(33.054688)"
+     width="100%"
+     height="100%"
+     style="opacity:0.35" />
+</svg>

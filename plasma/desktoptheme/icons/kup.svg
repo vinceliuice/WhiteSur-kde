@@ -1,13 +1,85 @@
-<svg id="svg2" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
-    <defs id="defs4">
-        <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
-        color:#31363b;
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg2"
+   version="1.1"
+   viewBox="0 0 22 22"
+   sodipodi:docname="kup.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1107"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="15.170654"
+     inkscape:cx="10.217094"
+     inkscape:cy="7.250841"
+     inkscape:window-width="1368"
+     inkscape:window-height="688"
+     inkscape:window-x="0"
+     inkscape:window-y="44"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1319" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {
+        color:#333333;
       }</style>
-    </defs>
-    <g id="kup" transform="translate(0,-1030.3621)">
-        <g id="vlc">
-            <path id="rect4246" class="ColorScheme-Text" d="m0 1030.3621h22v22h-22z" fill="none"/>
-        </g>
-        <path id="innershape" class="ColorScheme-Text" d="m11.0069 1036.3621c-2.205324 0-3.993093 1.7878-3.993093 3.9931s1.787769 3.9931 3.993093 3.9931 3.993094-1.7878 3.993094-3.9931-1.78777-3.9931-3.993094-3.9931zm-0.0069 1c1.837771 0 3 1.1622 3 3s-1.162229 3-3 3c-1.83777 0-3-1.1622-3-3s1.16223-3 3-3zm-1 1v3h3v-1l-1.9931-0.01-0.0069-1.9931zm-5-5v16h12v-16zm4 1h4a3 3 0 0 1 3 3v2.088a1.5 1.5 0 0 0-1 1.412 1.5 1.5 0 0 0 1 1.412v2.088l-2 2h-6l-2-2v-2.088a1.5 1.5 0 0 0 1-1.412 1.5 1.5 0 0 0-1-1.412v-2.088a3 3 0 0 1 3-3zm-2 13h4v1h-4zm6 0h2v1h-2z" fill="currentColor"/>
-    </g>
+  </defs>
+  <g
+     fill="currentColor"
+     class="ColorScheme-Text"
+     transform="translate(-326.01999,-534.35999)"
+     id="kup">
+    <rect
+       id="rect1323"
+       width="1"
+       height="3"
+       x="543.35999"
+       y="-339.01999"
+       rx="0"
+       ry="0"
+       transform="rotate(90)" />
+    <rect
+       id="rect1321"
+       width="1"
+       height="1"
+       x="336.01999"
+       y="542.35999"
+       rx="0"
+       ry="0" />
+    <rect
+       id="rect7"
+       opacity="0"
+       height="22"
+       width="22"
+       y="534.35999"
+       x="326.01999" />
+    <path
+       id="path15"
+       d="m 332,537.36 c -1.5802,0 -2.8538,1.2141 -2.9766,2.7617 l -1.9785,9.7969 c -0.0215,0.14534 -0.0449,0.28993 -0.0449,0.44141 0,1.662 1.338,3 3,3 h 14 c 1.662,0 3,-1.338 3,-3 0,-0.15148 -0.0234,-0.29607 -0.0449,-0.44141 l -1.9785,-9.7969 c -0.12282,-1.5476 -1.3963,-2.7617 -2.9766,-2.7617 z m 0,2 h 10 c 0.46959,0 0.84456,0.3267 0.95312,0.76172 l 1.502,7.2832 c -0.14957,-0.0227 -0.29895,-0.0449 -0.45508,-0.0449 h -14 c -0.15613,0 -0.30551,0.0222 -0.45508,0.0449 l 1.502,-7.2832 c 0.10857,-0.43502 0.48354,-0.76172 0.95312,-0.76172 z m 10.951,9 c 0.0163,-2e-4 0.0325,-2e-4 0.0488,0 1.1046,0 2,0.89543 2,2 0,1.10457 -0.89543,2 -2,2 -0.71397,-5.7e-4 -1.3735,-0.38169 -1.7305,-1 h -11.27 c -0.55398,0 -1,-0.44602 -1,-1 0,-0.55399 0.44602,-1 1,-1 h 11.27 c 0.34812,-0.60347 0.98518,-0.98231 1.6816,-1 z" />
+    <circle
+       id="circle17"
+       opacity="0.35"
+       r="1"
+       cy="550.35999"
+       cx="343" />
+    <path
+       id="ellipse1385"
+       d="M 337.01999 540.35999 A 5.000001 2.9999955 0 0 0 332.01999 543.35999 A 5.000001 2.9999955 0 0 0 337.01999 546.35999 A 5.000001 2.9999955 0 0 0 342.01999 543.35999 A 5.000001 2.9999955 0 0 0 337.01999 540.35999 z M 337.01999 541.35999 A 4.000001 1.9999954 0 0 1 341.01999 543.35999 A 4.000001 1.9999954 0 0 1 337.01999 545.35999 A 4.000001 1.9999954 0 0 1 333.01999 543.35999 A 4.000001 1.9999954 0 0 1 337.01999 541.35999 z " />
+  </g>
 </svg>
