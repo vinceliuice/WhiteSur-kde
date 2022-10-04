@@ -1,18 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="svg4153" version="1.1" inkscape:version="0.91+devel r" width="22" height="22" sodipodi:docname="kmail.svg" viewBox="0 0 22 22">
-  <metadata id="metadata4159">
-    <rdf:RDF>
-      <cc:Work rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-        <dc:title/>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs id="defs4157">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
+<svg width="22" height="22" version="1.1" viewBox="0 0 22 22">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
         color:#31363b;
       }
       .ColorScheme-Background {
@@ -44,23 +32,10 @@
       }
       .ColorScheme-ButtonFocus{
         color:#3daee9;
-      }
-      </style>
-  </defs>
-  <sodipodi:namedview pagecolor="#363636" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10000" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="2560" inkscape:window-height="957" id="namedview4155" inkscape:document-units="px" showgrid="true" inkscape:showpageshadow="false" borderlayer="true" inkscape:zoom="21.454545" inkscape:cx="7.9423173" inkscape:cy="10.235987" inkscape:window-x="-4" inkscape:window-y="29" inkscape:window-maximized="1" inkscape:current-layer="svg4153">
-    <inkscape:grid type="xygrid" id="grid4140"/>
-    <sodipodi:guide position="0,22" orientation="22,0" id="guide4146"/>
-    <sodipodi:guide position="0,0" orientation="0,22" id="guide4148"/>
-    <sodipodi:guide position="22,0" orientation="-22,0" id="guide4150"/>
-    <sodipodi:guide position="22,22" orientation="0,-22" id="guide4152"/>
-    <sodipodi:guide position="3,19" orientation="16,0" id="guide4154"/>
-    <sodipodi:guide position="3,3" orientation="0,16" id="guide4156"/>
-    <sodipodi:guide position="19,3" orientation="-16,0" id="guide4158"/>
-    <sodipodi:guide position="19,19" orientation="0,-16" id="guide4160"/>
-  </sodipodi:namedview>
-  <inkscape:clipboard style="opacity:0.01000001;fill:#00000f;fill-opacity:0;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stroke:none" min="0,0" max="22,22"/>
-  <g id="kmail">
-    <path id="rect4144" d="m 1,3 0,1 0,8 0,6 0,0.414062 L 1,19 l 1,0 6,0 6,0 6,0 1,0 0,-0.585938 L 21,18 21,12 21,3 20.951172,3 20,3 19.537109,3 2.4628906,3 2,3 1,3 Z M 2,4 2.0488281,4 2.2714844,4.2226562 8.0234375,9.9765625 6,12 2,16 2,12 2,4.2226562 2,4 Z M 3.4628906,4 18.537109,4 11,11.537109 3.4628906,4 Z M 19.951172,4 20,4 20,4.2226562 20,12 20,16 16,12 13.976562,9.9765625 19.728516,4.2226562 19.951172,4 Z m -11.2207032,6.683594 1.4531252,1.451172 0.814453,0.814453 0.002,0 0.816406,-0.814453 1.453125,-1.451172 L 14.585938,12 19.537109,16.951172 20,17.414062 20,18 14,18 8,18 2,18 2,17.414062 2.4628906,16.951172 7.4140625,12 8.7304688,10.683594 Z" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455" inkscape:connector-curvature="0" class="ColorScheme-Text"/>
-    <rect y="0" x="0" height="22" width="22" id="rect4193" style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
-  </g>
+      }</style>
+ </defs>
+ <g id="kmail">
+  <rect width="22" height="22" fill="none"/>
+  <path class="ColorScheme-Text" d="m4 3c-1.662 0-3 1.338-3 3v10c0 1.662 1.338 3 3 3h14c1.662 0 3-1.338 3-3v-10c0-1.662-1.338-3-3-3zm0 2h14c0.42758 0 0.78813 0.26662 0.93164 0.64258l-7.5312 5.5273c-0.23641 0.17348-0.56438 0.17534-0.80078 2e-3l-7.5332-5.5273c0.14292-0.37715 0.50516-0.64453 0.93359-0.64453zm-1 3.0176 4.0645 2.9824-4.0645 2.9824zm16 0v5.9648l-4.0625-2.9824zm-10.285 4.1934 0.23438 0.17187c1.1224 0.82367 2.9811 0.82367 4.1035 0l0.23242-0.16992 5.6465 4.1445c-0.14351 0.37596-0.50406 0.64258-0.93164 0.64258h-14c-0.42844 0-0.79067-0.26738-0.93359-0.64453z" fill="currentColor"/>
+ </g>
 </svg>
