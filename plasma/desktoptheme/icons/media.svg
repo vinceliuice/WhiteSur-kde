@@ -6,7 +6,7 @@
    viewBox="0 0 20.108389 8.4667"
    id="svg53"
    sodipodi:docname="media.svg"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -25,9 +25,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.4609375"
-     inkscape:cx="399.18644"
-     inkscape:cy="-124.74576"
+     inkscape:zoom="1.84375"
+     inkscape:cx="160.81356"
+     inkscape:cy="-45.830509"
      inkscape:window-width="1368"
      inkscape:window-height="692"
      inkscape:window-x="0"
@@ -345,8 +345,7 @@
     <path
        id="path5298"
        d="m 286,35 c -7.73199,0 -14,6.268014 -14,14 0,7.731986 6.26801,14 14,14 7.73199,0 14,-6.268014 14,-14 0,-7.731986 -6.26801,-14 -14,-14 z m 0,2 c 6.62742,0 12,5.372583 12,12 0,6.627417 -5.37258,12 -12,12 -6.62742,0 -12,-5.372583 -12,-12 0,-6.627417 5.37258,-12 12,-12 z"
-       style="fill:#da4453;fill-opacity:1"
-       sodipodi:nodetypes="ssssssssss" />
+       style="fill:#da4453;fill-opacity:1" />
     <circle
        id="circle7868"
        cx="286"
@@ -440,8 +439,7 @@
        ry="1"
        class="ColorScheme-Text"
        fill="currentColor"
-       transform="matrix(0,-1,-1,0,0,0)"
-       style="color:#363636" />
+       transform="matrix(0,-1,-1,0,0,0)" />
   </g>
   <use
      x="0"
