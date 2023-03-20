@@ -1,15 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
    id="svg14"
    viewBox="0 0 22 22"
    version="1.1"
    height="22"
-   width="22">
+   width="22"
+   sodipodi:docname="distribute.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="5.3636364"
+     inkscape:cx="-0.18644068"
+     inkscape:cy="9.5084746"
+     inkscape:window-width="1280"
+     inkscape:window-height="654"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
   <metadata
      id="metadata16">
     <rdf:RDF>
@@ -18,7 +41,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -29,22 +52,42 @@
        id="current-color-scheme"> .ColorScheme-Text { color:#363636; } </style>
   </defs>
   <g
-     id="g12"
-     transform="translate(-326 -534.36)">
-    <g
-       id="distribute-horizontal-x">
-      <rect
-         id="rect7"
-         fill="none"
-         height="22"
-         width="22"
-         y="534.36"
-         x="326" />
-      <path
-         id="path9"
-         d="m329 541.36v8h5v-8h-5zm11 0v8h5v-8h-5zm-10 1h3v6h-3v-6zm11 0h3v6h-3v-6zm-6 1v4h1v-1h2v1h1v-4h-1v1h-2v-1h-1z"
-         fill="currentColor"
-         class="ColorScheme-Text" />
-    </g>
+     id="22-22-distribute-horizontal-x">
+    <path
+       id="rect4178"
+       d="m 0,-2e-5 h 22 v 22 H 0 Z"
+       fill="none" />
+    <path
+       id="rect853"
+       d="M 4,4 C 2.892,4 2,4.892 2,6 v 10 c 0,1.108 0.892,2 2,2 h 2 c 1.108,0 2,-0.892 2,-2 V 6 C 8,4.892 7.108,4 6,4 Z m 12,0 c -1.108,0 -2,0.892 -2,2 v 10 c 0,1.108 0.892,2 2,2 h 2 c 1.108,0 2,-0.892 2,-2 V 6 C 20,4.892 19.108,4 18,4 Z M 4,5 h 2 c 0.554,0 1,0.446 1,1 v 10 c 0,0.554 -0.446,1 -1,1 H 4 C 3.446,17 3,16.554 3,16 V 6 C 3,5.446 3.446,5 4,5 Z m 12,0 h 2 c 0.554,0 1,0.446 1,1 v 10 c 0,0.554 -0.446,1 -1,1 h -2 c -0.554,0 -1,-0.446 -1,-1 V 6 C 15,5.446 15.446,5 16,5 Z M 9.5,8 C 9.223,8 9,8.223 9,8.5 v 5 C 9,13.5 9.223,14 9.5,14 9.777,14 10,13.777 10,13.5 V 13 h 2 v 0.5 c 0,0.277 0.223,0.5 0.5,0.5 0.277,0 0.5,-0.223 0.5,-0.5 v -5 C 13,8.223 12.777,8 12.5,8 12.223,8 12,8.223 12,8.5 V 9 H 10 V 8.5 C 10,8.223 9.777,8 9.5,8 Z m 0.5,2 h 2 v 2 h -2 z"
+       class="ColorScheme-Text"
+       fill="currentColor" />
+  </g>
+  <g
+     id="16-16-distribute-horizontal-x">
+    <path
+       id="rect4178-6"
+       d="M -16,5.9999815 H 4.0000003e-8 V 21.999982 H -16 Z"
+       fill="none"
+       style="stroke-width:0.727273" />
+    <path
+       id="path1712"
+       class="ColorScheme-Text"
+       d="m -14,7.9999817 c -0.554,0 -1,0.4460001 -1,1.0000001 V 18.999982 c 0,0.554 0.446,1 1,1 h 2 c 0.554,0 1,-0.446 1,-1 V 8.9999818 c 0,-0.554 -0.446,-1.0000001 -1,-1.0000001 z m 10,0 c -0.554,0 -1,0.4460001 -1,1.0000001 V 18.999982 c 0,0.554 0.446,1 1,1 h 2 c 0.554,0 1.00000002,-0.446 1.00000002,-1 V 8.9999818 C -0.99999998,8.4459818 -1.446,7.9999817 -2,7.9999817 Z m -10,1.0000001 h 2 V 18.999982 h -2 z m 10,0 h 2 V 18.999982 h -2 z m -5.5,2.0000002 c -0.277,0 -0.5,0.223 -0.5,0.5 v 5 c 0,0 0.223,0.5 0.5,0.5 0.277,0 0.5,-0.223 0.5,-0.5 v -0.5 h 2 v 0.5 c 0,0.277 0.223,0.5 0.5,0.5 0.277,0 0.5,-0.223 0.5,-0.5 v -5 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 -0.277,0 -0.5,0.223 -0.5,0.5 v 0.5 h -2 v -0.5 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 z m 0.5,2 h 2 v 2 h -2 z"
+       fill="currentColor" />
+  </g>
+  <g
+     id="distribute-horizontal-x"
+     transform="matrix(2,0,0,2,58,-16.999963)">
+    <path
+       id="path2252"
+       d="M -16,5.9999815 H 4.0000003e-8 V 21.999982 H -16 Z"
+       fill="none"
+       style="stroke-width:0.727273" />
+    <path
+       id="path2254"
+       class="ColorScheme-Text"
+       d="m -14,7.9999817 c -0.554,0 -1,0.4460001 -1,1.0000001 V 18.999982 c 0,0.554 0.446,1 1,1 h 2 c 0.554,0 1,-0.446 1,-1 V 8.9999818 c 0,-0.554 -0.446,-1.0000001 -1,-1.0000001 z m 10,0 c -0.554,0 -1,0.4460001 -1,1.0000001 V 18.999982 c 0,0.554 0.446,1 1,1 h 2 c 0.554,0 1.00000002,-0.446 1.00000002,-1 V 8.9999818 C -0.99999998,8.4459818 -1.446,7.9999817 -2,7.9999817 Z m -10,1.0000001 h 2 V 18.999982 h -2 z m 10,0 h 2 V 18.999982 h -2 z m -5.5,2.0000002 c -0.277,0 -0.5,0.223 -0.5,0.5 v 5 c 0,0 0.223,0.5 0.5,0.5 0.277,0 0.5,-0.223 0.5,-0.5 v -0.5 h 2 v 0.5 c 0,0.277 0.223,0.5 0.5,0.5 0.277,0 0.5,-0.223 0.5,-0.5 v -5 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 -0.277,0 -0.5,0.223 -0.5,0.5 v 0.5 h -2 v -0.5 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 z m 0.5,2 h 2 v 2 h -2 z"
+       fill="currentColor" />
   </g>
 </svg>
