@@ -1,35 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
    version="1.1"
    viewBox="0 0 32 32"
-   id="svg17"
-   sodipodi:docname="klipper.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <sodipodi:namedview
-     id="namedview13"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     showgrid="false"
-     inkscape:zoom="2.9101563"
-     inkscape:cx="-32.472483"
-     inkscape:cy="26.45906"
-     inkscape:window-width="1920"
-     inkscape:window-height="999"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg17" />
+   id="svg17">
   <metadata
      id="metadata21">
     <rdf:RDF>
@@ -38,6 +16,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -48,7 +27,7 @@
        type="text/css">.ColorScheme-Text { color:#363636; }</style>
   </defs>
   <g
-     id="klipper"
+     id="22-22-klipper"
      class="ColorScheme-Text"
      fill="currentColor">
     <path
@@ -64,7 +43,7 @@
     </g>
   </g>
   <g
-     id="32-32-klipper"
+     id="klipper"
      class="ColorScheme-Text"
      fill="currentColor">
     <rect
