@@ -1,0 +1,18 @@
+<svg width="22" height="22" version="1.1" viewBox="0 0 5.8208 5.8208" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(0 -291.18)">
+  <g fill="#ffffff" fill-rule="evenodd">
+   <rect x="2.6458" y="291.18" width=".52917" height="1.8521" rx=".26458" ry=".26458" style="paint-order:fill markers stroke"/>
+   <rect x="2.6458" y="295.15" width=".52917" height="1.8521" rx=".26458" ry=".26458" opacity=".4" style="paint-order:fill markers stroke"/>
+   <rect transform="rotate(30)" x="149.3" y="250.32" width=".52917" height="1.8521" rx=".26458" ry=".26458" opacity=".05" style="paint-order:fill markers stroke"/>
+   <rect transform="rotate(30)" x="149.3" y="254.29" width=".52917" height="1.8521" rx=".26458" ry=".26458" opacity=".5" style="paint-order:fill markers stroke"/>
+   <rect transform="rotate(60)" x="255.88" y="141.61" width=".52917" height="1.8521" rx=".26458" ry=".26458" opacity=".1" style="paint-order:fill markers stroke"/>
+   <rect transform="rotate(60)" x="255.88" y="145.58" width=".52917" height="1.8521" rx=".26458" ry=".26458" opacity=".6" style="paint-order:fill markers stroke"/>
+   <rect transform="rotate(90)" x="293.82" y="-5.8208" width=".52917" height="1.8521" rx=".26458" ry=".26458" opacity=".15" style="paint-order:fill markers stroke"/>
+   <rect transform="rotate(90)" x="293.82" y="-1.8521" width=".52917" height="1.8521" rx=".26458" ry=".26458" opacity=".7" style="paint-order:fill markers stroke"/>
+   <rect transform="rotate(120)" x="252.97" y="-152.48" width=".52917" height="1.8521" rx=".26458" ry=".26458" opacity=".2" style="paint-order:fill markers stroke"/>
+   <rect transform="rotate(120)" x="252.97" y="-148.51" width=".52917" height="1.8521" rx=".26458" ry=".26458" opacity=".8" style="paint-order:fill markers stroke"/>
+   <rect transform="rotate(150)" x="144.26" y="-259.05" width=".52917" height="1.8521" rx=".26458" ry=".26458" opacity=".3" style="paint-order:fill markers stroke"/>
+   <rect transform="rotate(150)" x="144.26" y="-255.09" width=".52917" height="1.8521" rx=".26458" ry=".26458" opacity=".9" style="paint-order:fill markers stroke"/>
+  </g>
+ </g>
+</svg>
