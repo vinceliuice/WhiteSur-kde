@@ -4,7 +4,7 @@
    height="310"
    id="svg3642"
    sodipodi:version="0.32"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="decoration.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
@@ -26,17 +26,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7071068"
-     inkscape:cx="545.17931"
-     inkscape:cy="171.11984"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="515.49999"
+     inkscape:cy="111"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="1368"
-     inkscape:window-height="692"
+     inkscape:window-width="1920"
+     inkscape:window-height="966"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="32"
      width="48px"
      height="48px"
      showguides="true"
@@ -65,10 +65,10 @@
        visible="true"
        empspacing="5"
        snapvisiblegridlinesonly="true"
-       color="#8f8fff"
-       opacity="0.1254902"
-       empcolor="#6decff"
-       empopacity="0.25098039" />
+       color="#ff9985"
+       opacity="0.07843137"
+       empcolor="#3346ff"
+       empopacity="0.12156863" />
   </sodipodi:namedview>
   <defs
      id="defs3644">
@@ -301,6 +301,11 @@
                id="rect5073-4-9-6"
                style="opacity:1;fill:#2d2d2d;fill-opacity:1;stroke:none;stroke-width:1"
                d="m 453,86 c -6.648,0 -12,5.352 -12,12 V 115.93555 116 h 29 V 86 Z"
+               transform="translate(-121,89.063)" />
+            <path
+               id="path387"
+               style="opacity:0.08;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1"
+               d="M 453 86 C 446.35201 86 441 91.352007 441 98 L 441 99 C 441 92.352007 446.35201 87 453 87 L 470 87 L 470 86 L 453 86 z "
                transform="translate(-121,89.063)" />
           </g>
         </g>
@@ -586,6 +591,12 @@
          style="opacity:1;fill:#2d2d2d;fill-opacity:1;stroke:none;stroke-width:1"
          d="m 325,176 v 30 h 145 v -30 z"
          id="path6092-3-3"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="opacity:0.08;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.182574"
+         d="m 325,176 v 1 h 145 v -1 z"
+         id="path469"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccc" />
     </g>
