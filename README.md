@@ -14,8 +14,24 @@ In this repository you'll find:
 
 ## Installation
 
+Use ```sudo``` or execute as root to install theme for all users instead of current user only.
+
 ```sh
 ./install.sh
+```
+
+### Help
+
+```sh
+./install.sh --help
+```
+
+### Kvantum Theme
+
+Optionally select "red" Kvantum theme instead of default "blue" one.
+
+```sh
+./install.sh --theme red
 ```
 
 ## Recommendations
