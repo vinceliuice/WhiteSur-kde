@@ -23,14 +23,14 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="true"
      inkscape:zoom="10.429825"
-     inkscape:cx="22.819175"
-     inkscape:cy="14.381833"
-     inkscape:window-width="1436"
-     inkscape:window-height="463"
-     inkscape:window-x="210"
-     inkscape:window-y="163"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="22-22-keyboard-layout">
+     inkscape:cx="23.682085"
+     inkscape:cy="20.709839"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg17">
     <inkscape:grid
        type="xygrid"
        id="grid2781" />
@@ -84,7 +84,7 @@
     <path
        id="rect534"
        class="ColorScheme-Text"
-       d="m 16,11 c -1.661996,0 -3,1.338004 -3,3 v 10 c 0,1.661996 1.338004,3 3,3 h 10 c 1.661996,0 3,-1.338004 3,-3 V 14 c 0,-1.661996 -1.338004,-3 -3,-3 z m 0,2 h 10 c 0.553999,0 1,0.446001 1,1 v 10 c 0,0.553999 -0.446001,1 -1,1 H 16 c -0.553999,0 -1,-0.446001 -1,-1 V 14 c 0,-0.553999 0.446001,-1 1,-1 z"
+       d="m 15,11 c -1.661996,0 -3,1.338004 -3,3 v 10 c 0,1.661996 1.338004,3 3,3 h 12 c 1.661996,0 3,-1.338004 3,-3 V 14 c 0,-1.661996 -1.338004,-3 -3,-3 z m 0,2 h 12 c 0.553999,0 1,0.446001 1,1 v 10 c 0,0.553999 -0.446001,1 -1,1 H 15 c -0.553999,0 -1,-0.446001 -1,-1 V 14 c 0,-0.553999 0.446001,-1 1,-1 z"
        fill="currentColor" />
   </g>
 </svg>

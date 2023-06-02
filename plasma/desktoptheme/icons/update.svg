@@ -21,13 +21,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="true"
-     inkscape:zoom="1.8963318"
-     inkscape:cx="-34.276702"
-     inkscape:cy="2.6366694"
+     inkscape:zoom="7.5853272"
+     inkscape:cx="25.312026"
+     inkscape:cy="51.28322"
      inkscape:window-width="1920"
-     inkscape:window-height="998"
+     inkscape:window-height="1014"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg36">
     <inkscape:grid
@@ -40,30 +40,6 @@
        id="current-color-scheme"
        type="text/css">.ColorScheme-Text { color:#333333; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#f5f5f5; }</style>
   </defs>
-  <g
-     id="22-22-update-none">
-    <rect
-       width="22"
-       height="22"
-       clip-rule="evenodd"
-       fill-opacity="0"
-       stroke-linejoin="round"
-       stroke-miterlimit="1.4142"
-       stroke-width=".54635"
-       id="rect5" />
-    <path
-       class="ColorScheme-Text"
-       d="m11 2a9 9 0 0 0-9 9 9 9 0 0 0 9 9 9 9 0 0 0 9-9 9 9 0 0 0-9-9zm0 2a7 7 0 0 1 7 7 7 7 0 0 1-7 7 7 7 0 0 1-7-7 7 7 0 0 1 7-7z"
-       fill="currentColor"
-       id="path7" />
-    <path
-       class="ColorScheme-Text"
-       transform="matrix(-.70711 .70711 .70711 .70711 0 0)"
-       d="m-3.5355 12.021h1.9998 3.9996v1.9998h-2.5854l4.3642 4.3642-1.4142 1.4142-4.3642-4.3642v2.5854h-1.9998v-3.9996-1.9998z"
-       fill="currentColor"
-       opacity=".35"
-       id="path9" />
-  </g>
   <g
      transform="translate(0,22)"
      id="22-22-update-low">
@@ -131,32 +107,6 @@
        d="m-3.5355 12.021h5.9994v1.9998h-2.5854l4.3642 4.3642-1.4142 1.4142-4.3642-4.3642v2.5854h-1.9998v-3.9996z"
        fill="#ff2a2a"
        id="path32" />
-  </g>
-  <g
-     id="update-none">
-    <rect
-       width="32"
-       height="32"
-       clip-rule="evenodd"
-       fill-opacity="0"
-       stroke-linejoin="round"
-       stroke-miterlimit="1.4142"
-       stroke-width="0.794691"
-       id="rect323"
-       x="30"
-       y="0" />
-    <path
-       id="path386"
-       d="M 46 3 A 13 13 0 0 0 33 16 A 13 13 0 0 0 46 29 A 13 13 0 0 0 59 16 A 13 13 0 0 0 46 3 z M 46 5 A 11 11 0 0 1 57 16 A 11 11 0 0 1 46 27 A 11 11 0 0 1 35 16 A 11 11 0 0 1 46 5 z "
-       class="ColorScheme-Text"
-       fill="currentColor" />
-    <path
-       id="rect443"
-       d="M 38.890873 -26.162951 L 38.890873 -24.163165 L 38.890873 -18.163805 L 40.890659 -18.163805 L 40.890659 -22.748951 L 48.083261 -15.556349 L 49.497475 -16.970563 L 42.304873 -24.163165 L 46.890018 -24.163165 L 46.890018 -26.162951 L 40.890659 -26.162951 L 38.890873 -26.162951 z "
-       transform="rotate(45)"
-       class="ColorScheme-Text"
-       fill="currentColor"
-       style="opacity:0.35" />
   </g>
   <g
      id="g628"
@@ -239,5 +189,54 @@
        class="ColorScheme-Text"
        fill="currentColor"
        style="fill:#ff2a2a;fill-opacity:1" />
+  </g>
+  <g
+     id="22-22-update-none">
+    <rect
+       width="22"
+       height="22"
+       clip-rule="evenodd"
+       fill-opacity="0"
+       stroke-linejoin="round"
+       stroke-miterlimit="1.4142"
+       stroke-width="0.54635"
+       id="rect5"
+       x="0"
+       y="0" />
+    <path
+       class="ColorScheme-Text"
+       d="m 11,2 a 9,9 0 0 0 -9,9 9,9 0 0 0 9,9 9,9 0 0 0 9,-9 9,9 0 0 0 -9,-9 z m 0,2 a 7,7 0 0 1 7,7 7,7 0 0 1 -7,7 7,7 0 0 1 -7,-7 7,7 0 0 1 7,-7 z"
+       fill="currentColor"
+       id="path7" />
+    <path
+       id="rect3458"
+       d="M 16.038342 -4.4870897 C 15.857592 -4.3063399 15.745555 -4.0569827 15.745555 -3.7799829 L 15.745555 1.219483 L 12.745876 1.219483 C 12.191876 1.219483 11.745983 1.6653767 11.745983 2.2193762 C 11.745983 2.7733756 12.191876 3.2192693 12.745876 3.2192693 L 16.745449 3.2192693 C 17.299448 3.2192693 17.745342 2.7733756 17.745342 2.2193762 L 17.745342 -3.7799829 C 17.745342 -4.3339824 17.299448 -4.7798761 16.745449 -4.7798761 C 16.468449 -4.7798761 16.219092 -4.6678395 16.038342 -4.4870897 z "
+       transform="rotate(45)"
+       class="ColorScheme-Text"
+       fill="currentColor" />
+  </g>
+  <g
+     id="update-none">
+    <rect
+       width="32"
+       height="32"
+       clip-rule="evenodd"
+       fill-opacity="0"
+       stroke-linejoin="round"
+       stroke-miterlimit="1.4142"
+       stroke-width="0.794691"
+       id="rect323"
+       x="30"
+       y="0" />
+    <path
+       id="path386"
+       d="M 46,3 A 13,13 0 0 0 33,16 13,13 0 0 0 46,29 13,13 0 0 0 59,16 13,13 0 0 0 46,3 Z m 0,2 A 11,11 0 0 1 57,16 11,11 0 0 1 46,27 11,11 0 0 1 35,16 11,11 0 0 1 46,5 Z"
+       class="ColorScheme-Text"
+       fill="currentColor" />
+    <path
+       id="rect3951"
+       d="m 52.763493,11.465981 c -0.255619,0 -0.511163,0.09905 -0.707031,0.294922 l -7.779297,7.777344 -4.242187,-4.242187 c -0.391738,-0.391738 -1.022326,-0.391738 -1.414063,0 -0.391736,0.391736 -0.391737,1.022325 0,1.414062 l 4.949219,4.949218 c 0.220352,0.220353 0.518167,0.316607 0.804687,0.289063 0.22285,-0.02142 0.439943,-0.117678 0.611328,-0.289063 l 8.484375,-8.484375 c 0.391737,-0.391737 0.391738,-1.022325 1e-6,-1.414062 -0.195869,-0.195869 -0.451413,-0.294922 -0.707032,-0.294922 z"
+       class="ColorScheme-Text"
+       fill="currentColor" />
   </g>
 </svg>
