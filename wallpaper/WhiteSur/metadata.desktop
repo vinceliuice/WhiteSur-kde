@@ -1,6 +1,26 @@
 [Desktop Entry]
 Name=WhiteSur
-X-KDE-PluginInfo-Name=WhiteSur
+Comment=MacOS BigSur Wallpapers
+
 X-KDE-PluginInfo-Author=Vince Liuice
 X-KDE-PluginInfo-Email=vinceliuice@hotmail.com
-X-KDE-PluginInfo-License=CC BY-NC-SA 3.0
+X-KDE-PluginInfo-Name=WhiteSur
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=https://github.com/vinceliuice/WhiteSur-kde
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=CC-BY-SA
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=5.0
+
+[Settings]
+FallbackTheme=default
+
+[Wallpaper]
+defaultWallpaperTheme=WhiteSur
+defaultFileSuffix=.png
+defaultWidth=3840
+defaultHeight=2160
+
+[Branding]
+homepage=https://github.com/vinceliuice

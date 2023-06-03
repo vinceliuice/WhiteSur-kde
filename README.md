@@ -18,6 +18,18 @@ In this repository you'll find:
 ./install.sh
 ```
 
+install sharp aurorae windows manager theme:
+
+```sh
+./install.sh --sharp
+```
+
+install opaque theme version:
+
+```sh
+./install.sh --opaque
+```
+
 ## Recommendations
 
 - For better looking please use this pack with [Kvantum engine](https://github.com/tsujan/Kvantum/blob/master/Kvantum/INSTALL.md#distributions).

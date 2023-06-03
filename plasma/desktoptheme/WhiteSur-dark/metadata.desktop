@@ -11,10 +11,10 @@ X-KDE-PluginInfo-Version=.0.4
 X-KDE-PluginInfo-Website=
 
 [Wallpaper]
-defaultWallpaperTheme=WhiteSur
+defaultWallpaperTheme=WhiteSur-dark
 defaultFileSuffix=.png
-defaultHeight=1440
-defaultWidth=2560
+defaultHeight=2160
+defaultWidth=3840
 
 [AdaptiveTransparency]
 enabled = true
