@@ -1,21 +1,86 @@
-<svg width="22" height="22" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#565656; } .ColorScheme-Highlight { color:#5294e2; }</style>
-  <style type="text/css">.ColorScheme-Text { color:#363636; }</style>
- </defs>
- <g id="16-16-compass" transform="translate(-27)">
-  <rect x="54" y="4" width="16" height="16" rx="0" ry="0" opacity="0" stroke-width="1.4888" style="paint-order:fill markers stroke"/>
-  <path class="ColorScheme-Text" d="m56 5c-1.108 0-2 0.892-2 2v9c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-8c0-1.108-0.892-2-2-2h-7.6289c-0.57985-0.0229-0.60474 0.076886-1.0391-0.35742-0.43381-0.43381-0.61297-0.64213-1.332-0.64258zm0 1h2c0.31116-1.7e-6 0.52033 1.383e-4 0.99805 0.4707 0.47877 0.47161 0.6388 0.5293 1 0.5293h8.002c0.554 0 1 0.446 1 1v1h-14v-2c0-0.554 0.446-1 1-1zm-1 4h14v6c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1z" fill="currentColor"/>
- </g>
- <g id="22-22-compass">
-  <rect width="22" height="22" rx="0" ry="0" opacity="0" stroke-width="2" style="paint-order:fill markers stroke"/>
-  <g transform="translate(-51 -1)">
-   <rect x="54" y="4" width="16" height="16" rx="0" ry="0" opacity="0" stroke-width="1.4888" style="paint-order:fill markers stroke"/>
-   <path class="ColorScheme-Text" d="m56 5c-1.108 0-2 0.892-2 2v9c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-8c0-1.108-0.892-2-2-2h-7.6289c-0.57985-0.0229-0.60474 0.076886-1.0391-0.35742-0.43381-0.43381-0.61297-0.64213-1.332-0.64258zm0 1h2c0.31116-1.7e-6 0.52033 1.383e-4 0.99805 0.4707 0.47877 0.47161 0.6388 0.5293 1 0.5293h8.002c0.554 0 1 0.446 1 1v1h-14v-2c0-0.554 0.446-1 1-1zm-1 4h14v6c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1z" fill="currentColor"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   version="1.1"
+   viewBox="0 0 22 22"
+   id="svg7813"
+   sodipodi:docname="compass.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7815"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="11.313709"
+     inkscape:cx="6.9826794"
+     inkscape:cy="8.7504464"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7813">
+    <inkscape:grid
+       type="xygrid"
+       id="grid7934"
+       spacingy="0.5"
+       spacingx="0.5"
+       empspacing="2"
+       color="#c600e5"
+       opacity="0.14901961" />
+  </sodipodi:namedview>
+  <defs
+     id="defs7792">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#363636; } .ColorScheme-Highlight { color:#5294e2; }</style>
+  </defs>
+  <g
+     id="22-22-compass">
+    <path
+       id="path1002"
+       style="fill:currentColor"
+       d="M 3.7636719 4 C 2.7952515 4 2 4.7952476 2 5.7636719 L 2 8.5 L 2 9 L 2 9.5 L 2 10 L 2 16.236328 C 2 17.204749 2.795251 18 3.7636719 18 L 18.236328 18 C 19.204749 18 19.999992 17.204746 20 16.236328 L 20 10 L 20 9 L 20 8.5 L 20 7.7539062 C 20 6.7854849 19.204748 5.9902344 18.236328 5.9902344 L 17.5 5.9902344 L 17 5.9902344 L 10.648438 6 C 9.7431748 6 9.4792569 5.5021876 8.9492188 5.078125 L 8.4609375 4.6679688 L 8.4570312 4.6660156 C 7.9097988 4.2243883 7.352786 4 6.6484375 4 L 6 4 L 3.7636719 4 z M 3.7636719 5 L 6 5 L 6.6484375 5 C 7.140403 5 7.4101457 5.1060418 7.828125 5.4433594 L 7.9140625 5.5117188 L 7.9082031 5.5097656 L 8.3144531 5.8515625 L 8.3242188 5.859375 C 8.5034028 6.0027355 8.7012265 6.2394848 9.0722656 6.5078125 C 9.443305 6.7761402 10.012502 7 10.648438 7 L 17 6.9902344 L 17.5 6.9902344 L 18.236328 6.9902344 C 18.657296 6.9902344 19 7.3329383 19 7.7539062 L 19 8.5 L 19 9 L 3 9 L 3 8.5 L 3 5.7636719 C 3 5.342699 3.3427025 5 3.7636719 5 z M 3 10 L 19 10 L 19 16.236328 C 18.999997 16.657303 18.657296 17 18.236328 17 L 3.7636719 17 C 3.3427039 17 3 16.657298 3 16.236328 L 3 10 z "
+       class="ColorScheme-Text" />
+    <rect
+       width="22"
+       height="22"
+       rx="0"
+       ry="0"
+       opacity="0"
+       stroke-width="2"
+       style="paint-order:fill markers stroke"
+       id="rect7799"
+       x="0"
+       y="0" />
   </g>
- </g>
- <g id="compass">
-  <rect x="-8" y="-36.055" width="32" height="32" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2" stroke-width="4.2666"/>
-  <path class="ColorScheme-Text" d="m-1.75-32c-2.3372 0-4.25 1.9128-4.25 4.25v14.5c0 2.3372 1.9128 4.25 4.25 4.25h19.5c2.3372 0 4.25-1.9128 4.25-4.25v-12.5c0-2.3372-1.9128-4.25-4.25-4.25h-12.357c-0.39658-0.01566-0.37762-0.03333-0.41211-0.05664-0.03449-0.02331-0.22767-0.22381-0.60938-0.60547-0.34455-0.34455-0.64469-0.68072-1.125-0.95117-0.48031-0.27046-1.0654-0.38629-1.7461-0.38672zm0 1h3.25c1.1684 7.32e-4 1.4591 0.33998 2.1641 1.0449 0.70584 0.70575 0.7472 0.91786 1.6895 0.95508h12.396c1.8005 0 3.25 1.4495 3.25 3.25v0.75h-26v-2.75c0-1.8005 1.4495-3.25 3.25-3.25zm-3.25 7h26v10.75c0 1.8005-1.4495 3.25-3.25 3.25h-19.5c-1.8005 0-3.25-1.4495-3.25-3.25z" fill="currentColor"/>
- </g>
+  <g
+     id="compass">
+    <rect
+       x="-8"
+       y="-36"
+       width="32"
+       height="32"
+       fill="none"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="2"
+       stroke-width="4.2666"
+       id="rect7808" />
+    <path
+       id="path376"
+       d="m -0.732428,-29.999966 c -1.53346,0 -2.767578,1.234117 -2.767578,2.767578 v 13.46481 c 0,1.53346 1.234118,2.767578 2.767578,2.767578 h 17.464844 c 1.53346,0 2.767578,-1.234118 2.767578,-2.767578 v -11.96481 c 0,-1.533459 -1.23412,-2.767578 -2.767578,-2.767578 H 8.113281 c -0.632798,0 -1.128894,-0.01368 -1.621093,-0.417969 L 6,-29.322232 C 5.376001,-29.832001 5.038082,-29.999966 4.115234,-29.999966 H 3 Z m -0.0039,1.5 H 3 3.648438 c 0.624018,0 0.993162,0.150388 1.49414,0.554688 l 0.494141,0.414062 c 0.615198,0.492189 1.088819,0.541016 2.011719,0.541016 L 16.736322,-27 c 0.700065,0 1.263672,0.563606 1.263672,1.263672 V -24.5 h -20 v -2.736328 c 0,-0.700067 0.563606,-1.263672 1.263672,-1.263672 z m -1.263672,5.5 h 20 v 9.236294 C 17.999994,-13.063606 17.436388,-12.5 16.736322,-12.5 H -0.736334 c -0.700066,0 -1.263673,-0.563606 -1.263672,-1.263672 z"
+       class="ColorScheme-Text"
+       fill="currentColor" />
+  </g>
 </svg>

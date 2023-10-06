@@ -1,0 +1,11 @@
+<svg width="22" height="22" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#363636;
+      }</style>
+ </defs>
+ <g id="korgac">
+  <rect width="22" height="22" fill="none"/>
+  <path d="m10.99 2a9 9 0 0 0-8.9902 9 9 9 0 0 0 9 9 9 9 0 0 0 9-9 9 9 0 0 0-9-9 9 9 0 0 0-0.0098 0zm-0.08398 2a7 7 0 0 1 0.09375 0 7 7 0 0 1 7 7 7 7 0 0 1-7 7 7 7 0 0 1-7-7 7 7 0 0 1 6.9062-7zm-0.90625 2c-0.554 0-1 0.446-1 1v5c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1s-0.446-1-1-1h-3v-4c0-0.554-0.446-1-1-1z" class="ColorScheme-Text" fill="currentColor"/>
+ </g>
+</svg>

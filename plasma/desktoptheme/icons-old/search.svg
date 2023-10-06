@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 54 32"
+   id="svg15"
+   sodipodi:docname="search.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview17"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="7.375"
+     inkscape:cx="-8.3389831"
+     inkscape:cy="17.830508"
+     inkscape:window-width="1368"
+     inkscape:window-height="692"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg15">
+    <inkscape:grid
+       type="xygrid"
+       id="grid306" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#363636; }</style>
+  </defs>
+  <g
+     id="22-22-search">
+    <path
+       d="m0 10v22h22v-22z"
+       fill="none"
+       id="path5" />
+    <path
+       class="ColorScheme-Text"
+       d="m9.4939 13.994c-3.026 0-5.5 2.474-5.5 5.5s2.474 5.5 5.5 5.5a5.46 5.46 0 0 0 3.112-0.975l3.681 3.682a1 1 0 1 0 1.414-1.414l-3.681-3.682a5.46 5.46 0 0 0 0.974-3.111c0-3.026-2.474-5.5-5.5-5.5zm0 1.25a4.25 4.25 0 0 1 4.25 4.25 4.25 4.25 0 0 1-4.25 4.25 4.25 4.25 0 0 1-4.25-4.25 4.25 4.25 0 0 1 4.25-4.25z"
+       fill="currentColor"
+       id="path7" />
+  </g>
+  <g
+     id="search">
+    <path
+       d="m22 0v32h32v-32z"
+       fill="none"
+       id="path10" />
+    <path
+       class="ColorScheme-Text"
+       d="m29.125 7.1247a9 9 0 0 0 0 12.728 9 9 0 0 0 11.167 1.2347c0.04787 0.06034 0.09056 0.12371 0.14639 0.17954l5.6569 5.6569c0.78347 0.78347 2.045 0.78347 2.8284 0s0.78347-2.045 0-2.8284l-5.6569-5.6569c-0.05536-0.05536-0.11836-0.09748-0.17816-0.14501a9 9 0 0 0-1.2361-11.169 9 9 0 0 0-12.728 0zm1.4142 1.4142a7 7 0 0 1 9.8995 0 7 7 0 0 1 0 9.8995 7 7 0 0 1-9.8995 0 7 7 0 0 1 0-9.8995z"
+       fill="currentColor"
+       id="path12" />
+  </g>
+  <g
+     id="16-16-search">
+    <path
+       d="m -29,13 v 16 h 16 V 13 Z"
+       fill="none"
+       id="path300"
+       style="fill:none;stroke-width:0.727273" />
+    <path
+       class="ColorScheme-Text"
+       d="m -22.5,14 c -3.026,0 -5.5,2.474 -5.5,5.5 0,3.026 2.474,5.5 5.5,5.5 a 5.46,5.46 0 0 0 3.112,-0.975 l 3.681,3.682 a 1,1 0 1 0 1.414,-1.414 l -3.681,-3.682 A 5.46,5.46 0 0 0 -17,19.5 c 0,-3.026 -2.474,-5.5 -5.5,-5.5 z m 0,1.25 a 4.25,4.25 0 0 1 4.25,4.25 4.25,4.25 0 0 1 -4.25,4.25 4.25,4.25 0 0 1 -4.25,-4.25 4.25,4.25 0 0 1 4.25,-4.25 z"
+       fill="currentColor"
+       id="path302" />
+  </g>
+</svg>

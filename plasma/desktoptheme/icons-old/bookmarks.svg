@@ -1,0 +1,16 @@
+<svg version="1.1" viewBox="0 0 54 32" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#363636; }</style>
+ </defs>
+ <g id="22-22-bookmarks" transform="translate(-420.72 -516.79)">
+  <rect transform="translate(420.71 524.79)" x="-7.1557e-8" y="2" width="22" height="22" opacity="0"/>
+  <path class="ColorScheme-Text" d="m426.71 529.79v16l5-2 5 2v-16h-10m1 1h8v13.6l-4-1.5996-4 1.5996v-13.6" fill="currentColor"/>
+ </g>
+ <g id="bookmarks" transform="translate(59.723 .86801)">
+  <path transform="translate(-59.723 -.86801)" d="m37 1c-8.2768 0-15 6.7232-15 15s6.7232 15 15 15 15-6.7232 15-15-6.7232-15-15-15zm0 1c7.725 0 14 6.275 14 14 0 7.725-6.275 14-14 14s-14-6.275-14-14c0-7.725 6.275-14 14-14z" class="ColorScheme-Text" fill="currentColor"/>
+  <rect x="-38.723" y="-.86801" width="32" height="32" rx="0" ry="0" opacity="0"/>
+  <g>
+   <path transform="translate(-59.723 -.86801)" d="m32.861 8c-3.233 0-5.8613 2.7069-5.8613 6 0 1.709 0.6929 3.2763 1.8262 4.3789l8.1738 8.0215 8.1699-8.0176c1.1358-1.1027 1.8301-2.6718 1.8301-4.3828 0-3.2931-2.6284-6-5.8613-6-1.6864 0-3.076 0.86578-4.1387 2.0391-1.0627-1.1733-2.4522-2.0391-4.1387-2.0391zm0 1c1.7632 0 3.2908 0.96092 4.1387 2.416 0.8479-1.4552 2.3756-2.416 4.1387-2.416 2.6767 0 4.8613 2.2334 4.8613 5 0 1.4397-0.58638 2.7525-1.5273 3.666l-7.4727 7.334-7.4727-7.334c-0.94085-0.9137-1.5273-2.2264-1.5273-3.666 0-2.7666 2.1846-5 4.8613-5z" class="ColorScheme-Text" fill="currentColor"/>
+  </g>
+ </g>
+</svg>

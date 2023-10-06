@@ -1,0 +1,21 @@
+<svg width="22" height="22" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#565656; } .ColorScheme-Highlight { color:#5294e2; }</style>
+  <style type="text/css">.ColorScheme-Text { color:#363636; }</style>
+ </defs>
+ <g id="16-16-compass" transform="translate(-27)">
+  <rect x="54" y="4" width="16" height="16" rx="0" ry="0" opacity="0" stroke-width="1.4888" style="paint-order:fill markers stroke"/>
+  <path class="ColorScheme-Text" d="m56 5c-1.108 0-2 0.892-2 2v9c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-8c0-1.108-0.892-2-2-2h-7.6289c-0.57985-0.0229-0.60474 0.076886-1.0391-0.35742-0.43381-0.43381-0.61297-0.64213-1.332-0.64258zm0 1h2c0.31116-1.7e-6 0.52033 1.383e-4 0.99805 0.4707 0.47877 0.47161 0.6388 0.5293 1 0.5293h8.002c0.554 0 1 0.446 1 1v1h-14v-2c0-0.554 0.446-1 1-1zm-1 4h14v6c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1z" fill="currentColor"/>
+ </g>
+ <g id="22-22-compass">
+  <rect width="22" height="22" rx="0" ry="0" opacity="0" stroke-width="2" style="paint-order:fill markers stroke"/>
+  <g transform="translate(-51 -1)">
+   <rect x="54" y="4" width="16" height="16" rx="0" ry="0" opacity="0" stroke-width="1.4888" style="paint-order:fill markers stroke"/>
+   <path class="ColorScheme-Text" d="m56 5c-1.108 0-2 0.892-2 2v9c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-8c0-1.108-0.892-2-2-2h-7.6289c-0.57985-0.0229-0.60474 0.076886-1.0391-0.35742-0.43381-0.43381-0.61297-0.64213-1.332-0.64258zm0 1h2c0.31116-1.7e-6 0.52033 1.383e-4 0.99805 0.4707 0.47877 0.47161 0.6388 0.5293 1 0.5293h8.002c0.554 0 1 0.446 1 1v1h-14v-2c0-0.554 0.446-1 1-1zm-1 4h14v6c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1z" fill="currentColor"/>
+  </g>
+ </g>
+ <g id="compass">
+  <rect x="-8" y="-36.055" width="32" height="32" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2" stroke-width="4.2666"/>
+  <path class="ColorScheme-Text" d="m-1.75-32c-2.3372 0-4.25 1.9128-4.25 4.25v14.5c0 2.3372 1.9128 4.25 4.25 4.25h19.5c2.3372 0 4.25-1.9128 4.25-4.25v-12.5c0-2.3372-1.9128-4.25-4.25-4.25h-12.357c-0.39658-0.01566-0.37762-0.03333-0.41211-0.05664-0.03449-0.02331-0.22767-0.22381-0.60938-0.60547-0.34455-0.34455-0.64469-0.68072-1.125-0.95117-0.48031-0.27046-1.0654-0.38629-1.7461-0.38672zm0 1h3.25c1.1684 7.32e-4 1.4591 0.33998 2.1641 1.0449 0.70584 0.70575 0.7472 0.91786 1.6895 0.95508h12.396c1.8005 0 3.25 1.4495 3.25 3.25v0.75h-26v-2.75c0-1.8005 1.4495-3.25 3.25-3.25zm-3.25 7h26v10.75c0 1.8005-1.4495 3.25-3.25 3.25h-19.5c-1.8005 0-3.25-1.4495-3.25-3.25z" fill="currentColor"/>
+ </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg id="svg" width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#363636; }</style>
+ </defs>
+ <g id="22-22-manjaro-settings-manager" class="ColorScheme-Text" fill="currentColor">
+  <rect width="22" height="22" fill-opacity="0"/>
+  <path d="m6 3c-1.662 0-3 1.338-3 3v10c0 1.662 1.338 3 3 3h1v-12h6v-4h-7zm9 0v16h1c1.662 0 3-1.338 3-3v-10c0-1.662-1.338-3-3-3h-1zm-6 6v10h4v-10h-4z"/>
+ </g>
+ <g id="manjaro-settings-manager" class="ColorScheme-Text" fill="currentColor">
+  <path d="m2.5714-35c-1.4246 0-2.5714 1.1469-2.5714 2.5714v18.857c0 1.4246 1.1469 2.5714 2.5714 2.5714h4.4286v-17h8v-7zm14.429 0v24h4.4286c1.4246 0 2.5714-1.1469 2.5714-2.5714v-18.857c0-1.4246-1.1469-2.5714-2.5714-2.5714zm-8 9v15h6v-15z"/>
+  <rect x="-4" y="-39" width="32" height="32" ry=".64" fill-opacity="0"/>
+ </g>
+ <g id="16-16-manjaro-settings-manager" class="ColorScheme-Text" transform="translate(-299 -510.36)" fill="currentColor">
+  <rect x="303" y="537.36" width="16" height="16" fill="none"/>
+  <path transform="translate(299 510.36)" d="m8 29c-1.108 0-2 0.892-2 2v8c0 1.108 0.892 2 2 2h1v-9h5v-3h-6zm7 0v12h1c1.108 0 2-0.892 2-2v-8c0-1.108-0.892-2-2-2h-1zm-5 4v8h4v-8h-4z"/>
+ </g>
+</svg>
