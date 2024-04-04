@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "vinceliuice@hotmail.com",
+                "Name": "Vince Liuice"
+            }
+        ],
+        "Category": "",
+        "Description": "MacOS Big Sur theme for kde plasma",
+        "Id": "com.github.vinceliuice.WhiteSur-dark",
+        "License": "GPLv3",
+        "Name": "WhiteSur-dark",
+        "Website": "https://github.com/vinceliuice/WhiteSur-kde",
+        "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+        "X-Plasma-APIVersion": "2"
+    }
+}
