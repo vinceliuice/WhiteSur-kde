@@ -1,7 +1,5 @@
 #!/bin/bash
 
-#!/bin/bash
-
 ROOT_UID=0
 THEME_DIR="/usr/share/sddm/themes"
 REO_DIR="$(cd $(dirname $0) && pwd)"
@@ -37,12 +35,39 @@ prompt () {
   esac
 }
 
-# Checking for root access and proceed if it is present
-if [ "$UID" -eq "$ROOT_UID" ]; then
-  prompt -i "\n * Install WhiteSur in ${THEME_DIR}... "
-  cp -r "${REO_DIR}/WhiteSur" "${THEME_DIR}"
+if [[ "$(command -v plasmashell)" ]]; then
+  plasmashell -v
+  PLASMA_VERSION="$(plasmashell -v | cut -d ' ' -f 2 | cut -d . -f -1)"
+  if [[ "${PLASMA_VERSION:-}" -ge "6" ]]; then
+    DESK_VERSION="6.0"
+  elif [[ "${SHELL_VERSION:-}" -ge "5" ]]; then
+    DESK_VERSION="5.0"
+  fi
+  else
+    echo "'plasmashell' not found, using styles for last plasmashell version available."
+    DESK_VERSION="6.0"
+fi
+
+install () {
+  prompt -i "\n * Install ${name}${color} in ${THEME_DIR}... "
+  rm -rf "${THEME_DIR}/${name}${color}"
+  cp -r "${REO_DIR}/${name}-${DESK_VERSION}" "${THEME_DIR}/${name}${color}"
+  cp -r "${REO_DIR}/images/background${color}.jpeg" "${THEME_DIR}/${name}${color}/background.jpeg"
+  cp -r "${REO_DIR}/images/preview${color}.jpeg" "${THEME_DIR}/${name}${color}/preview.jpeg"
+  sed -i "/\Name=/s/${name}/${name}${color}/" "${THEME_DIR}/${name}${color}/metadata.desktop"
+  sed -i "/\Theme-Id=/s/${name}/${name}${color}/" "${THEME_DIR}/${name}${color}/metadata.desktop"
+  sed -i "s/${name}/${name}${color}/g" "${THEME_DIR}/${name}${color}/Main.qml"
   # Success message
   prompt -s "\n * All done!"
+}
+
+# Checking for root access and proceed if it is present
+if [ "$UID" -eq "$ROOT_UID" ]; then
+  echo
+  name="WhiteSur"
+  color="-light" && install
+  color="-dark" && install
+  echo
 else
   # Error message
   prompt -e "\n [ Error! ] -> Run me as root ! "

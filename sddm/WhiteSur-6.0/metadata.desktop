@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=WhiteSur
+Description=MacOS Big Sur theme for KDE Plasma
+Author=VinceLiuice
+Copyright=(c) 2014, David Edmundson
+License=CC-BY-SA
+Type=sddm-theme
+Version=0.1
+Website=https://github.com/vinceliuice/WhiteSur-kde
+Screenshot=preview.jpeg
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=vinceliuice@hotmail.com
+Theme-Id=WhiteSur
+Theme-API=2.0
