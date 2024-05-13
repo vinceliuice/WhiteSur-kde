@@ -74,7 +74,7 @@ SessionManagementScreen {
         loginRequest(username, password);
     }
 
-    PlasmaComponents3.TextField {
+    Input {
         id: userNameInput
         Layout.fillWidth: true
         Layout.preferredHeight: 30
@@ -85,17 +85,10 @@ SessionManagementScreen {
         focus: showUsernamePrompt && !lastUserName //if there's a username prompt it gets focus first, otherwise password does
         placeholderText: i18nd("plasma_lookandfeel_org.kde.lookandfeel", "Username")
         placeholderTextColor: passwordFieldOutlined ? "white" : "white"
-
-        background: Rectangle {
-            radius: 100
-            color: "white"
-            opacity: 0.45
-            // border.color: "#ffffff"
-            // border.width: 2
-        }
+        color: "white"
     }
 
-    PlasmaComponents3.TextField {
+    Input {
         id: passwordBox
         Layout.fillWidth: true
         font.pointSize: fontSize + 1
@@ -109,14 +102,6 @@ SessionManagementScreen {
         placeholderTextColor: passwordFieldOutlined ? "white" : "white"
         passwordCharacter: config.PasswordFieldCharacter == "" ? "●" : config.PasswordFieldCharacter
         color: "white"
-
-        background: Rectangle {
-            radius: 100
-            color: "white"
-            opacity: 0.45
-            // border.color: "#ffffff"
-            // border.width: 2
-        }
 
         Keys.onEscapePressed: {
             mainStack.currentItem.forceActiveFocus();
