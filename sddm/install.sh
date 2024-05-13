@@ -36,16 +36,15 @@ prompt () {
 }
 
 if [[ "$(command -v plasmashell)" ]]; then
-  plasmashell -v
   PLASMA_VERSION="$(plasmashell -v | cut -d ' ' -f 2 | cut -d . -f -1)"
   if [[ "${PLASMA_VERSION:-}" -ge "6" ]]; then
     DESK_VERSION="6.0"
   elif [[ "${SHELL_VERSION:-}" -ge "5" ]]; then
     DESK_VERSION="5.0"
   fi
-  else
-    echo "'plasmashell' not found, using styles for last plasmashell version available."
-    DESK_VERSION="6.0"
+else
+  prompt -e "'plasmashell' not found, using styles for last plasmashell version available."
+  DESK_VERSION="6.0"
 fi
 
 install () {
@@ -63,7 +62,6 @@ install () {
 
 # Checking for root access and proceed if it is present
 if [ "$UID" -eq "$ROOT_UID" ]; then
-  echo
   name="WhiteSur"
   color="-light" && install
   color="-dark" && install
