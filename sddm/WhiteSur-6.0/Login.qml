@@ -86,6 +86,9 @@ SessionManagementScreen {
         placeholderText: i18nd("plasma_lookandfeel_org.kde.lookandfeel", "Username")
         placeholderTextColor: passwordFieldOutlined ? "white" : "white"
         color: "white"
+        //horizontalAlignment: TextInput.AlignHCenter
+        leftPadding: fontSize
+        rightPadding: leftPadding
     }
 
     Input {
@@ -102,6 +105,9 @@ SessionManagementScreen {
         placeholderTextColor: passwordFieldOutlined ? "white" : "white"
         passwordCharacter: config.PasswordFieldCharacter == "" ? "●" : config.PasswordFieldCharacter
         color: "white"
+        //horizontalAlignment: TextInput.AlignHCenter
+        leftPadding: fontSize
+        rightPadding: leftPadding
 
         Keys.onEscapePressed: {
             mainStack.currentItem.forceActiveFocus();
