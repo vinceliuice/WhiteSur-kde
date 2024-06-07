@@ -14,6 +14,8 @@
         "Name": "WhiteSur-dark",
         "Website": "https://github.com/vinceliuice/WhiteSur-kde",
         "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
-        "X-Plasma-APIVersion": "2"
+        "X-Plasma-APIVersion": "2",
+        "X-Plasma-MainScript": "defaults",
+        "X-KPackage-Dependencies": "kns://colorschemes.knsrc/api.kde-look.org/1398831,kns://plasma-themes.knsrc/api.kde-look.org/1400409,kns://aurorae.knsrc/api.kde-look.org/1398835,kns://wallpaper.knsrc/api.kde-look.org/1398833,kns://sddmtheme.knsrc/api.kde-look.org/1398839,kns://icons.knsrc/api.kde-look.org/1405756,kns://xcursor.knsrc/api.kde-look.org/1411743"
     }
 }
