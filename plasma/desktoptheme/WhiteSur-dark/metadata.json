@@ -1,0 +1,21 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "vinceliuice@hotmail.com",
+                "Name": "Vince Liuice"
+            }
+        ],
+        "Category": "Plasma 6.0 theme",
+        "Description": "WhiteSur dark by Vince Liuice",
+        "Description[zh_CN]": "WhiteSur 暗黑苹果主题，由 Vince Liuice (视觉设计师) 设计制作",
+        "EnabledByDefault": true,
+        "Id": "WhiteSur-dark",
+        "License": "GPL-3.0",
+        "Name": "WhiteSur-dark",
+        "Name[zh_CN]": "WhiteSur 暗黑苹果",
+        "Version": "6.2.0",
+        "Website": "https://github.com/vinceliuice"
+    },
+    "X-Plasma-API": "5.0"
+}

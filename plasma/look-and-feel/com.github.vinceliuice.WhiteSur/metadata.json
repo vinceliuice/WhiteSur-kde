@@ -7,15 +7,28 @@
                 "Name": "Vince Liuice"
             }
         ],
-        "Category": "",
-        "Description": "MacOS Big Sur theme for kde plasma",
+         "Category": "Global Themes (Plasma 6)",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "EnabledByDefault": true,
+        "Description": "MacOS like theme for kde plasma",
         "Id": "com.github.vinceliuice.WhiteSur",
         "License": "GPLv3",
         "Name": "WhiteSur",
-        "Website": "https://github.com/vinceliuice/WhiteSur-kde",
-        "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
-        "X-Plasma-APIVersion": "2",
-        "X-Plasma-MainScript": "defaults",
-        "X-KPackage-Dependencies": "kns://colorschemes.knsrc/api.kde-look.org/1398831,kns://plasma-themes.knsrc/api.kde-look.org/1398837,kns://aurorae.knsrc/api.kde-look.org/1398835,kns://wallpaper.knsrc/api.kde-look.org/1398833,kns://sddmtheme.knsrc/api.kde-look.org/1398839,kns://icons.knsrc/api.kde-look.org/1405756,kns://xcursor.knsrc/api.kde-look.org/1411743"
-    }
+        "Website": "https://github.com/vinceliuice/WhiteSur-kde"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+    "X-KDE-fallbackPackage": "org.kde.breeze.desktop",
+    "X-Plasma-MainScript": "defaults",
+    "X-Plasma-APIVersion": "2",
+    "X-KPackage-Dependencies": [
+        "kns://colorschemes.knsrc/api.kde-look.org/1398831",
+        "kns://plasma-themes.knsrc/api.kde-look.org/1398837",
+        "kns://aurorae.knsrc/api.kde-look.org/1398835",
+        "kns://wallpaper.knsrc/api.kde-look.org/1398833",
+        "kns://sddmtheme.knsrc/api.kde-look.org/1398839",
+        "kns://icons.knsrc/api.kde-look.org/1405756",
+        "kns://xcursor.knsrc/api.kde-look.org/1411743"
+    ]
 }
