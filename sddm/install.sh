@@ -39,7 +39,7 @@ if [[ "$(command -v plasmashell)" ]]; then
   PLASMA_VERSION="$(plasmashell -v | cut -d ' ' -f 2 | cut -d . -f -1)"
   if [[ "${PLASMA_VERSION:-}" -ge "6" ]]; then
     DESK_VERSION="6.0"
-  elif [[ "${SHELL_VERSION:-}" -ge "5" ]]; then
+  elif [[ "${PLASMA_VERSION:-}" -ge "5" ]]; then
     DESK_VERSION="5.0"
   fi
 else
