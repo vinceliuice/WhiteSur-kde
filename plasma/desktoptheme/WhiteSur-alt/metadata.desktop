@@ -1,5 +1,7 @@
 [Desktop Entry]
 Name=WhiteSur-alt
+Comment=Brings a MacOS like theme to the desktop
+
 X-KDE-PluginInfo-Author=Vinceliuice
 X-KDE-PluginInfo-Category=
 X-KDE-PluginInfo-Depends=
@@ -7,8 +9,9 @@ X-KDE-PluginInfo-Email=vinceliuice@hotmail.com
 X-KDE-PluginInfo-EnabledByDefault=true
 X-KDE-PluginInfo-License=GPL3.0
 X-KDE-PluginInfo-Name=WhiteSur-alt
-X-KDE-PluginInfo-Version=.0.4
+X-KDE-PluginInfo-Version=0.1
 X-KDE-PluginInfo-Website=
+X-Plasma-API=5.0
 
 [Wallpaper]
 defaultWallpaperTheme=WhiteSur-light
@@ -16,5 +19,17 @@ defaultFileSuffix=.png
 defaultHeight=2160
 defaultWidth=3840
 
+[ContrastEffect]
+enabled=true
+contrast=0.3
+intensity=1.9
+saturation=1.9
+
 [AdaptiveTransparency]
 enabled = true
+
+[Settings]
+FallbackTheme=oxygen
+
+[BlurBehindEffect]
+enabled=true
