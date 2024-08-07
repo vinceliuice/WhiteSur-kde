@@ -67,12 +67,14 @@ install() {
     cp -r ${SRC_DIR}/aurorae/common/assets${color}/*.svg                             ${AURORAE_DIR}/${name}${color}-sharp_x1.25
     cp -r ${SRC_DIR}/aurorae/common/assets${color}/*.svg                             ${AURORAE_DIR}/${name}${color}-sharp_x1.5
     cp -r ${SRC_DIR}/aurorae/common/assets${color}/*.svg                             ${AURORAE_DIR}/${name}${color}-sharp_x1.75
+    cp -r ${SRC_DIR}/aurorae/common/assets${color}/*.svg                             ${AURORAE_DIR}/${name}${color}-sharp_x2.0
   elif [[ "${opaque}" == "true" ]]; then
     cp -r ${SRC_DIR}/aurorae/opaque/${name}${color}*                                 ${AURORAE_DIR}
     cp -r ${SRC_DIR}/aurorae/common/assets${color}/*.svg                             ${AURORAE_DIR}/${name}${color}-opaque
     cp -r ${SRC_DIR}/aurorae/common/assets${color}/*.svg                             ${AURORAE_DIR}/${name}${color}-opaque_x1.25
     cp -r ${SRC_DIR}/aurorae/common/assets${color}/*.svg                             ${AURORAE_DIR}/${name}${color}-opaque_x1.5
     cp -r ${SRC_DIR}/aurorae/common/assets${color}/*.svg                             ${AURORAE_DIR}/${name}${color}-opaque_x1.75
+    cp -r ${SRC_DIR}/aurorae/common/assets${color}/*.svg                             ${AURORAE_DIR}/${name}${color}-opaque_x2.0
   fi
 
   cp -r ${SRC_DIR}/aurorae/normal/${name}${color}*                                   ${AURORAE_DIR}
@@ -80,6 +82,7 @@ install() {
   cp -r ${SRC_DIR}/aurorae/common/assets${color}/*.svg                               ${AURORAE_DIR}/${name}${color}_x1.25
   cp -r ${SRC_DIR}/aurorae/common/assets${color}/*.svg                               ${AURORAE_DIR}/${name}${color}_x1.5
   cp -r ${SRC_DIR}/aurorae/common/assets${color}/*.svg                               ${AURORAE_DIR}/${name}${color}_x1.75
+  cp -r ${SRC_DIR}/aurorae/common/assets${color}/*.svg                               ${AURORAE_DIR}/${name}${color}_x2.0
 
   cp -r ${SRC_DIR}/Kvantum/${name}                                                   ${KVANTUM_DIR}
 
