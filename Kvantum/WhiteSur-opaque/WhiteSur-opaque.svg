@@ -4,8 +4,8 @@
    version="1.0"
    height="800"
    id="svg1685"
-   sodipodi:docname="WhiteSur-solid.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="WhiteSur-opaque.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -36,16 +36,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1446"
-     inkscape:window-height="866"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
      id="namedview1687"
      showgrid="false"
-     inkscape:zoom="11.313709"
-     inkscape:cx="166.833"
-     inkscape:cy="772.16059"
-     inkscape:window-x="373"
-     inkscape:window-y="54"
-     inkscape:window-maximized="0"
+     inkscape:zoom="0.35355341"
+     inkscape:cx="-548.71484"
+     inkscape:cy="459.61939"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg1685"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
@@ -56,10 +56,18 @@
      inkscape:snap-intersection-paths="true"
      inkscape:object-paths="true"
      inkscape:document-rotation="0"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid3760" />
+       id="grid3760"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="false" />
   </sodipodi:namedview>
   <defs
      id="defs275">
@@ -700,6 +708,58 @@
        id="linearGradient10510"
        xlink:href="#button_shadow"
        inkscape:collect="always" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1"
+       x="-0.094335029"
+       y="-0.12629449"
+       width="1.1886701"
+       height="1.252589">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.32958018"
+         id="feGaussianBlur1" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2"
+       x="-0.36749936"
+       y="-0.091875038"
+       width="1.7349987"
+       height="1.1837501">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.30624947"
+         id="feGaussianBlur2" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter12"
+       x="-0.147"
+       y="-0.147"
+       width="1.294"
+       height="1.294">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.245"
+         id="feGaussianBlur12" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter13"
+       x="-0.36750001"
+       y="-0.091875002"
+       width="1.735"
+       height="1.18375">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.30625"
+         id="feGaussianBlur13" />
+    </filter>
   </defs>
   <g
      transform="matrix(3.7795276,0,0,3.7795276,394.99999,-341.99999)"
@@ -2321,1096 +2381,6 @@
      xlink:href="#le-focused-topleft"
      id="le-focused-bottomright"
      transform="rotate(180,425,94)" />
-  <g
-     transform="translate(19,227.63782)"
-     style="display:inline;opacity:1"
-     id="checkbox-checked-normal"
-     inkscape:label="#checkbox-checked-normal">
-    <g
-       inkscape:label="#g22047"
-       id="checkbox-unchecked-5-59"
-       style="display:inline"
-       transform="translate(19)">
-      <g
-         id="sdsd-7-54"
-         inkscape:label="#g21853">
-        <g
-           transform="translate(0,-30)"
-           inkscape:label="#g14325"
-           id="scdsdcd-5-8">
-          <g
-             transform="matrix(0.92951982,0,0,0.92914368,-156.75069,-212.9618)"
-             id="g15812-6-6-1-5-4"
-             style="display:inline">
-            <g
-               style="display:inline"
-               id="g5489-2-9-6-8-8-53-5"
-               transform="matrix(0.5089163,0,0,0.51739823,161.7932,197.56426)">
-              <g
-                 id="g5428-8-1-4-0-0-4-2" />
-            </g>
-          </g>
-          <rect
-             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
-             id="rect13523-7-11"
-             width="16"
-             height="16"
-             x="17"
-             y="30.362183" />
-          <g
-             id="g5400-6-68">
-            <rect
-               ry="2.9999993"
-               style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#0860f2;fill-opacity:1;stroke:none;stroke-width:1.14285803;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:fill markers stroke;enable-background:accumulate"
-               id="rect1924"
-               width="14.000002"
-               height="14.000003"
-               x="18"
-               y="31.362181"
-               rx="3" />
-          </g>
-        </g>
-      </g>
-    </g>
-    <g
-       inkscape:label="Ebene 1"
-       id="checkbox-checked-dark-7-37"
-       transform="translate(36,-1036)"
-       style="display:inline">
-      <g
-         id="g3981-6-4-97"
-         transform="rotate(45,-3.2604448,1033.6624)"
-         style="opacity:0.85;fill:#1a1a1a;fill-opacity:1" />
-      <g
-         id="g4049-2-5"
-         transform="rotate(45,7.4999938,1026.3622)">
-        <g
-           id="g4056-7-6"
-           transform="translate(12.374375,11.531233)">
-          <g
-             id="g3981-0-8"
-             transform="translate(-3,-4.9999826)"
-             style="fill:#3b3c3e;fill-opacity:1">
-            <path
-               style="fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter1536)"
-               d="m 154.15625,15.880859 c -0.25562,0 -0.51116,0.0971 -0.70703,0.292969 l -3.53516,3.535156 -1.47851,-1.476562 c -0.35638,-0.356375 -0.95788,-0.329234 -1.34961,0.0625 -0.39174,0.391734 -0.42083,0.995188 -0.0645,1.351562 l 2.18555,2.183594 0.0644,0.06445 c 0.35638,0.356375 0.95788,0.327281 1.34961,-0.06445 l 4.24219,-4.242187 c 0.39174,-0.391738 0.39174,-1.022326 0,-1.414063 -0.19587,-0.195868 -0.45141,-0.292969 -0.70703,-0.292969 z"
-               transform="rotate(-45,1304.0439,694.22022)"
-               id="rect3977-39-90"
-               inkscape:connector-curvature="0" />
-          </g>
-          <rect
-             style="fill:#eeeeee;fill-opacity:0;stroke:none"
-             id="rect4047-81-5"
-             width="3"
-             height="1"
-             x="5"
-             y="-8"
-             transform="translate(0,1036.3622)" />
-        </g>
-      </g>
-    </g>
-  </g>
-  <g
-     transform="translate(38,227.63782)"
-     style="display:inline;opacity:1"
-     id="checkbox-tristate-normal"
-     inkscape:label="#checkbox-tristate-normal">
-    <g
-       inkscape:label="#g22047"
-       id="checkbox-unchecked-5-4-5"
-       style="display:inline"
-       transform="translate(19)">
-      <g
-         id="sdsd-7-0-0"
-         inkscape:label="#g21853">
-        <g
-           transform="translate(0,-30)"
-           inkscape:label="#g14325"
-           id="scdsdcd-5-2-0">
-          <g
-             transform="matrix(0.92951982,0,0,0.92914368,-156.75069,-212.9618)"
-             id="g15812-6-6-1-5-7-81"
-             style="display:inline">
-            <g
-               style="display:inline"
-               id="g5489-2-9-6-8-8-53-1-7"
-               transform="matrix(0.5089163,0,0,0.51739823,161.7932,197.56426)">
-              <g
-                 id="g5428-8-1-4-0-0-4-5-0" />
-            </g>
-          </g>
-          <rect
-             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
-             id="rect13523-7-8-6"
-             width="16"
-             height="16"
-             x="17"
-             y="30.362183" />
-          <g
-             id="g5400-6-9-3">
-            <rect
-               ry="2.9999993"
-               style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#0860f2;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-               id="rect1926"
-               width="14.000001"
-               height="14.000003"
-               x="17.999998"
-               y="31.362181"
-               rx="3" />
-          </g>
-        </g>
-      </g>
-    </g>
-    <g
-       inkscape:label="Ebene 1"
-       id="checkbox-checked-dark-7-9-3"
-       transform="translate(36,-1036)"
-       style="display:inline">
-      <g
-         id="g3981-6-4-9-8"
-         transform="rotate(45,-3.2604448,1033.6624)"
-         style="opacity:0.85;fill:#1a1a1a;fill-opacity:1" />
-      <g
-         id="g4049-2-9-34"
-         transform="rotate(45,7.4999938,1026.3622)">
-        <g
-           id="g4056-7-0-9"
-           transform="translate(12.374375,11.531233)">
-          <g
-             id="g3981-0-1-9"
-             transform="translate(-3,-4.9999826)"
-             style="fill:#3b3c3e;fill-opacity:1">
-            <rect
-               transform="rotate(-135)"
-               style="opacity:0.35;fill:#000000;fill-opacity:1;stroke:none"
-               id="rect1879"
-               width="2"
-               height="7.9999828"
-               x="-739.2793"
-               y="-725.95471"
-               ry="1" />
-            <rect
-               ry="1"
-               y="-725.95471"
-               x="-738.80396"
-               height="7.9999828"
-               width="2"
-               id="rect3979-7-3-4"
-               style="fill:#ffffff;fill-opacity:1;stroke:none"
-               transform="rotate(-135)" />
-          </g>
-          <rect
-             style="fill:#eeeeee;fill-opacity:0;stroke:none"
-             id="rect4047-81-4-5"
-             width="3"
-             height="1"
-             x="5"
-             y="-8"
-             transform="translate(0,1036.3622)" />
-        </g>
-      </g>
-    </g>
-  </g>
-  <g
-     transform="translate(18,227.63782)"
-     style="display:inline;opacity:1"
-     id="radio-checked-normal"
-     inkscape:label="#radio-checked-normal">
-    <g
-       transform="translate(19.004264,-4.6992607e-6)"
-       inkscape:label="#g10975"
-       id="radio-unchecked-2-1"
-       style="display:inline">
-      <g
-         id="g10964-6-63">
-        <g
-           inkscape:label="#g15805"
-           transform="matrix(0.93617253,0,0,0.93566004,-96.78315,-244.76084)"
-           id="radio-unchecked2-0-8"
-           style="display:inline">
-          <g
-             style="display:inline;opacity:0.06000001;fill:#000000;fill-opacity:1"
-             id="g7025-09-0-5"
-             transform="translate(0,1.0687628)">
-            <g
-               transform="matrix(0.5089163,0,0,0.51739823,181.7932,197.56426)"
-               id="g5489-2-9-3-2-6-2"
-               style="display:inline;fill:#000000;fill-opacity:1">
-              <g
-                 id="g5428-8-1-7-5-4-7"
-                 style="fill:#000000;fill-opacity:1" />
-            </g>
-          </g>
-          <rect
-             y="261.97873"
-             x="206.99057"
-             height="17.100227"
-             width="17.090866"
-             id="rect14348-4-8-5"
-             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
-          <g
-             id="g7025-09-09">
-            <g
-               transform="matrix(0.5089163,0,0,0.51739823,181.7932,197.56426)"
-               id="g5489-2-9-3-2-28"
-               style="display:inline">
-              <g
-                 id="g5428-8-1-7-5-64">
-                <rect
-                   ry="14.459561"
-                   style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#0860f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-                   id="rect1934"
-                   width="29.385004"
-                   height="28.919123"
-                   x="51.610748"
-                   y="126.56253"
-                   rx="14.692502" />
-              </g>
-            </g>
-          </g>
-        </g>
-      </g>
-    </g>
-    <rect
-       rx="1.9988754"
-       y="6.3621826"
-       x="122"
-       height="4"
-       width="4"
-       id="use15101-5-7-55"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.08838987;marker:none;filter:url(#filter1488);enable-background:accumulate"
-       ry="2" />
-  </g>
-  <g
-     transform="translate(-4,227.63782)"
-     style="display:inline;opacity:1"
-     id="checkbox-normal"
-     inkscape:label="#checkbox-normal">
-    <g
-       inkscape:label="#g21853"
-       id="sdsd-0-1">
-      <g
-         id="scdsdcd-0-4"
-         inkscape:label="#g14325"
-         transform="translate(0,-30)">
-        <g
-           style="display:inline"
-           id="g15812-6-6-1-4-4"
-           transform="matrix(0.92951982,0,0,0.92914368,-156.75069,-212.9618)">
-          <g
-             transform="matrix(0.5089163,0,0,0.51739823,161.7932,197.56426)"
-             id="g5489-2-9-6-8-8-9-7"
-             style="display:inline">
-            <g
-               id="g5428-8-1-4-0-0-65-8" />
-          </g>
-        </g>
-        <rect
-           y="30.362183"
-           x="17"
-           height="16"
-           width="16"
-           id="rect13523-4-0"
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
-        <g
-           id="g5400-2-47">
-          <rect
-             ry="2.9999993"
-             style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.15;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.07692313;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-             id="rect5147-9-1-5-7-6-3-70"
-             width="14"
-             height="13.999997"
-             x="18"
-             y="31.362181"
-             rx="3" />
-          <rect
-             rx="2"
-             y="32.362179"
-             x="19"
-             height="11.999998"
-             width="12.000001"
-             id="rect2426"
-             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.07692313;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-             ry="2.0000012" />
-        </g>
-      </g>
-    </g>
-  </g>
-  <g
-     transform="translate(-0.99573597,227.63781)"
-     style="display:inline;opacity:1"
-     id="radio-normal"
-     inkscape:label="#radio-normal">
-    <g
-       id="g10964-4-5">
-      <g
-         style="display:inline"
-         id="radio-unchecked2-6-5"
-         transform="matrix(0.93617253,0,0,0.93566004,-96.78315,-244.76084)"
-         inkscape:label="#g15805">
-        <rect
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
-           id="rect14348-4-3-9"
-           width="17.090866"
-           height="17.100227"
-           x="206.99057"
-           y="261.97873" />
-        <g
-           id="g7025-3-9">
-          <g
-             style="display:inline"
-             id="g5489-2-9-3-8-0"
-             transform="matrix(0.5089163,0,0,0.51739823,181.7932,197.56426)">
-            <g
-               id="g5428-8-1-7-83-7">
-              <rect
-                 rx="14.692502"
-                 y="126.56254"
-                 x="51.610748"
-                 height="28.919115"
-                 width="29.385004"
-                 id="rect1938"
-                 style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.12000002;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.56274343;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-                 ry="14.27444" />
-              <rect
-                 ry="12.235235"
-                 style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.24240041;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-                 id="rect5147-9-1-7-7-61"
-                 width="25.187149"
-                 height="24.787817"
-                 x="53.709671"
-                 y="128.6282"
-                 rx="12.593574" />
-            </g>
-          </g>
-        </g>
-      </g>
-    </g>
-  </g>
-  <g
-     style="display:inline"
-     id="checkbox-checked-normal-inactive"
-     inkscape:label="#checkbox-checked-normal-inactive"
-     transform="translate(-79.878691,495.52871)">
-    <g
-       transform="translate(118,-248.89089)"
-       style="display:inline;opacity:0.6"
-       id="g1927"
-       inkscape:label="#g22047">
-      <g
-         inkscape:label="#g21853"
-         id="g1925">
-        <g
-           id="g1923"
-           inkscape:label="#g14325"
-           transform="translate(0,-30)">
-          <g
-             style="display:inline"
-             id="g1915"
-             transform="matrix(0.92951982,0,0,0.92914368,-156.75069,-212.9618)">
-            <g
-               transform="matrix(0.5089163,0,0,0.51739823,161.7932,197.56426)"
-               id="g1913"
-               style="display:inline">
-              <g
-                 id="g1911" />
-            </g>
-          </g>
-          <rect
-             y="30.362183"
-             x="17"
-             height="16"
-             width="16"
-             id="rect1917"
-             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
-          <g
-             id="g1921">
-            <rect
-               rx="3.0000017"
-               y="31.362183"
-               x="17.878691"
-               height="14.000002"
-               width="14.000001"
-               id="rect1928"
-               style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.23999999;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.23076928;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-               ry="2.9999974" />
-            <rect
-               ry="2.0000012"
-               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.07692301;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-               id="rect1919"
-               width="12.000005"
-               height="12.000005"
-               x="18.878689"
-               y="32.362179"
-               rx="2.0000017" />
-          </g>
-        </g>
-      </g>
-    </g>
-    <g
-       inkscape:label="Ebene 1"
-       id="checkbox-checked-dark-7-95-4"
-       transform="translate(134.90675,-1284.8579)"
-       style="display:inline">
-      <g
-         id="g3981-6-4-3-5"
-         transform="rotate(45,-3.2604448,1033.6624)"
-         style="opacity:0.85;fill:#1a1a1a;fill-opacity:1" />
-      <g
-         id="g4049-2-1-3"
-         transform="rotate(45,7.4999938,1026.3622)">
-        <g
-           id="g4056-7-9-9"
-           transform="translate(12.374375,11.531233)">
-          <g
-             id="g3981-0-4-2"
-             transform="translate(-3,-4.9999826)"
-             style="fill:#3b3c3e;fill-opacity:1">
-            <path
-               style="fill:#808080;fill-opacity:1;stroke:none;filter:url(#filter1524)"
-               d="m 154.15625,34.880859 c -0.25562,0 -0.51116,0.0971 -0.70703,0.292969 l -3.53516,3.535156 -1.43164,-1.429687 c -0.38234,-0.382344 -1.00475,-0.376109 -1.39648,0.01563 -0.39174,0.391734 -0.39992,1.016094 -0.0176,1.398437 l 2.13867,2.136719 0.0176,0.01758 c 0.38234,0.382344 1.00475,0.374156 1.39648,-0.01758 l 4.24219,-4.242187 c 0.39174,-0.391738 0.39174,-1.022326 0,-1.414063 -0.19587,-0.195868 -0.45141,-0.292969 -0.70703,-0.292969 z"
-               transform="rotate(-45,1281.1089,703.72022)"
-               id="rect3977-39-0-3"
-               inkscape:connector-curvature="0" />
-          </g>
-          <rect
-             style="fill:#eeeeee;fill-opacity:0;stroke:none"
-             id="rect4047-81-9-6"
-             width="3"
-             height="1"
-             x="5"
-             y="-8"
-             transform="translate(0,1036.3622)" />
-        </g>
-      </g>
-    </g>
-  </g>
-  <g
-     style="display:inline"
-     id="checkbox-tristate-normal-inactive"
-     inkscape:label="#checkbox-tristate-normal-inactive"
-     transform="translate(-79.878691,495.52871)">
-    <g
-       inkscape:label="#g22047"
-       id="g1945"
-       style="display:inline;opacity:0.6"
-       transform="translate(137,-248.89089)">
-      <g
-         id="g1943"
-         inkscape:label="#g21853">
-        <g
-           transform="translate(0,-30)"
-           inkscape:label="#g14325"
-           id="g1941">
-          <g
-             transform="matrix(0.92951982,0,0,0.92914368,-156.75069,-212.9618)"
-             id="g1933"
-             style="display:inline">
-            <g
-               style="display:inline"
-               id="g1931"
-               transform="matrix(0.5089163,0,0,0.51739823,161.7932,197.56426)">
-              <g
-                 id="g1929" />
-            </g>
-          </g>
-          <rect
-             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
-             id="rect1935"
-             width="16"
-             height="16"
-             x="17"
-             y="30.362183" />
-          <g
-             id="g1939">
-            <rect
-               ry="2.9999993"
-               style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.23999999;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.23076928;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-               id="rect1930"
-               width="14.000006"
-               height="14.000007"
-               x="17.878689"
-               y="31.362181"
-               rx="3.0000036" />
-            <rect
-               rx="2.0000036"
-               y="32.362179"
-               x="18.878689"
-               height="12.000006"
-               width="12.000006"
-               id="rect1937"
-               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.07692313;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-               ry="2.0000012" />
-          </g>
-        </g>
-      </g>
-    </g>
-    <g
-       inkscape:label="Ebene 1"
-       id="checkbox-checked-dark-7-9-57-75"
-       transform="translate(153.99996,-1284.9037)"
-       style="display:inline">
-      <g
-         id="g3981-6-4-9-3-7"
-         transform="rotate(45,-3.2604448,1033.6624)"
-         style="opacity:0.85;fill:#1a1a1a;fill-opacity:1" />
-      <g
-         id="g4049-2-9-7-5"
-         transform="rotate(45,7.4999938,1026.3622)">
-        <g
-           id="g4056-7-0-8-4"
-           transform="translate(12.374375,11.531233)">
-          <g
-             id="g3981-0-1-4-7"
-             transform="translate(-3,-4.9999826)"
-             style="fill:#3b3c3e;fill-opacity:1">
-            <rect
-               transform="rotate(-135)"
-               style="opacity:0.35;fill:#000000;fill-opacity:1;stroke:none"
-               id="rect1883"
-               width="2"
-               height="7.9999828"
-               x="-739.2793"
-               y="-725.95471"
-               ry="1" />
-            <rect
-               ry="1"
-               y="-725.95471"
-               x="-738.80396"
-               height="7.9999828"
-               width="2"
-               id="rect3979-7-3-91-5"
-               style="fill:#808080;fill-opacity:1;stroke:none"
-               transform="rotate(-135)" />
-          </g>
-          <rect
-             style="fill:#eeeeee;fill-opacity:0;stroke:none"
-             id="rect4047-81-4-2-21"
-             width="3"
-             height="1"
-             x="5"
-             y="-8"
-             transform="translate(0,1036.3622)" />
-        </g>
-      </g>
-    </g>
-  </g>
-  <g
-     style="display:inline"
-     id="radio-checked-normal-inactive"
-     inkscape:label="#radio-checked-normal-inactive"
-     transform="translate(-62,495.52869)">
-    <g
-       transform="translate(99.004264,-248.89088)"
-       style="display:inline;opacity:0.6"
-       id="g1961"
-       inkscape:label="#g10975">
-      <g
-         id="g1959">
-        <g
-           style="display:inline"
-           id="g1957"
-           transform="matrix(0.93617253,0,0,0.93566004,-96.78315,-244.76084)"
-           inkscape:label="#g15805">
-          <rect
-             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
-             id="rect1947"
-             width="17.090866"
-             height="17.100227"
-             x="206.99057"
-             y="261.97873" />
-          <g
-             id="g1955">
-            <g
-               style="display:inline"
-               id="g1953"
-               transform="matrix(0.5089163,0,0,0.51739823,181.7932,197.56426)">
-              <g
-                 id="g1951">
-                <rect
-                   rx="14.232189"
-                   y="126.56254"
-                   x="51.610748"
-                   height="28.919115"
-                   width="29.385004"
-                   id="rect1940"
-                   style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.56274343;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-                   ry="14.274442" />
-                <rect
-                   ry="12.235237"
-                   style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.24240065;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-                   id="rect1949"
-                   width="25.187149"
-                   height="24.787817"
-                   x="53.709671"
-                   y="128.62819"
-                   rx="12.199021" />
-              </g>
-            </g>
-          </g>
-        </g>
-      </g>
-    </g>
-    <rect
-       rx="1.9988754"
-       y="-242.52869"
-       x="202"
-       height="4"
-       width="4"
-       id="use15101-5-7-2-5"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;stroke:none;stroke-width:2.08838987;marker:none;filter:url(#filter1452);enable-background:accumulate"
-       ry="2" />
-  </g>
-  <g
-     inkscape:label="#radio-focused"
-     id="radio-focused"
-     style="display:inline;opacity:1"
-     transform="translate(19.004264,227.63781)">
-    <g
-       id="g6444">
-      <g
-         inkscape:label="#g15805"
-         transform="matrix(0.93617253,0,0,0.93566004,-96.78315,-244.76084)"
-         id="g6442"
-         style="display:inline">
-        <rect
-           y="261.97873"
-           x="206.99057"
-           height="17.100227"
-           width="17.090866"
-           id="rect6428"
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
-        <g
-           id="g6440">
-          <g
-             transform="matrix(0.5089163,0,0,0.51739823,181.7932,197.56426)"
-             id="g6438"
-             style="display:inline">
-            <g
-               id="g6436">
-              <rect
-                 ry="14.274437"
-                 style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.12000002;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.56274343;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-                 id="rect6430"
-                 width="29.384996"
-                 height="28.919109"
-                 x="51.610752"
-                 y="126.56255"
-                 rx="14.692498" />
-              <rect
-                 rx="12.593574"
-                 y="128.6282"
-                 x="53.709671"
-                 height="24.787817"
-                 width="25.187149"
-                 id="rect6432"
-                 style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.24240041;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-                 ry="12.235235" />
-            </g>
-          </g>
-        </g>
-      </g>
-    </g>
-  </g>
-  <g
-     inkscape:label="#checkbox-focused"
-     id="checkbox-focused"
-     style="display:inline;opacity:1"
-     transform="translate(16,227.63782)">
-    <g
-       id="g6470"
-       inkscape:label="#g21853">
-      <g
-         transform="translate(0,-30)"
-         inkscape:label="#g14325"
-         id="g6468">
-        <g
-           transform="matrix(0.92951982,0,0,0.92914368,-156.75069,-212.9618)"
-           id="g6456"
-           style="display:inline">
-          <g
-             style="display:inline"
-             id="g6454"
-             transform="matrix(0.5089163,0,0,0.51739823,161.7932,197.56426)">
-            <g
-               id="g6452" />
-          </g>
-        </g>
-        <rect
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
-           id="rect6458"
-           width="16"
-           height="16"
-           x="17"
-           y="30.362183" />
-        <g
-           id="g6466">
-          <rect
-             ry="2.9999993"
-             style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.12000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.2307694;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-             id="rect6460"
-             width="14"
-             height="14"
-             x="18"
-             y="31.362181"
-             rx="3" />
-          <rect
-             rx="2"
-             y="32.362179"
-             x="19"
-             height="11.999997"
-             width="12"
-             id="rect6462"
-             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.07692313;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-             ry="2.0000012" />
-        </g>
-      </g>
-    </g>
-  </g>
-  <use
-     x="0"
-     y="0"
-     xlink:href="#checkbox-checked-normal"
-     id="menu-checkbox-checked-normal"
-     transform="translate(0.44313037,49.007577)"
-     width="100%"
-     height="100%" />
-  <use
-     x="0"
-     y="0"
-     xlink:href="#checkbox-tristate-normal"
-     id="item-checkbox-tristate-normal"
-     transform="translate(102,49.999997)"
-     width="100%"
-     height="100%" />
-  <use
-     x="0"
-     y="0"
-     xlink:href="#radio-checked-normal"
-     id="menu-radio-checked-normal"
-     transform="translate(0.44313037,49.007579)"
-     width="100%"
-     height="100%" />
-  <use
-     x="0"
-     y="0"
-     xlink:href="#checkbox-normal"
-     id="menu-checkbox-normal"
-     transform="translate(3.7e-7,49.007576)"
-     width="100%"
-     height="100%" />
-  <use
-     x="0"
-     y="0"
-     xlink:href="#radio-normal"
-     id="menu-radio-normal"
-     transform="translate(0.44312631,49.007574)"
-     width="100%"
-     height="100%" />
-  <g
-     id="menu-checkbox-checked-focused"
-     transform="translate(-472.99999,-126.95275)">
-    <g
-       inkscape:label="#g22047"
-       id="g6597"
-       style="display:inline;opacity:1"
-       transform="translate(533.1213,403.59057)">
-      <g
-         id="g6595"
-         inkscape:label="#g21853">
-        <g
-           transform="translate(0,-30)"
-           inkscape:label="#g14325"
-           id="g6593">
-          <g
-             transform="matrix(0.92951982,0,0,0.92914368,-156.75069,-212.9618)"
-             id="g6581"
-             style="display:inline">
-            <g
-               style="display:inline"
-               id="g6579"
-               transform="matrix(0.5089163,0,0,0.51739823,161.7932,197.56426)">
-              <g
-                 id="g6577" />
-            </g>
-          </g>
-          <rect
-             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
-             id="rect6583"
-             width="16"
-             height="16"
-             x="17"
-             y="30.362183" />
-          <g
-             id="g6591">
-            <rect
-               ry="2.9999974"
-               style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.23076928;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-               id="rect6585"
-               width="13.999998"
-               height="14"
-               x="17.878691"
-               y="31.362183"
-               rx="2.9999988" />
-          </g>
-        </g>
-      </g>
-    </g>
-    <g
-       id="g6609"
-       transform="rotate(45,1045.8599,1374.1166)">
-      <g
-         id="g6607"
-         transform="translate(12.374375,11.531233)">
-        <g
-           id="g6603"
-           transform="translate(-3,-4.9999826)"
-           style="fill:#3b3c3e;fill-opacity:1">
-          <path
-             style="fill:#0860f2;fill-opacity:1;stroke:none;filter:url(#filter1524)"
-             d="m 154.15625,34.880859 c -0.25562,0 -0.51116,0.0971 -0.70703,0.292969 l -3.53516,3.535156 -1.43164,-1.429687 c -0.38234,-0.382344 -1.00475,-0.376109 -1.39648,0.01563 -0.39174,0.391734 -0.39992,1.016094 -0.0176,1.398437 l 2.13867,2.136719 0.0176,0.01758 c 0.38234,0.382344 1.00475,0.374156 1.39648,-0.01758 l 4.24219,-4.242187 c 0.39174,-0.391738 0.39174,-1.022326 0,-1.414063 -0.19587,-0.195868 -0.45141,-0.292969 -0.70703,-0.292969 z"
-             transform="rotate(-45,1281.1089,703.72022)"
-             id="path6601"
-             inkscape:connector-curvature="0" />
-        </g>
-        <rect
-           style="fill:#eeeeee;fill-opacity:0;stroke:none"
-           id="rect6605"
-           width="3"
-           height="1"
-           x="5"
-           y="-8"
-           transform="translate(0,1036.3622)" />
-      </g>
-    </g>
-  </g>
-  <use
-     x="0"
-     y="0"
-     xlink:href="#radio-focused"
-     id="menu-radio-focused"
-     transform="translate(0.44312634,49.007574)"
-     width="100%"
-     height="100%" />
-  <use
-     x="0"
-     y="0"
-     xlink:href="#checkbox-focused"
-     id="menu-checkbox-focused"
-     transform="translate(3.7e-7,49.007576)"
-     width="100%"
-     height="100%" />
-  <use
-     x="0"
-     y="0"
-     xlink:href="#checkbox-checked-normal"
-     id="item-checkbox-checked-normal"
-     transform="translate(0,79.999997)"
-     width="100%"
-     height="100%" />
-  <g
-     inkscape:label="#checkbox-tristate-normal"
-     id="item-checkbox-tristate-focused"
-     style="display:inline;opacity:1"
-     transform="translate(160,277.63782)">
-    <g
-       transform="translate(19)"
-       style="display:inline"
-       id="g6755"
-       inkscape:label="#g22047">
-      <g
-         inkscape:label="#g21853"
-         id="g6753">
-        <g
-           id="g6751"
-           inkscape:label="#g14325"
-           transform="translate(0,-30)">
-          <g
-             style="display:inline"
-             id="g6739"
-             transform="matrix(0.92951982,0,0,0.92914368,-156.75069,-212.9618)">
-            <g
-               transform="matrix(0.5089163,0,0,0.51739823,161.7932,197.56426)"
-               id="g6737"
-               style="display:inline">
-              <g
-                 id="g6735" />
-            </g>
-          </g>
-          <rect
-             y="30.362183"
-             x="17"
-             height="16"
-             width="16"
-             id="rect6741"
-             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
-          <g
-             id="g6749">
-            <rect
-               rx="3"
-               y="31.362181"
-               x="17.999998"
-               height="14.000003"
-               width="14.000001"
-               id="rect6743"
-               style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-               ry="2.9999993" />
-          </g>
-        </g>
-      </g>
-    </g>
-    <g
-       style="display:inline"
-       transform="translate(36,-1036)"
-       id="g6771"
-       inkscape:label="Ebene 1">
-      <g
-         style="opacity:0.85;fill:#1a1a1a;fill-opacity:1"
-         transform="rotate(45,-3.2604448,1033.6624)"
-         id="g6757" />
-      <g
-         transform="rotate(45,7.4999938,1026.3622)"
-         id="g6769">
-        <g
-           transform="translate(12.374375,11.531233)"
-           id="g6767">
-          <g
-             style="fill:#3b3c3e;fill-opacity:1"
-             transform="translate(-3,-4.9999826)"
-             id="g6763">
-            <rect
-               ry="1"
-               y="-725.95471"
-               x="-739.2793"
-               height="7.9999828"
-               width="2"
-               id="rect6759"
-               style="opacity:0.35;fill:#000000;fill-opacity:1;stroke:none"
-               transform="rotate(-135)" />
-            <rect
-               transform="rotate(-135)"
-               style="fill:#0860f2;fill-opacity:1;stroke:none"
-               id="rect6761"
-               width="2"
-               height="7.9999828"
-               x="-738.80396"
-               y="-725.95471"
-               ry="1" />
-          </g>
-          <rect
-             transform="translate(0,1036.3622)"
-             y="-8"
-             x="5"
-             height="1"
-             width="3"
-             id="rect6765"
-             style="fill:#eeeeee;fill-opacity:0;stroke:none" />
-        </g>
-      </g>
-    </g>
-  </g>
-  <use
-     x="0"
-     y="0"
-     xlink:href="#checkbox-normal"
-     id="item-checkbox-normal"
-     transform="translate(0,79.999997)"
-     width="100%"
-     height="100%" />
-  <use
-     x="0"
-     y="0"
-     xlink:href="#checkbox-focused"
-     id="item-checkbox-focused"
-     transform="translate(0,79.999997)"
-     width="100%"
-     height="100%" />
-  <use
-     x="0"
-     y="0"
-     xlink:href="#checkbox-tristate-normal-inactive"
-     id="item-checkbox-tristate-inactive"
-     transform="translate(142.87869,30.999997)"
-     width="100%"
-     height="100%" />
-  <g
-     inkscape:label="#menu-radio-checked-focused"
-     id="menu-radio-checked-focused"
-     style="display:inline;opacity:1"
-     transform="translate(39,276.63782)">
-    <g
-       style="display:inline"
-       id="g6805"
-       inkscape:label="#g10975"
-       transform="translate(19.004264,-4.6992607e-6)">
-      <g
-         id="g6803">
-        <g
-           style="display:inline"
-           id="g6801"
-           transform="matrix(0.93617253,0,0,0.93566004,-96.78315,-244.76084)"
-           inkscape:label="#g15805">
-          <g
-             transform="translate(0,1.0687628)"
-             id="g6785"
-             style="display:inline;opacity:0.06000001;fill:#000000;fill-opacity:1">
-            <g
-               style="display:inline;fill:#000000;fill-opacity:1"
-               id="g6783"
-               transform="matrix(0.5089163,0,0,0.51739823,181.7932,197.56426)">
-              <g
-                 style="fill:#000000;fill-opacity:1"
-                 id="g6781" />
-            </g>
-          </g>
-          <rect
-             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
-             id="rect6787"
-             width="17.090866"
-             height="17.100227"
-             x="206.99057"
-             y="261.97873" />
-          <g
-             id="g6799">
-            <g
-               style="display:inline"
-               id="g6797"
-               transform="matrix(0.5089163,0,0,0.51739823,181.7932,197.56426)">
-              <g
-                 id="g6795">
-                <rect
-                   rx="14.692495"
-                   y="126.5469"
-                   x="51.610752"
-                   height="28.934772"
-                   width="29.384991"
-                   id="rect6793"
-                   style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#999999;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-                   ry="14.467386" />
-              </g>
-            </g>
-          </g>
-        </g>
-      </g>
-    </g>
-    <rect
-       ry="2"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#0860f2;fill-opacity:1;stroke:none;stroke-width:2.08838987;marker:none;filter:url(#filter1488);enable-background:accumulate"
-       id="rect6807"
-       width="4"
-       height="4"
-       x="122"
-       y="6.3621826"
-       rx="1.9988754" />
-  </g>
-  <use
-     x="0"
-     y="0"
-     xlink:href="#menu-checkbox-checked-focused"
-     id="item-checkbox-checked-focused"
-     transform="translate(-0.12131,30.999997)"
-     width="100%"
-     height="100%" />
   <path
      style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
      id="menu-normal"
@@ -9283,5 +8253,545 @@
        id="rect1942"
        style="opacity:0.15"
        d="M 0,0 H 1 V 24 H 0 Z" />
+  </g>
+  <g
+     transform="matrix(1.9999999,0,0,1.9999999,-473,29.275643)"
+     id="checkbox-checked-normal">
+    <rect
+       id="rect13523-7-11"
+       width="16"
+       height="16"
+       x="36"
+       y="0.36218262"
+       style="fill:none" />
+    <rect
+       ry="3"
+       style="fill:#0860f2"
+       id="rect1924"
+       width="14"
+       height="14"
+       x="37"
+       y="1.3621807"
+       rx="3" />
+    <path
+       d="m 47.27757,5.534055 c -0.25562,0 -0.51116,0.0971 -0.70703,0.292969 L 43.03538,9.36218 41.55687,7.885618 c -0.35638,-0.356375 -0.95788,-0.329234 -1.34961,0.0625 -0.39174,0.391734 -0.42083,0.995188 -0.0645,1.351562 l 2.18555,2.183594 0.0644,0.06445 c 0.35638,0.356375 0.95788,0.327281 1.34961,-0.06445 l 4.24219,-4.242187 c 0.39174,-0.391738 0.39174,-1.022326 0,-1.414063 C 47.78864,5.631156 47.5331,5.534055 47.27748,5.534055 Z"
+       id="path1"
+       style="opacity:0.15;fill:#000000;filter:url(#filter1)" />
+    <path
+       d="m 47.27757,5.204967 c -0.25562,0 -0.51116,0.0971 -0.70703,0.292969 L 43.03538,9.033092 41.55687,7.55653 c -0.35638,-0.356375 -0.95788,-0.329234 -1.34961,0.0625 -0.39174,0.391734 -0.42083,0.995188 -0.0645,1.351562 l 2.18555,2.183594 0.0644,0.06445 c 0.35638,0.356375 0.95788,0.327281 1.34961,-0.06445 l 4.24219,-4.242187 c 0.39174,-0.391738 0.39174,-1.022326 0,-1.414063 C 47.78864,5.302068 47.5331,5.204967 47.27748,5.204967 Z"
+       id="rect3977-39-90"
+       style="fill:#ffffff" />
+  </g>
+  <g
+     transform="matrix(1.9999999,0,0,1.9999999,-435,29.275643)"
+     id="checkbox-tristate-normal">
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+       id="rect13523-7-8-6"
+       width="16"
+       height="16"
+       x="36"
+       y="0.36218262" />
+    <rect
+       ry="3"
+       style="fill:#0860f2"
+       id="rect1926"
+       width="14"
+       height="14"
+       x="37"
+       y="1.3621807"
+       rx="3" />
+    <rect
+       transform="rotate(-90)"
+       id="rect1879"
+       width="2"
+       height="7.9999828"
+       x="-9.8375139"
+       y="40.000046"
+       ry="1"
+       style="opacity:0.15;fill:#000000;filter:url(#filter2)" />
+    <rect
+       ry="1"
+       y="40.000046"
+       x="-9.3621721"
+       height="7.9999828"
+       width="2"
+       id="rect3979-7-3-4"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="rotate(-90)" />
+  </g>
+  <g
+     transform="matrix(1.9999999,0,0,1.9999999,-475,29.275643)"
+     id="radio-checked-normal">
+    <rect
+       y="0.36218828"
+       x="116"
+       height="15.999999"
+       width="15.999999"
+       id="rect14348-4-8-5"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1.87183;marker:none;enable-background:accumulate" />
+    <rect
+       ry="7"
+       id="rect1934"
+       width="14"
+       height="14"
+       x="117"
+       y="1.362184"
+       rx="7"
+       style="fill:#0860f2;fill-opacity:1" />
+    <rect
+       rx="2"
+       y="6.8787885"
+       x="122"
+       height="4"
+       width="4"
+       id="rect12"
+       ry="2"
+       style="opacity:0.15;fill:#000000;filter:url(#filter12)" />
+    <rect
+       rx="2"
+       y="6.3621826"
+       x="122"
+       height="4"
+       width="4"
+       id="use15101-5-7-55"
+       ry="2"
+       style="fill:#ffffff" />
+  </g>
+  <g
+     transform="matrix(1.9999999,0,0,1.9999999,-519,29.275643)"
+     id="checkbox-normal">
+    <rect
+       y="0.36218262"
+       x="17"
+       height="16"
+       width="16"
+       id="rect13523-4-0"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
+    <rect
+       ry="3"
+       id="rect5147-9-1-5-7-6-3-70"
+       width="14"
+       height="14"
+       x="18"
+       y="1.3621807"
+       rx="3"
+       style="opacity:0.12;fill:#000000" />
+    <rect
+       rx="2"
+       y="2.3621788"
+       x="19"
+       height="12"
+       width="12"
+       id="rect2426"
+       ry="2.0000012"
+       style="fill:#ffffff" />
+  </g>
+  <g
+     transform="matrix(1.9999999,0,0,1.9999999,-512.99148,29.275623)"
+     id="radio-normal">
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1.87183;marker:none;enable-background:accumulate"
+       id="rect14348-4-3-9"
+       width="15.999999"
+       height="15.999999"
+       x="96.995735"
+       y="0.36218828" />
+    <rect
+       rx="7"
+       y="1.3621877"
+       x="98"
+       height="14"
+       width="14"
+       id="rect1938"
+       ry="7"
+       style="opacity:0.12;fill:#000000" />
+    <rect
+       ry="6"
+       id="rect5147-9-1-7-7-61"
+       width="12"
+       height="12"
+       x="99"
+       y="2.362195"
+       rx="6"
+       style="fill:#ffffff" />
+  </g>
+  <g
+     id="checkbox-checked-normal-inactive"
+     transform="matrix(1.9999999,0,0,1.9999999,-670.75737,565.05741)">
+    <rect
+       y="-248.5287"
+       x="134.87869"
+       height="16"
+       width="16"
+       id="rect1917"
+       style="fill:none" />
+    <rect
+       rx="3.0000017"
+       y="-247.5287"
+       x="135.87869"
+       height="14.000002"
+       width="14.000001"
+       id="rect1928"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.144;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.23077;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       ry="2.9999974" />
+    <rect
+       ry="2.0000012"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.07692;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect1919"
+       width="12.000005"
+       height="12.000005"
+       x="136.87869"
+       y="-246.52872"
+       rx="2.0000017" />
+    <path
+       style="fill:#808080"
+       d="m 146.18433,-243.65296 c -0.25562,0 -0.51116,0.0971 -0.70703,0.29297 l -3.53516,3.53515 -1.43164,-1.42968 c -0.38234,-0.38235 -1.00475,-0.37611 -1.39648,0.0156 -0.39174,0.39173 -0.39992,1.01609 -0.0176,1.39843 l 2.13867,2.13672 0.0176,0.0176 c 0.38234,0.38235 1.00475,0.37416 1.39648,-0.0176 l 4.24219,-4.24218 c 0.39174,-0.39174 0.39174,-1.02233 0,-1.41407 -0.19587,-0.19586 -0.45141,-0.29297 -0.70703,-0.29297 z"
+       id="rect3977-39-0-3" />
+  </g>
+  <g
+     id="checkbox-tristate-normal-inactive"
+     transform="matrix(1.9999999,0,0,1.9999999,-670.75737,565.05741)">
+    <rect
+       id="rect1935"
+       width="16"
+       height="16"
+       x="153.87869"
+       y="-248.5287"
+       style="fill:none" />
+    <rect
+       ry="2.9999993"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.144;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.23077;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect1930"
+       width="14.000006"
+       height="14.000007"
+       x="154.87869"
+       y="-247.5287"
+       rx="3.0000036" />
+    <rect
+       rx="2.0000036"
+       y="-246.52872"
+       x="155.87869"
+       height="12.000006"
+       width="12.000006"
+       id="rect1937"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.07692;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       ry="2.0000012" />
+    <rect
+       ry="1"
+       y="158.00005"
+       x="239.54152"
+       height="7.9999828"
+       width="2"
+       id="rect3979-7-3-91-5"
+       style="fill:#808080;fill-opacity:1;stroke:none"
+       transform="rotate(-90)" />
+  </g>
+  <g
+     id="radio-checked-normal-inactive"
+     transform="matrix(1.9999999,0,0,1.9999999,-634.99999,565.05737)">
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:none;stroke:none;stroke-width:1.87183;marker:none;enable-background:accumulate"
+       id="rect1947"
+       width="15.999999"
+       height="15.999999"
+       x="196"
+       y="-248.52869" />
+    <rect
+       rx="7"
+       y="-247.5287"
+       x="197"
+       height="14"
+       width="14"
+       id="rect1940"
+       ry="7"
+       style="opacity:0.1" />
+    <rect
+       ry="5.9231868"
+       id="rect1949"
+       width="12"
+       height="12"
+       x="198"
+       y="-246.5287"
+       rx="5.8120217"
+       style="opacity:0.6;fill:#ffffff" />
+    <rect
+       rx="1.9988754"
+       y="-242.52869"
+       x="202"
+       height="4"
+       width="4"
+       id="use15101-5-7-2-5"
+       ry="2"
+       style="fill:#808080" />
+  </g>
+  <g
+     id="radio-focused"
+     transform="matrix(1.9999999,0,0,1.9999999,-472.99148,29.275623)">
+    <rect
+       y="0.36218828"
+       x="96.995735"
+       height="15.999999"
+       width="15.999999"
+       id="rect6428"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1.87183;marker:none;enable-background:accumulate" />
+    <rect
+       ry="7"
+       id="rect6430"
+       width="14"
+       height="14"
+       x="98"
+       y="1.3621951"
+       rx="7"
+       style="opacity:0.2;fill:#000000" />
+    <rect
+       rx="6"
+       y="2.362195"
+       x="99"
+       height="12"
+       width="12"
+       id="rect6432"
+       ry="6"
+       style="fill:#ffffff" />
+  </g>
+  <g
+     id="checkbox-focused"
+     transform="matrix(1.9999999,0,0,1.9999999,-479,29.275643)">
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+       id="rect6458"
+       width="16"
+       height="16"
+       x="17"
+       y="0.36218262" />
+    <rect
+       ry="3"
+       id="rect6460"
+       width="14"
+       height="14"
+       x="18"
+       y="1.3621807"
+       rx="3"
+       style="opacity:0.2;fill:#000000" />
+    <rect
+       rx="2"
+       y="2.3621788"
+       x="19"
+       height="12"
+       width="12"
+       id="rect6462"
+       ry="2"
+       style="fill:#ffffff" />
+  </g>
+  <use
+     x="0"
+     y="0"
+     xlink:href="#checkbox-checked-normal"
+     id="menu-checkbox-checked-normal"
+     transform="translate(-0.9999956,84.999996)"
+     width="100%"
+     height="100%" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#checkbox-tristate-normal"
+     id="item-checkbox-tristate-normal"
+     transform="translate(43.999983,123)"
+     width="100%"
+     height="100%" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#radio-checked-normal"
+     id="menu-radio-checked-normal"
+     transform="translate(2e-6,84.999986)"
+     width="100%"
+     height="100%" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#checkbox-normal"
+     id="menu-checkbox-normal"
+     transform="translate(-0.9999956,84.999996)"
+     width="100%"
+     height="100%" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#radio-normal"
+     id="menu-radio-normal"
+     transform="translate(0,85.000006)"
+     width="100%"
+     height="100%" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#radio-focused"
+     id="menu-radio-focused"
+     transform="translate(0,85.000006)"
+     width="100%"
+     height="100%" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#checkbox-focused"
+     id="menu-checkbox-focused"
+     transform="translate(-0.9999956,84.999996)"
+     width="100%"
+     height="100%" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#checkbox-checked-normal"
+     id="item-checkbox-checked-normal"
+     transform="translate(-0.9999994,122.99242)"
+     width="100%"
+     height="100%" />
+  <g
+     id="item-checkbox-tristate-focused"
+     transform="matrix(1.9999999,0,0,1.9999999,-351.00002,153.25067)">
+    <rect
+       y="0.36218262"
+       x="36"
+       height="16"
+       width="16"
+       id="rect6741"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
+    <rect
+       rx="3"
+       y="1.3621807"
+       x="37"
+       height="14"
+       width="14"
+       id="rect6743"
+       ry="3"
+       style="fill:#ffffff" />
+    <rect
+       ry="1"
+       y="40"
+       x="-9.8500004"
+       height="8"
+       width="2"
+       id="rect6759"
+       style="opacity:0.15;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter13)"
+       transform="rotate(-90)" />
+    <rect
+       transform="rotate(-90)"
+       style="fill:#0860f2;fill-opacity:1;stroke:none"
+       id="rect6761"
+       width="2"
+       height="8"
+       x="-9.3621721"
+       y="40"
+       ry="1" />
+  </g>
+  <use
+     x="0"
+     y="0"
+     xlink:href="#checkbox-normal"
+     id="item-checkbox-normal"
+     transform="translate(-0.9999994,122.99242)"
+     width="100%"
+     height="100%" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#checkbox-focused"
+     id="item-checkbox-focused"
+     transform="translate(-0.9999994,122.99242)"
+     width="100%"
+     height="100%" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#checkbox-tristate-normal-inactive"
+     id="item-checkbox-tristate-inactive"
+     transform="translate(119.99999,85.976274)"
+     width="100%"
+     height="100%" />
+  <g
+     id="menu-radio-checked-focused"
+     transform="matrix(1.9999999,0,0,1.9999999,-436.99999,114.27562)">
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1.87183;marker:none;enable-background:accumulate"
+       id="rect6787"
+       width="15.999999"
+       height="15.999999"
+       x="116"
+       y="0.36218828" />
+    <rect
+       rx="7"
+       y="1.3546162"
+       x="117"
+       height="14"
+       width="14"
+       id="rect6793"
+       ry="7"
+       style="fill:#ffffff" />
+    <rect
+       ry="2"
+       id="rect6807"
+       width="4"
+       height="4"
+       x="122"
+       y="6.3621826"
+       rx="2"
+       style="fill:#0860f2;fill-opacity:1" />
+  </g>
+  <g
+     transform="matrix(2,0,0,2,-435,152.27564)"
+     id="item-checkbox-checked-focused">
+    <rect
+       id="rect8"
+       width="16"
+       height="16"
+       x="36"
+       y="0.36218262"
+       style="fill:none" />
+    <rect
+       ry="3"
+       style="fill:#ffffff"
+       id="rect9"
+       width="14"
+       height="14"
+       x="37"
+       y="1.3621807"
+       rx="3" />
+    <path
+       d="m 47.27757,5.534055 c -0.25562,0 -0.51116,0.0971 -0.70703,0.292969 L 43.03538,9.36218 41.55687,7.885618 c -0.35638,-0.356375 -0.95788,-0.329234 -1.34961,0.0625 -0.39174,0.391734 -0.42083,0.995188 -0.0645,1.351562 l 2.18555,2.183594 0.0644,0.06445 c 0.35638,0.356375 0.95788,0.327281 1.34961,-0.06445 l 4.24219,-4.242187 c 0.39174,-0.391738 0.39174,-1.022326 0,-1.414063 C 47.78864,5.631156 47.5331,5.534055 47.27748,5.534055 Z"
+       id="path9"
+       style="opacity:0.15;fill:#000000;filter:url(#filter1)" />
+    <path
+       d="m 47.27757,5.204967 c -0.25562,0 -0.51116,0.0971 -0.70703,0.292969 L 43.03538,9.033092 41.55687,7.55653 c -0.35638,-0.356375 -0.95788,-0.329234 -1.34961,0.0625 -0.39174,0.391734 -0.42083,0.995188 -0.0645,1.351562 l 2.18555,2.183594 0.0644,0.06445 c 0.35638,0.356375 0.95788,0.327281 1.34961,-0.06445 l 4.24219,-4.242187 c 0.39174,-0.391738 0.39174,-1.022326 0,-1.414063 C 47.78864,5.302068 47.5331,5.204967 47.27748,5.204967 Z"
+       id="path10"
+       style="fill:#0860f2;fill-opacity:1" />
+  </g>
+  <g
+     transform="matrix(2,0,0,2,-435,113.27564)"
+     id="menu-checkbox-checked-focused">
+    <rect
+       id="rect13"
+       width="16"
+       height="16"
+       x="36"
+       y="0.36218262"
+       style="fill:none" />
+    <rect
+       ry="3"
+       style="fill:#ffffff"
+       id="rect14"
+       width="14"
+       height="14"
+       x="37"
+       y="1.3621807"
+       rx="3" />
+    <path
+       d="m 47.27757,5.534055 c -0.25562,0 -0.51116,0.0971 -0.70703,0.292969 L 43.03538,9.36218 41.55687,7.885618 c -0.35638,-0.356375 -0.95788,-0.329234 -1.34961,0.0625 -0.39174,0.391734 -0.42083,0.995188 -0.0645,1.351562 l 2.18555,2.183594 0.0644,0.06445 c 0.35638,0.356375 0.95788,0.327281 1.34961,-0.06445 l 4.24219,-4.242187 c 0.39174,-0.391738 0.39174,-1.022326 0,-1.414063 C 47.78864,5.631156 47.5331,5.534055 47.27748,5.534055 Z"
+       id="path14"
+       style="opacity:0.15;fill:#000000;filter:url(#filter1)" />
+    <path
+       d="m 47.27757,5.204967 c -0.25562,0 -0.51116,0.0971 -0.70703,0.292969 L 43.03538,9.033092 41.55687,7.55653 c -0.35638,-0.356375 -0.95788,-0.329234 -1.34961,0.0625 -0.39174,0.391734 -0.42083,0.995188 -0.0645,1.351562 l 2.18555,2.183594 0.0644,0.06445 c 0.35638,0.356375 0.95788,0.327281 1.34961,-0.06445 l 4.24219,-4.242187 c 0.39174,-0.391738 0.39174,-1.022326 0,-1.414063 C 47.78864,5.302068 47.5331,5.204967 47.27748,5.204967 Z"
+       id="path15"
+       style="fill:#0860f2;fill-opacity:1" />
   </g>
 </svg>
