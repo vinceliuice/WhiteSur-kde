@@ -36,15 +36,21 @@ prompt () {
 }
 
 if [[ "$(command -v plasmashell)" ]]; then
-  PLASMA_VERSION="$(plasmashell -v | cut -d ' ' -f 2 | cut -d . -f -1)"
-  if [[ "${PLASMA_VERSION:-}" -ge "6" ]]; then
-    DESK_VERSION="6.0"
-  elif [[ "${PLASMA_VERSION:-}" -ge "5" ]]; then
+  PLASMA_VERSION="$(plasmashell -v | cut -d ' ' -f 2 | cut -d . -f -2)"
+  PLASMA_MAJOR_VERSION="$(echo "$PLASMA_VERSION" | cut -d . -f 1)"
+  PLASMA_MINOR_VERSION="$(echo "$PLASMA_VERSION" | cut -d . -f 2)"
+  if [[ "${PLASMA_MAJOR_VERSION:-}" -ge "6" ]]; then
+    if [[ "${PLASMA_MINOR_VERSION:-}" -lt "2" ]]; then
+      DESK_VERSION="6.0"
+    else
+      DESK_VERSION="6.2"
+    fi
+  elif [[ "${PLASMA_MAJOR_VERSION:-}" -ge "5" ]]; then
     DESK_VERSION="5.0"
   fi
 else
   prompt -e "'plasmashell' not found, using styles for last plasmashell version available."
-  DESK_VERSION="6.0"
+  DESK_VERSION="6.2"
 fi
 
 install () {
