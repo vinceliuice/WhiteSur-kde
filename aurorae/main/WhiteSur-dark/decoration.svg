@@ -5,7 +5,7 @@
    version="1.0"
    id="svg197"
    sodipodi:docname="decoration.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -23,17 +23,22 @@
      showgrid="false"
      showguides="true"
      inkscape:zoom="0.70710678"
-     inkscape:cx="695.08596"
-     inkscape:cy="186.67619"
+     inkscape:cx="46.669048"
+     inkscape:cy="176.06959"
      inkscape:window-width="1920"
-     inkscape:window-height="1000"
+     inkscape:window-height="960"
      inkscape:window-x="0"
-     inkscape:window-y="44"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg197">
     <inkscape:grid
        type="xygrid"
-       id="grid403" />
+       id="grid403"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <defs
      id="defs40">
@@ -475,29 +480,30 @@
      x="169"
      y="59"
      width="4"
-     height="21"
+     height="20"
      fill="#ff00ff" />
   <rect
      id="shadow-hint-bottom-margin"
      x="170"
-     y="208"
+     y="209"
      width="4"
-     height="67"
+     height="66"
      fill="#ff00ff" />
   <rect
      id="shadow-hint-right-margin"
-     x="279"
+     x="280"
      y="140"
-     width="41"
+     width="40"
      height="4"
      fill="#ff00ff" />
   <rect
      id="shadow-hint-left-margin"
      y="134"
-     width="41"
+     width="40"
      height="4"
      fill="#ff00ff"
-     x="35" />
+     x="35"
+     style="stroke-width:0.98773" />
   <rect
      id="hint-top-margin"
      x="181"
