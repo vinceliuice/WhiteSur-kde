@@ -85,7 +85,7 @@ install_plasma() {
 
   cp -r "${SRC_DIR}/color-schemes/"*                                                   "${SCHEMES_DIR}"
   cp -r "${SRC_DIR}/plasma/desktoptheme/${name}${pcolor}"                              "${PLASMA_DIR}"
-  cp -r "${SRC_DIR}/plasma/desktoptheme/icons"                                         "${PLASMA_DIR}/${name}${pcolor}"
+  cp -r "${SRC_DIR}/plasma/desktoptheme/"{icons,weather}                               "${PLASMA_DIR}/${name}${pcolor}"
   cp -r "${SRC_DIR}/plasma/look-and-feel/com.github.vinceliuice.${name}${pcolor}"      "${LOOKFEEL_DIR}"
 }
 
