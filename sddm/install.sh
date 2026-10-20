@@ -42,15 +42,17 @@ if [[ "$(command -v plasmashell)" ]]; then
   if [[ "${PLASMA_MAJOR_VERSION:-}" -ge "6" ]]; then
     if [[ "${PLASMA_MINOR_VERSION:-}" -lt "2" ]]; then
       DESK_VERSION="6.0"
-    else
+    elif [[ "${PLASMA_MINOR_VERSION:-}" -lt "8" ]]; then
       DESK_VERSION="6.2"
+    else
+      DESK_VERSION="6.8"
     fi
   elif [[ "${PLASMA_MAJOR_VERSION:-}" -ge "5" ]]; then
     DESK_VERSION="5.0"
   fi
 else
   prompt -e "'plasmashell' not found, using styles for last plasmashell version available."
-  DESK_VERSION="6.2"
+  DESK_VERSION="6.8"
 fi
 
 install () {
