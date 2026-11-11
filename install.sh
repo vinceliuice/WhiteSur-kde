@@ -198,6 +198,9 @@ done
   for pcolor in "" "-dark"; do
     install_plasma "WhiteSurLiquid" "${pcolor}"
   done
+  # Install Liquid theme Kvantum themes (Kvantum finds a theme by its folder name)
+  [[ -d "${KVANTUM_DIR}/WhiteSurLiquid" ]] && rm -rf "${KVANTUM_DIR}/WhiteSurLiquid"
+  cp -r "${SRC_DIR}/Kvantum/WhiteSurLiquid"                                            "${KVANTUM_DIR}"
   # Install Liquid theme aurorae themes
   for color in "" "-dark"; do
     for window in "${windows[@]:-${WINDOW_VARIANTS[0]}}"; do
