@@ -1,11 +1,11 @@
 [kcminputrc][Mouse]
-cursorTheme=WhiteSurLiquid-cursors
+cursorTheme=WhiteSur-cursors
 
 [kdeglobals][General]
 ColorScheme=WhiteSurLiquid
 
 [kdeglobals][Icons]
-Theme=WhiteSurLiquid
+Theme=WhiteSur
 
 [kdeglobals][KDE]
 widgetStyle=kvantum
